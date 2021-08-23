@@ -176,7 +176,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 20.319221
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -276,8 +276,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1718888496}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.4364, y: -0.0295, z: 0}
-  m_LocalScale: {x: 1.1306, y: 1.0074, z: 1}
+  m_LocalPosition: {x: 6.5315, y: -2.5377, z: 0}
+  m_LocalScale: {x: 1.9715145, y: 2.2002194, z: 1}
   m_Children: []
   m_Father: {fileID: 1172503395}
   m_RootOrder: 0
