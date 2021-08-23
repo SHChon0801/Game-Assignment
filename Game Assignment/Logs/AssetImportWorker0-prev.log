@@ -445,3 +445,4 @@ Received Import Request.
 Start importing Assets/Tilemap/galletcity_tiles_39.asset using Guid(572478f3468234b4abaf4deecd944f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61488a19bcf2df3ec78f1ec4d90d7c9') in 0.012989 seconds 
   Import took 0.017484 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
