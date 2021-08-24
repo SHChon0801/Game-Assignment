@@ -32,7 +32,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +41,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +75,5724 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Idle0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1282
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd92b4ad1aa56e0800000000000000
+      internalID: -1847986738146190468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1282
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b75da912c8dcd00800000000000000
+      internalID: 994605168678239015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1282
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4fd3aec5805df0800000000000000
+      internalID: -193507661417853513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1282
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9d5e03a1861150800000000000000
+      internalID: 5843000103880465395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1282
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69ec545174a51c10800000000000000
+      internalID: 2023704414226540911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1282
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8417810a4af229e0800000000000000
+      internalID: -1647479317904026481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1282
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa00995a4a331770800000000000000
+      internalID: 8580265806075529894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1250
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8585250ac1a1f0800000000000000
+      internalID: -1035324315865347435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1250
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04707d0c9c8403650800000000000000
+      internalID: 6210543917504857920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1250
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0183f739209d20800000000000000
+      internalID: 3283169448638352174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1250
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53d6fa221fa1e40800000000000000
+      internalID: 5628075815627208184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1250
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85dbf9e193ad5150800000000000000
+      internalID: 5863022136997434767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1250
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5689b1cf98e3b000800000000000000
+      internalID: 50639793678812767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1249
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b99967f341ea40800000000000000
+      internalID: 5395668558474229980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eb170bd9ae733c0800000000000000
+      internalID: -4379774149603508599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e62d9ac93367180800000000000000
+      internalID: -9118043647607935400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c0be0a7786d7ae0800000000000000
+      internalID: -1549967833735426965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70db0c0cf9fe6770800000000000000
+      internalID: 8606090798880772222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93daf0f304790a9c0800000000000000
+      internalID: -3917965373620638407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95aa28d2fbff4d90800000000000000
+      internalID: -7111188266167392869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e871c45aa1c2f0800000000000000
+      internalID: -954294365025933742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597bd30c692ba6c60800000000000000
+      internalID: 7812252864167655317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e50db006033c40800000000000000
+      internalID: 5490738970935812150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b073e3584a643570800000000000000
+      internalID: 8445492060104126643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62cbf7075ae62d0800000000000000
+      internalID: -3283505175708555574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152d52e11741ab20800000000000000
+      internalID: 3143872157019088159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477dde807b7c19480800000000000000
+      internalID: -8894108200137271436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5199c30559034af0800000000000000
+      internalID: -413476480047541925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b1f4a4832c06a0800000000000000
+      internalID: -6481766711083026816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e154cb447ef8c0800000000000000
+      internalID: -3963602753274386785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79dfce5f98c6500800000000000000
+      internalID: 390838957010425855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092a481be841bd430800000000000000
+      internalID: 3808660512968057488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3cc4d7af1cc00b0800000000000000
+      internalID: -5761016541725539344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8cc959077f8170800000000000000
+      internalID: 8182889930000469974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d540da0b3d03520800000000000000
+      internalID: 2679874534055894418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81348d0d77e632700800000000000000
+      internalID: 514376243334365976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d89650dea773a0800000000000000
+      internalID: -6667668513469442826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0945e8151f3db0800000000000000
+      internalID: -4810102680338231934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67c3bbb8c8835a0800000000000000
+      internalID: -6541323926986000701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07ff2950e1c36b0800000000000000
+      internalID: -5315340450914144033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241aa92083551970800000000000000
+      internalID: 8724971663020135463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25caef616006f1480800000000000000
+      internalID: -8926310357153174446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ff50ad793cd4c0800000000000000
+      internalID: -4261467935674994419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062bce17204aac360800000000000000
+      internalID: 7190740085458645600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe594c8f211963750800000000000000
+      internalID: 6284369840711177711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3de01df1ffdbf60800000000000000
+      internalID: 8051872220924793830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac14681f459d73a0800000000000000
+      internalID: -6666007706494296913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30db0f9126e952c0800000000000000
+      internalID: -4442266525347622849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a94c9a9f1b1ba9a0800000000000000
+      internalID: -6220848637730338395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5188b6a03dae20800000000000000
+      internalID: 3363397989333818224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ff98455f7a1f300800000000000000
+      internalID: 284192923628208028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72340b891d4ab81d0800000000000000
+      internalID: -3347400677903023321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e759c1023dc5310800000000000000
+      internalID: 1395222119449984601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b66a64fdfa9380800000000000000
+      internalID: -8963572882128588351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb00abf82049f6670800000000000000
+      internalID: 8534202557612556476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92c0d98d50183c50800000000000000
+      internalID: 6645079244115329692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c327e72fe04d06e0800000000000000
+      internalID: -1869766874378067002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70bc2e8bc45f160800000000000000
+      internalID: 7058632347935770546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba27cfec4430830800000000000000
+      internalID: 4036145346843421540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220968aa5e4d49800800000000000000
+      internalID: 618353131730145314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ce177d568e70c0800000000000000
+      internalID: -4576072435373258602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3addfd14e15495300800000000000000
+      internalID: 241300051297557923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c6e93640c03820800000000000000
+      internalID: 2896025968250897812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b548b66891fdc0800000000000000
+      internalID: -3606934259601394296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4fafe3f47da74c0800000000000000
+      internalID: -4288878959757953859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a9fe51d5b61b60800000000000000
+      internalID: 7716554922392133917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac333888b5c55570800000000000000
+      internalID: 8454881271807687848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c507c5681d6dc0800000000000000
+      internalID: -3644229698063054644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390789bc393894d0800000000000000
+      internalID: -3127687008235353801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04b0d0539f837d0800000000000000
+      internalID: -2938324750611824437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e651ba03a9c42210800000000000000
+      internalID: 1307391493940532968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f8743e136fa320800000000000000
+      internalID: 2571382893632352598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97110e8b1f6c7e400800000000000000
+      internalID: 353469837262983545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b222d8091347fa10800000000000000
+      internalID: 1943095539034890937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71454f50f0b057d0800000000000000
+      internalID: -2931648810981179011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb15562c5c97cb20800000000000000
+      internalID: 3154661983590358008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c6367d2a5e4880800000000000000
+      internalID: -8624857085064591113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647dea1a13d73a90800000000000000
+      internalID: -7334161359075183511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d68d3fa45bd3f0800000000000000
+      internalID: -875012590965171961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caaef429b5e39e70800000000000000
+      internalID: 9120886253707766471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf35a9a5f97d3e30800000000000000
+      internalID: 4484874899951009735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f787eb1c0fd74bc0800000000000000
+      internalID: -3798822517562963982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cdf65c30d4177c0800000000000000
+      internalID: -4075391509200905119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79b9fadbc19f6e0800000000000000
+      internalID: -1803378574764566589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a3435fa3411d5f0800000000000000
+      internalID: -733783020830180860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bad0d4bba50cc00800000000000000
+      internalID: 918834084481706831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3715b64a838fec60800000000000000
+      internalID: 7849637305445062460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8309f3b2084baf7e0800000000000000
+      internalID: -1730872644196134856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1bd214da92d4dd0800000000000000
+      internalID: -2500296394021162566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5586af4957940e0800000000000000
+      internalID: -2285166053197064798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb16e480061f6d0800000000000000
+      internalID: -2958477891414672263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e2781e4629d2590800000000000000
+      internalID: -7697335226128191938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547446fc907275610800000000000000
+      internalID: 1609798314895886149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619074cb7c48cb970800000000000000
+      internalID: 8772032167603013910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7968af5304e57d020800000000000000
+      internalID: 2366463759083013783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef1588f05f54880800000000000000
+      internalID: -8627220064097927573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470ef4a875cf67a0800000000000000
+      internalID: -6381665025005844667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6a9dca61116280800000000000000
+      internalID: -9051934625624330830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996f9454248555f0800000000000000
+      internalID: -768562869823379055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb54a14e040d8c90800000000000000
+      internalID: -7166066972799247369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3950fdb521a894240800000000000000
+      internalID: 4776500691258508691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700986e53cbfe28c0800000000000000
+      internalID: -4022000600674168825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f12e0428d1fe9b0800000000000000
+      internalID: -5048784211987521677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260649f21a1fb3990800000000000000
+      internalID: -7405059487690366878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5108fa16ca80a7740800000000000000
+      internalID: 5150438660317872149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36d55cacfe89720800000000000000
+      internalID: 2853294018112873425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794846cca6dde4630800000000000000
+      internalID: 3913308576996951191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6558af9f72bc00800000000000000
+      internalID: 914933998010330018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d203029a170b170800000000000000
+      internalID: 8192172693390372209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd7fd75daa4a15b0800000000000000
+      internalID: -5396919095086056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c93439c98fb53a0800000000000000
+      internalID: -6675468671277360006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c42be66ca8a5c80800000000000000
+      internalID: -8333195575630345167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3697f332d0107cf0800000000000000
+      internalID: -256686683759077825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b35a4f26637f20800000000000000
+      internalID: 3419188895400835309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723e29a9273c7950800000000000000
+      internalID: 6448089418559271538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a66a78220f78e00800000000000000
+      internalID: 1047069469482314369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f450156db0b4940800000000000000
+      internalID: 5281328003132247917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69eca23eff087710800000000000000
+      internalID: 1691119244523923818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7a735c48b98f10800000000000000
+      internalID: 2272550124942687124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9ff0c35bbc4c00800000000000000
+      internalID: 886289195079802345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e7fddcf699a7160800000000000000
+      internalID: 7024095274312105605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86e38a2de415620800000000000000
+      internalID: 2761074713227585761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6833d552b7efabb0800000000000000
+      internalID: -4922461114562561941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b651b135f1fb3640800000000000000
+      internalID: 5060904641683871411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951b91dac523fb60800000000000000
+      internalID: 7778602534429201810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602995554c322f200800000000000000
+      internalID: 212271458592330246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ed9880e9bb81a0800000000000000
+      internalID: -6806142037824511769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3220410f6f6a20800000000000000
+      internalID: 3057784723169492759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28216a6fcf635cd0800000000000000
+      internalID: -2570588025664755670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2262fcc9328d70800000000000000
+      internalID: 9043854554116008937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c1712800f92c00800000000000000
+      internalID: 876495520211779806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a1cdafd220a180800000000000000
+      internalID: -9106240102454942712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3aac9537d243270800000000000000
+      internalID: 8229252392563680201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511b09d33ef1a850800000000000000
+      internalID: 6386665245226242394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259a6965078329a70800000000000000
+      internalID: 8832183874367170898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6449907f9026e2d0800000000000000
+      internalID: -3249874211940252563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7ad2135e997640800000000000000
+      internalID: 5078264134472727791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3002d7515dd440800000000000000
+      internalID: 4962211802059390551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081a5a3d68956cf0800000000000000
+      internalID: -259633808606095352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d33c15a5110d60800000000000000
+      internalID: 7854583023997801461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104401a6f9f6b6320800000000000000
+      internalID: 2552256344305452033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91787fc216e452ec0800000000000000
+      internalID: -3592378948484888807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d503c72fb00f120800000000000000
+      internalID: 2445467733755714953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7470db1887f9e590800000000000000
+      internalID: -7644306728530447236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4bd3f09e3d0380800000000000000
+      internalID: -9003471287756304427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7dd83d2c2502bb0800000000000000
+      internalID: -4962875792635865182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333775250dfed0ac0800000000000000
+      internalID: -3887187225337171149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b68b7b4bbcda80800000000000000
+      internalID: -8440665668729785161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5091de12df56a930800000000000000
+      internalID: 4154113062360682588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7a789f9a6e2040800000000000000
+      internalID: 4624751101046587015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd139729135ae40800000000000000
+      internalID: 5666990211283934064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691e4e980121eb050800000000000000
+      internalID: 5818107630851514774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd573d0d24d5d4010800000000000000
+      internalID: 1174697619366311391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986399b806f8afc30800000000000000
+      internalID: 4393982031275046537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394dfa66eff1f6730800000000000000
+      internalID: 3994446572005872787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c5b0d2a6483920800000000000000
+      internalID: 2970201619351061545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0248a781ebab51f0800000000000000
+      internalID: -1055060702556306932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038655c0c351f8080800000000000000
+      internalID: -9183097767536007120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01155cacf5ca083e0800000000000000
+      internalID: -2053451902657146608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_225
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a8884708c2c3110800000000000000
+      internalID: 1241916527469955592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_226
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96fa1a539fc11f0800000000000000
+      internalID: -1072708602479810050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b087a6240a1f1d0800000000000000
+      internalID: -3318695243280807125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_231
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ae1ce40d5baa30800000000000000
+      internalID: 4227574950940025665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7fcabfa7972e1a0800000000000000
+      internalID: -6781724519751157826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd6fcc8f62802a0800000000000000
+      internalID: -6771119189719065707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03bff9245873b650800000000000000
+      internalID: 6247469410970219275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_235
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4f09fe5b07b970800000000000000
+      internalID: 8770491301860690822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d6b073cc0e1ba0800000000000000
+      internalID: -6116437210373367673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3751168aea97c00800000000000000
+      internalID: 898941638843659198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec4f05199a2eed30800000000000000
+      internalID: 4462551117742427373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f5e24cecae8b560800000000000000
+      internalID: 7329866567321018236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7cd51f34ea02b0800000000000000
+      internalID: -5617426625590428669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7945dff7de00290800000000000000
+      internalID: -7926074210205263892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4312a96b87a5c5310800000000000000
+      internalID: 1395089459084140852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512.9756
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe30583758272f0800000000000000
+      internalID: -976571437986616349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b918df4a692a440800000000000000
+      internalID: 4945680976178158491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_251
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d1c365966f2fef0800000000000000
+      internalID: -75727311433097868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66598768557701a20800000000000000
+      internalID: 3031053758432318822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5324fb51127b2150800000000000000
+      internalID: 5848893959953458011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b734a2c73731c20800000000000000
+      internalID: 3176009139348536108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe426c9918b9ab0800000000000000
+      internalID: -5000260463810515141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f62d77d92e4bc0800000000000000
+      internalID: -3797051430332337922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c720dca9ca60ec30800000000000000
+      internalID: 4386623451479156672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_261
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343269175ca58f30800000000000000
+      internalID: 4577254086379975734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_262
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705caa82a32ae0ae0800000000000000
+      internalID: -1581148048486382329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_263
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ded145940f150a0800000000000000
+      internalID: -6894465356792992395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_264
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58db27c1d3223150800000000000000
+      internalID: 5850778249804372059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_265
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4fa107eb63c3630800000000000000
+      internalID: 3908058768203248810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_266
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37906f1fd5776c7a0800000000000000
+      internalID: -6357262578611779213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6f9b8204e0a830800000000000000
+      internalID: 4080511961981218753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_271
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b381c1444a285530800000000000000
+      internalID: 3843868754610062260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_272
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ccfc9321b46a920800000000000000
+      internalID: 3001168743340428308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_273
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb33c8666fbe430800000000000000
+      internalID: 3813412429798555532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_274
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab387c8c0dc31d0800000000000000
+      internalID: -3369588860420638123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_275
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86c3fb200be4c60800000000000000
+      internalID: 7804368730124478652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_276
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8ac69055a963690800000000000000
+      internalID: -7622735629256972113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680092651641b860800000000000000
+      internalID: 7543887908484155490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_281
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6117a7884280dbf70800000000000000
+      internalID: 9204522166416732438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_282
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f3d4aa7fcbd8d0800000000000000
+      internalID: -2820432615959170331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_283
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c7e95af65c064a0800000000000000
+      internalID: -6602059970414478214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_284
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e238317a334507650800000000000000
+      internalID: 6228570865476535086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_285
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e1854d35ef85f0800000000000000
+      internalID: -752130561425675835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_286
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1241df7b738c540800000000000000
+      internalID: 5028330247323656662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_290
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1baf5acc727c20800000000000000
+      internalID: 3202759493644131061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_291
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88b1845149458980800000000000000
+      internalID: -8537336973671417716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_292
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1778237e1b8d6e80800000000000000
+      internalID: -8183731984965011684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_293
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf20ee65dd64bcb0800000000000000
+      internalID: -4849130135315533909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_294
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7347845d337e7720800000000000000
+      internalID: 2845838721793082238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_295
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f977aeb80399d0800000000000000
+      internalID: -2768859730956127593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_296
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372bc2ddad650600800000000000000
+      internalID: 433873532444419893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb248e8d8aa50f60800000000000000
+      internalID: 7999987838051691456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_301
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e079deda4b9180800000000000000
+      internalID: -9107603500435445675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_302
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a6987224ef1d7b0800000000000000
+      internalID: -5201096534551598485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_303
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af6d73fbcf7ac440800000000000000
+      internalID: 4956914853814824869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_304
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9f7d18c09d6930800000000000000
+      internalID: 4138122821786115174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_305
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca74364a8644250800000000000000
+      internalID: 5927978064775982260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_306
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1889f0098152ac0800000000000000
+      internalID: -3880668496893804113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_310
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4bc4438bce09f0800000000000000
+      internalID: -500238743936218103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_311
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c6cd00e0d709d00800000000000000
+      internalID: 977418618236857379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_312
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb3d1d6015fd360800000000000000
+      internalID: 7196559819293310126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_313
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3418c838f753430800000000000000
+      internalID: 3762053266712642471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_314
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec83abf4d9cd980800000000000000
+      internalID: -8512756229884817842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_315
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6a7a9cd59dbe6e0800000000000000
+      internalID: -1807111828620728639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_316
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ddee3a8ef15b9a0800000000000000
+      internalID: -6218028626471887490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_320
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b153ea19b2cddbc0800000000000000
+      internalID: -3756632413881282127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_321
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffccf7b2b72799f0800000000000000
+      internalID: -461856788237725711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_322
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e764231aaaa2bc0800000000000000
+      internalID: -3807042925678395857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_323
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed6fa53f43a28960800000000000000
+      internalID: 7602818681553251812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_324
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f673c0bb5b236f0800000000000000
+      internalID: -706302376575275223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_325
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142d767db69727d0800000000000000
+      internalID: -2943218090982431721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_326
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e773b85ed87f3480800000000000000
+      internalID: -8917275840804063257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_330
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663fbff994404ba00800000000000000
+      internalID: 771246150450410342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_331
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9464bdd409740260800000000000000
+      internalID: 7062903177430197402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_332
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ddda11421f7fff0800000000000000
+      internalID: -2268137572672150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_333
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8f4c7f28ece8c0800000000000000
+      internalID: -3968541880973554116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_334
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef6b49fcd1ff8a0800000000000000
+      internalID: -6269259378885984615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_335
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c39fbebe8925ae60800000000000000
+      internalID: 7972824408391652296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_336
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ffb15ed7bf08ca0800000000000000
+      internalID: -6016532584033681632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_340
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c8bbe9773a4980800000000000000
+      internalID: -8553963545451510806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_341
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a394e7d58f70cc30800000000000000
+      internalID: 4377639050633581479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_342
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f6442d105e7730800000000000000
+      internalID: 3998721605244483875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_343
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264f5c5803173450800000000000000
+      internalID: 6068339949535446567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_344
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b212f299e25620800000000000000
+      internalID: 2761526338867345545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_345
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f374ac672c30a80800000000000000
+      internalID: -8501737856089768106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_346
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a806ad545da138410800000000000000
+      internalID: 1478054606009950346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_350
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110026cd702e5330800000000000000
+      internalID: 3701431668312113435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_351
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd3d01924dcc7e10800000000000000
+      internalID: 2196856404035059148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_352
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add40361ec6aab810800000000000000
+      internalID: 1781920006644190682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_353
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38829925fcc0b53f0800000000000000
+      internalID: -911120415028860797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_354
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a777cffa373e20800000000000000
+      internalID: 3330195319701350844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_355
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e075a7bee175a0800000000000000
+      internalID: -6525171912561072352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_356
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32bee6f7fc8e950800000000000000
+      internalID: 6478656210201158572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_360
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa99310b8f2f940800000000000000
+      internalID: 5328594744259489734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_361
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25577799aa54fb0800000000000000
+      internalID: -4664134262961384728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_362
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef59fb4defc3cf0800000000000000
+      internalID: -271061687848272154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_363
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f47c3987920eb40800000000000000
+      internalID: 5467415545479909207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_364
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7fb716c49739860800000000000000
+      internalID: 7535499970480961479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_365
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247244e58569bf650800000000000000
+      internalID: 6267768612698990402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_366
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128.97562
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b488e63edd349490800000000000000
+      internalID: -7740493834929797964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_370
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96.97561
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d17a856436eae50800000000000000
+      internalID: 6822499639299087750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_379
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.97561
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74186a7ec9d331d0800000000000000
+      internalID: -3372112215130237829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_380
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.97561
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebca26c22de02150800000000000000
+      internalID: 5845933049936268262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_383
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.97561
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfa04403772987c0800000000000000
+      internalID: -4068677413406462026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_384
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32.97561
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc0d26131d05ac0800000000000000
+      internalID: -3868362069869802463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_387
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bde51fba78dfb00800000000000000
+      internalID: 863995876083686274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_388
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c48a99684ddbac0800000000000000
+      internalID: -3837677632881144823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_389
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3c1229085c2890800000000000000
+      internalID: -7481508084719010746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_390
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591cf3b70d2b41c0800000000000000
+      internalID: -4518468290028496559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_391
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1051d0f9bac8128d0800000000000000
+      internalID: -2872860418549934847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_392
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05036cdc7e1e4d7f0800000000000000
+      internalID: -588597265572679600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Officer_sheet_boxed_0_393
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0.9756088
+        width: 32
+        height: 32.02439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637f7f1e47c81cfa0800000000000000
+      internalID: -5782186012931786954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
