@@ -1,0 +1,520 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 7995 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59392
+Successfully changed project path to: C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
+C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56104
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001675 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003930 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 98.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.636 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 95.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 3.678800 ms (FindLiveObjects: 0.243500 ms CreateObjectMapping: 0.120000 ms MarkObjects: 2.966100 ms  DeleteObjects: 0.347300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Main Menu.unity
+  artifactKey: Guid(0c10415e0635b8d4c8a34ea3ae066816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main Menu.unity using Guid(0c10415e0635b8d4c8a34ea3ae066816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f879a67502fa9a27eb71f6f34fcf2a') in 0.024921 seconds 
+  Import took 0.030180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.931288 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef55330522353dda4e61da19a6dfd0f') in 0.025026 seconds 
+  Import took 0.029354 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004703 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.099 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 94.8 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2562.
+Total: 2.963200 ms (FindLiveObjects: 0.237100 ms CreateObjectMapping: 0.096400 ms MarkObjects: 2.327900 ms  DeleteObjects: 0.300400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006439 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.362 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 94.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 3.012600 ms (FindLiveObjects: 0.225400 ms CreateObjectMapping: 0.097400 ms MarkObjects: 2.362800 ms  DeleteObjects: 0.321000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.457 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 94.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 2.673900 ms (FindLiveObjects: 0.207300 ms CreateObjectMapping: 0.089600 ms MarkObjects: 2.060400 ms  DeleteObjects: 0.315200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8588.511198 seconds.
+  path: Assets/Tilesets/TinyTown/barrel 1.asset
+  artifactKey: Guid(26b24fc1b87d1be4082626698f836f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/barrel 1.asset using Guid(26b24fc1b87d1be4082626698f836f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118816eb36e4b227baa1034fa7ca9baf') in 0.968861 seconds 
+  Import took 1.210304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Tilesets/TinyTown/npc_5.asset
+  artifactKey: Guid(de684487f3fa6b54faefb186815958af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_5.asset using Guid(de684487f3fa6b54faefb186815958af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468708f3f961b7b1f5e56d1e44b75159') in 0.022824 seconds 
+  Import took 0.029642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Tilesets/TinyTown/hero_6.asset
+  artifactKey: Guid(f9f59bb024b58c044b0b02cc313bbae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_6.asset using Guid(f9f59bb024b58c044b0b02cc313bbae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a7cd211da5d88a9ab3e1c3a7cfec12') in 0.024838 seconds 
+  Import took 0.032363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Tilesets/TinyTown/hero_7.asset
+  artifactKey: Guid(1194061153cb17240acfa3862cdf1286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_7.asset using Guid(1194061153cb17240acfa3862cdf1286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25ee4c7c827276b708ca44d210eb7f4') in 0.031496 seconds 
+  Import took 0.037713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tilesets/TinyTown/npc_1.asset
+  artifactKey: Guid(e1aac1ae62699aa45a70abe966e101aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_1.asset using Guid(e1aac1ae62699aa45a70abe966e101aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aacfa8470323bb8217aefaa65ff89c99') in 0.023432 seconds 
+  Import took 0.031141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Tilesets/TinyTown/top-wall-tile.asset
+  artifactKey: Guid(425594ff75d3187499148aebcf850f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/top-wall-tile.asset using Guid(425594ff75d3187499148aebcf850f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42ba6c1ad67cbef45c81f51c0ec6a4d') in 0.028134 seconds 
+  Import took 0.035329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tilesets/TinyTown/hero_11.asset
+  artifactKey: Guid(2ef3d0741e506d2468b5053e7e1d0a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_11.asset using Guid(2ef3d0741e506d2468b5053e7e1d0a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0a106f7528a2f4a5f68df94afdda28') in 0.022863 seconds 
+  Import took 0.031074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Tilesets/TinyTown/top-wall-tile-right.asset
+  artifactKey: Guid(7f58f1a82fdd231458c4cf58dcf4d8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/top-wall-tile-right.asset using Guid(7f58f1a82fdd231458c4cf58dcf4d8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d82616d476fcbecad8ad0842ae288f6') in 0.024271 seconds 
+  Import took 0.031160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Tilesets/TinyTown/hero_5.asset
+  artifactKey: Guid(ab42f1d393014d547a29b6bf850a494e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_5.asset using Guid(ab42f1d393014d547a29b6bf850a494e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc868752bdb8089054053dff417980c') in 0.025995 seconds 
+  Import took 0.031456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Tilesets/TinyTown/rock-small.asset
+  artifactKey: Guid(02a2f47de0391b040a30f1d334c0a0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/rock-small.asset using Guid(02a2f47de0391b040a30f1d334c0a0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8136bc0e4d4c40a236282cd990f59ce') in 0.020106 seconds 
+  Import took 0.030438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tilesets/TinyTown/buildings.png
+  artifactKey: Guid(3166f6ffc3b87484c8a177c6c2e581ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/buildings.png using Guid(3166f6ffc3b87484c8a177c6c2e581ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e9fd94466bf22b46894bc0f56869b1') in 0.166132 seconds 
+  Import took 0.171533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Tilesets/TinyTown/hero_4.asset
+  artifactKey: Guid(d2d506cb701fee74d9c5a395f81efb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_4.asset using Guid(d2d506cb701fee74d9c5a395f81efb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98624da2bcd5b0411fa584ec36e12fa8') in 0.022268 seconds 
+  Import took 0.028623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tilesets/TinyTown/npc_0.asset
+  artifactKey: Guid(dc50d79910505ac48b2fbcc4a075dd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_0.asset using Guid(dc50d79910505ac48b2fbcc4a075dd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486f2cd0cf694a056690a7111cba1b94') in 0.017586 seconds 
+  Import took 0.024542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tilesets/TinyTown/npc_8.asset
+  artifactKey: Guid(f9f22fb5e0e01b34e854f6c14bbdf323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_8.asset using Guid(f9f22fb5e0e01b34e854f6c14bbdf323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40419c260c09a770b9c826d4348d8ea6') in 0.023054 seconds 
+  Import took 0.029080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Tilesets/TinyTown/rock.asset
+  artifactKey: Guid(1b3fe7bee8598694e8f03b0cb02566b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/rock.asset using Guid(1b3fe7bee8598694e8f03b0cb02566b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc301239ffffd4f1d8909d7e0345315c') in 0.025751 seconds 
+  Import took 0.033879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Tilesets/TinyTown/hero_0.asset
+  artifactKey: Guid(699d35fe281b476459e23fa18c2faea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_0.asset using Guid(699d35fe281b476459e23fa18c2faea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7527dec167e45c21ebf3c7cb394f6a2') in 0.026704 seconds 
+  Import took 0.036684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tilesets/TinyTown/hero_1.asset
+  artifactKey: Guid(e2bd81d213680cc45bfdf5376f674b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_1.asset using Guid(e2bd81d213680cc45bfdf5376f674b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20a78852cc08a48ce576c215aedb794') in 0.022895 seconds 
+  Import took 0.031224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Tilesets/TinyTown/building-thin.asset
+  artifactKey: Guid(56963157cb0a2e44780d2a3938c4d79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/building-thin.asset using Guid(56963157cb0a2e44780d2a3938c4d79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56ce0fa401423522bb5999f2fedc388') in 0.023383 seconds 
+  Import took 0.034300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Tilesets/TinyTown/building-inn.asset
+  artifactKey: Guid(1abcdffa0db4276418d85661932e7202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/building-inn.asset using Guid(1abcdffa0db4276418d85661932e7202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '981c275c781819eab57b29eef89b382a') in 0.027327 seconds 
+  Import took 0.034950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Tilesets/TinyTown/hero_8.asset
+  artifactKey: Guid(39088cfb3c39b064d9ec5c5a04a21900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_8.asset using Guid(39088cfb3c39b064d9ec5c5a04a21900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d234537928698f2a89965e52b1fed34') in 0.020635 seconds 
+  Import took 0.028498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Tilesets/TinyTown/top-wall-tile-left.asset
+  artifactKey: Guid(2e5ede70f27a80c4b90124195dadf122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/top-wall-tile-left.asset using Guid(2e5ede70f27a80c4b90124195dadf122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57592f06409d6696410089519165117d') in 0.022310 seconds 
+  Import took 0.030013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Tilesets/TinyTown/building.asset
+  artifactKey: Guid(664822a4c854101438e0743b969879e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/building.asset using Guid(664822a4c854101438e0743b969879e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01cd0ba70a4ef0305048b989ea07b0c9') in 0.022446 seconds 
+  Import took 0.031808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/Tilesets/TinyTown/wall-tile-right.asset
+  artifactKey: Guid(2043215e89c94634cbf7856df028b132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/wall-tile-right.asset using Guid(2043215e89c94634cbf7856df028b132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3a6067ce0e169cd007c5722b4cd406') in 0.019830 seconds 
+  Import took 0.028323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Tilesets/TinyTown/wall-tile.asset
+  artifactKey: Guid(2bdeb54666410f947ad308b63abf6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/wall-tile.asset using Guid(2bdeb54666410f947ad308b63abf6ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8755b6796b27dd44e893110e1f7186') in 0.022662 seconds 
+  Import took 0.028545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tilesets/TinyTown/chest.asset
+  artifactKey: Guid(e165febd05a7e92468907bc1385db4ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/chest.asset using Guid(e165febd05a7e92468907bc1385db4ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63efd8c0bcada971bc06fef5a66c507b') in 0.020297 seconds 
+  Import took 0.027807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Tilesets/TinyTown/hero_9.asset
+  artifactKey: Guid(b8b8ba117f3760849926926703b5136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_9.asset using Guid(b8b8ba117f3760849926926703b5136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4988ee49caa3eb7a6a50319eebd32c40') in 0.022162 seconds 
+  Import took 0.029275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Tilesets/TinyTown/barrel.asset
+  artifactKey: Guid(0e3e340c1c0d9ab4292da7c07eccaf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/barrel.asset using Guid(0e3e340c1c0d9ab4292da7c07eccaf3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1656a73f77f811ee6774c5fc64e9bcc3') in 0.018243 seconds 
+  Import took 0.026851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Tilesets/TinyTown/npc_4.asset
+  artifactKey: Guid(498bef3a844da1449968c943d8c2eab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_4.asset using Guid(498bef3a844da1449968c943d8c2eab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d3bf74eff304acf66d56ae8ec4d4a2') in 0.018879 seconds 
+  Import took 0.027609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Tilesets/TinyTown/npc_10.asset
+  artifactKey: Guid(9e75af9e5f7d1824a8e4ebd663c7727c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_10.asset using Guid(9e75af9e5f7d1824a8e4ebd663c7727c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab72b091902121ec455c33f3da970568') in 0.019901 seconds 
+  Import took 0.028466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Tilesets/TinyTown/tree.asset
+  artifactKey: Guid(9e568575f210eab43905701009072258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/tree.asset using Guid(9e568575f210eab43905701009072258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e897d50515319ed2460c7526ae72bed1') in 0.025305 seconds 
+  Import took 0.034170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Tilesets/TinyTown/hero_3.asset
+  artifactKey: Guid(2cdc3f003b204ea418df0a924b1c20a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_3.asset using Guid(2cdc3f003b204ea418df0a924b1c20a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eadfdfef7462f93b8dfe6328340a014') in 0.021177 seconds 
+  Import took 0.027990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Tilesets/TinyTown/hero_10.asset
+  artifactKey: Guid(bc793fa4cde61e74cb2a16c81d86a7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_10.asset using Guid(bc793fa4cde61e74cb2a16c81d86a7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c778514de707e64521880bf9e7ef8392') in 0.019088 seconds 
+  Import took 0.027695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Tilesets/TinyTown/npc_6.asset
+  artifactKey: Guid(808d8461db4a10246b5510b191ac2356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_6.asset using Guid(808d8461db4a10246b5510b191ac2356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6028ca34e2e5e275a06398fd295d352') in 0.018438 seconds 
+  Import took 0.025671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tilesets/TinyTown/npc_3.asset
+  artifactKey: Guid(6a4f8c64f62fa7d44b96b8afd96fff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_3.asset using Guid(6a4f8c64f62fa7d44b96b8afd96fff1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7bad5e444d38d6ba3c940ebd3b4da9') in 0.019945 seconds 
+  Import took 0.027029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Tilesets/TinyTown/npc_11.asset
+  artifactKey: Guid(d6f652632928e464691918aafdb489c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_11.asset using Guid(d6f652632928e464691918aafdb489c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c58a5466fcb72305101b96a4c726bd3') in 0.024111 seconds 
+  Import took 0.031452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tilesets/TinyTown/npc_2.asset
+  artifactKey: Guid(34244ef0045b2e04789c4f8f942dabd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_2.asset using Guid(34244ef0045b2e04789c4f8f942dabd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e650da5ded0da413dd39b2285d83423') in 0.022568 seconds 
+  Import took 0.028601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Tilesets/TinyTown/hero_2.asset
+  artifactKey: Guid(3f32afd5eacf1924fa8b13443f1c45f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/hero_2.asset using Guid(3f32afd5eacf1924fa8b13443f1c45f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881cedb7069122aae3cb937af435e2ad') in 0.021825 seconds 
+  Import took 0.028196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tilesets/TinyTown/npc_9.asset
+  artifactKey: Guid(7070629418646584ca7161eb95708e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_9.asset using Guid(7070629418646584ca7161eb95708e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5299144419c3d7cf306924f4d2108cf1') in 0.019176 seconds 
+  Import took 0.025584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Tilesets/TinyTown/npc_7.asset
+  artifactKey: Guid(6b883927aeee5b142a7e2332e8d6d9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/npc_7.asset using Guid(6b883927aeee5b142a7e2332e8d6d9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e90ec7651fcf47c7f565e6b56941786') in 0.019502 seconds 
+  Import took 0.027749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Tilesets/TinyTown/wall-tile-left.asset
+  artifactKey: Guid(1dbfde204c59e0a409f47f054c32466b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/wall-tile-left.asset using Guid(1dbfde204c59e0a409f47f054c32466b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b06625c1d0acb17d0eaaa415793b74') in 0.018579 seconds 
+  Import took 0.024788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.761169 seconds.
+  path: Assets/Tilesets/TinyTown/buildings.png
+  artifactKey: Guid(3166f6ffc3b87484c8a177c6c2e581ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/buildings.png using Guid(3166f6ffc3b87484c8a177c6c2e581ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e83b8b2d4f8e4be2a44d89704e4d4e') in 0.036325 seconds 
+  Import took 0.044176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5752.205244 seconds.
+  path: Assets/Tilesets/TinyTown/buildings.png
+  artifactKey: Guid(3166f6ffc3b87484c8a177c6c2e581ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyTown/buildings.png using Guid(3166f6ffc3b87484c8a177c6c2e581ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e790ffd7416b06b7ef2d073ceb66c898') in 0.170414 seconds 
+  Import took 0.226412 seconds .
+
