@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 9c155b7a3247dfb438f2361d99a7c00d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5886329935852269578
+    second: royal flash (white)_0
+  - first:
+      213: -6315428742895696011
+    second: royal flash (white)_1
+  - first:
+      213: 8257610741807504546
+    second: royal flash (white)_2
+  - first:
+      213: 532289607064097097
+    second: royal flash (white)_3
+  - first:
+      213: -7069243254038118879
+    second: royal flash (white)_4
+  - first:
+      213: -5150483544283889849
+    second: royal flash (white)_5
+  - first:
+      213: 5323958985343849801
+    second: royal flash (white)_6
+  - first:
+      213: 525292801076791439
+    second: royal flash (white)_7
+  - first:
+      213: 5433739658059350198
+    second: royal flash (white)_8
+  - first:
+      213: -5661900409746971622
+    second: royal flash (white)_9
+  - first:
+      213: 1248794932654885734
+    second: royal flash (white)_10
+  - first:
+      213: -6792278617934001434
+    second: royal flash (white)_11
+  - first:
+      213: 154271049974798111
+    second: royal flash (white)_12
+  - first:
+      213: -5301512879071425668
+    second: royal flash (white)_13
+  - first:
+      213: 9119425388587106445
+    second: royal flash (white)_14
+  - first:
+      213: 2717872129320378689
+    second: royal flash (white)_15
+  - first:
+      213: -5954963736931276347
+    second: royal flash (white)_16
+  - first:
+      213: 7127770283714918352
+    second: royal flash (white)_17
+  - first:
+      213: 1194744231435984351
+    second: royal flash (white)_18
+  - first:
+      213: -7810127444573654784
+    second: royal flash (white)_19
+  - first:
+      213: -5032476433158730974
+    second: royal flash (white)_20
+  - first:
+      213: -2764395684784425444
+    second: royal flash (white)_21
+  - first:
+      213: 856115977706527172
+    second: royal flash (white)_22
+  - first:
+      213: -9092642162205123234
+    second: royal flash (white)_23
+  - first:
+      213: 8559638527922638473
+    second: royal flash (white)_24
+  - first:
+      213: -3825581829814386694
+    second: royal flash (white)_25
+  - first:
+      213: -1936997049972587681
+    second: royal flash (white)_26
+  - first:
+      213: 2757412703068501092
+    second: royal flash (white)_27
+  - first:
+      213: 3602070488032244216
+    second: royal flash (white)_28
+  - first:
+      213: -8426964432979449787
+    second: royal flash (white)_29
+  - first:
+      213: -6549713530282947725
+    second: royal flash (white)_30
+  - first:
+      213: -4832080185782473747
+    second: royal flash (white)_31
+  - first:
+      213: 2432507094006108793
+    second: royal flash (white)_32
+  - first:
+      213: -2021069491360885045
+    second: royal flash (white)_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: royal flash (white)_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e3b3407b005ed90800000000000000
+      internalID: -7069243254038118879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb671418ec588b0800000000000000
+      internalID: -5150483544283889849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455b285d7082e940800000000000000
+      internalID: 5323958985343849801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88804bf4073a4700800000000000000
+      internalID: 525292801076791439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17dfdcd3b4142200800000000000000
+      internalID: 154271049974798111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0ac6002e3d66b0800000000000000
+      internalID: -5301512879071425668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80c96af215be8e70800000000000000
+      internalID: 9119425388587106445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141631d3d42d7b520800000000000000
+      internalID: 2717872129320378689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8c05e85d092ab0800000000000000
+      internalID: -5032476433158730974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163dc565c4e2a9d0800000000000000
+      internalID: -2764395684784425444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9dbb122f881eb00800000000000000
+      internalID: 856115977706527172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d160cd02270d180800000000000000
+      internalID: -9092642162205123234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8396e3e1f9c670800000000000000
+      internalID: 8559638527922638473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff79b6389dc8eac0800000000000000
+      internalID: -3825581829814386694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53876912776e15e0800000000000000
+      internalID: -1936997049972587681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643c897e3c444620800000000000000
+      internalID: 2757412703068501092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 37
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1741736002df130800000000000000
+      internalID: 3602070488032244216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a8650f786d0b80800000000000000
+      internalID: -8426964432979449787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b4aeefe3eba15a0800000000000000
+      internalID: -6549713530282947725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6b382ca001fcb0800000000000000
+      internalID: -4832080185782473747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9721ad3605002c120800000000000000
+      internalID: 2432507094006108793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royal flash (white)_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc61e057108b3f3e0800000000000000
+      internalID: -2021069491360885045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
