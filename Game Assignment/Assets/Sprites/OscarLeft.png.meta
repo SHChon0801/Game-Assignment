@@ -1,0 +1,3432 @@
+fileFormatVersion: 2
+guid: f3655aff65432874cbaa299c661d000d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8384214097182168099
+    second: Officer_sheet_unboxed_left_0_1
+  - first:
+      213: 8486485413464233732
+    second: IdleLeft5
+  - first:
+      213: -4732878610277964011
+    second: IdleLeft4
+  - first:
+      213: 2214174036100745241
+    second: IdleLeft3
+  - first:
+      213: -3304249685261484886
+    second: IdleLeft2
+  - first:
+      213: 4644741744992669362
+    second: IdleLeft1
+  - first:
+      213: -8056907168024579004
+    second: IdleLeft0
+  - first:
+      213: 7295699112482304016
+    second: walkLeft6
+  - first:
+      213: -9126625172239503337
+    second: walkLeft5
+  - first:
+      213: -1467685905237599274
+    second: walkLeft4
+  - first:
+      213: 728304277177294489
+    second: walkLeft3
+  - first:
+      213: 4273469570458752195
+    second: walkLeft2
+  - first:
+      213: -908542474006002140
+    second: walkLeft1
+  - first:
+      213: -1965611369934836064
+    second: walkLeft0
+  - first:
+      213: 2653833285914067997
+    second: runLeft6
+  - first:
+      213: 4746445617078364913
+    second: runLeft5
+  - first:
+      213: 3565006580713598383
+    second: runLeft4
+  - first:
+      213: 1116928278519774117
+    second: runLeft3
+  - first:
+      213: -5372277496107187792
+    second: runLeft2
+  - first:
+      213: -1804407113777523709
+    second: runLeft1
+  - first:
+      213: 2328636066785907054
+    second: runLeft0
+  - first:
+      213: 7289125885666128317
+    second: Officer_sheet_unboxed_left_0_27
+  - first:
+      213: -4354416333895070294
+    second: Officer_sheet_unboxed_left_0_28
+  - first:
+      213: -274499239973808826
+    second: Officer_sheet_unboxed_left_0_29
+  - first:
+      213: 917280463768179501
+    second: Officer_sheet_unboxed_left_0_30
+  - first:
+      213: -2144624752527059705
+    second: Officer_sheet_unboxed_left_0_31
+  - first:
+      213: 591066801725630719
+    second: Officer_sheet_unboxed_left_0_32
+  - first:
+      213: 4139714984330172003
+    second: Officer_sheet_unboxed_left_0_33
+  - first:
+      213: -5534697510503644887
+    second: Officer_sheet_unboxed_left_0_35
+  - first:
+      213: 3645985049361577771
+    second: Officer_sheet_unboxed_left_0_36
+  - first:
+      213: -1920406127759882035
+    second: Officer_sheet_unboxed_left_0_37
+  - first:
+      213: -3768266765705447875
+    second: Officer_sheet_unboxed_left_0_38
+  - first:
+      213: -5929317521168730261
+    second: Officer_sheet_unboxed_left_0_39
+  - first:
+      213: -5863869767790441114
+    second: Officer_sheet_unboxed_left_0_40
+  - first:
+      213: -5090401283547573978
+    second: Officer_sheet_unboxed_left_0_41
+  - first:
+      213: 1224872735715032360
+    second: Officer_sheet_unboxed_left_0_45
+  - first:
+      213: -7866848825742988186
+    second: Officer_sheet_unboxed_left_0_46
+  - first:
+      213: -4791541892973018061
+    second: Officer_sheet_unboxed_left_0_47
+  - first:
+      213: 5865935222051344183
+    second: Officer_sheet_unboxed_left_0_48
+  - first:
+      213: -3383459522844682411
+    second: Officer_sheet_unboxed_left_0_49
+  - first:
+      213: 2848922841747865143
+    second: Officer_sheet_unboxed_left_0_50
+  - first:
+      213: 543979673088211687
+    second: Officer_sheet_unboxed_left_0_51
+  - first:
+      213: 5333361558590761450
+    second: drawBatonLeft6
+  - first:
+      213: -4618689239599585128
+    second: drawBatonLeft5
+  - first:
+      213: -9036230260607210241
+    second: drawBatonLeft4
+  - first:
+      213: 3301991958574640314
+    second: drawBatonLeft3
+  - first:
+      213: 2239069423779059875
+    second: drawBatonLeft2
+  - first:
+      213: 2726865296158954073
+    second: drawBatonLeft1
+  - first:
+      213: 2563368269794185894
+    second: drawBatonLeft0
+  - first:
+      213: -3711120614055672003
+    second: batonWalkLeft6
+  - first:
+      213: -1737353743251197803
+    second: batonWalkLeft5
+  - first:
+      213: -2216054326078057927
+    second: batonWalkLeft4
+  - first:
+      213: 4840979599191077599
+    second: batonWalkLeft3
+  - first:
+      213: -3956782506816681466
+    second: batonWalkLeft2
+  - first:
+      213: -2791430747691814530
+    second: batonWalkLeft1
+  - first:
+      213: -3981201240013443455
+    second: batonWalkLeft0
+  - first:
+      213: 5570595816974194331
+    second: batonAttack6
+  - first:
+      213: 2162738872157955988
+    second: batonAttack5
+  - first:
+      213: -3046207968237974639
+    second: batonAttack4
+  - first:
+      213: 8205303725399249673
+    second: batonAttack3
+  - first:
+      213: 6283982895628373063
+    second: batonAttack2
+  - first:
+      213: 2716803178252893102
+    second: batonAttack1
+  - first:
+      213: 630498330298296497
+    second: batonAttack0
+  - first:
+      213: 1266793781944839257
+    second: batonRun6
+  - first:
+      213: 3527149461186968634
+    second: batonRun5
+  - first:
+      213: 4252438387211254393
+    second: batonRun4
+  - first:
+      213: -1238983937139512958
+    second: batonRun3
+  - first:
+      213: -402426574021921466
+    second: batonRun2
+  - first:
+      213: 7413572664429041008
+    second: batonRun1
+  - first:
+      213: 3754204889074936144
+    second: batonRun0
+  - first:
+      213: -6474140541561137737
+    second: punchLeft6
+  - first:
+      213: -3507630475094057562
+    second: punchLeft5
+  - first:
+      213: -5451410962255120377
+    second: punchLeft4
+  - first:
+      213: 6133094576888958629
+    second: punchLeft3
+  - first:
+      213: -8398746701335559873
+    second: punchLeft2
+  - first:
+      213: -7276679097370570419
+    second: punchLeft1
+  - first:
+      213: 8081907755497150290
+    second: punchLeft0
+  - first:
+      213: -7479457864869008110
+    second: kickLeft6
+  - first:
+      213: -1650337287906549128
+    second: kickLeft5
+  - first:
+      213: 3734258101339884621
+    second: kickLeft4
+  - first:
+      213: 2238497571597141704
+    second: kickLeft3
+  - first:
+      213: 6725931828049075184
+    second: kickLeft2
+  - first:
+      213: 2331555227830298254
+    second: kickLeft1
+  - first:
+      213: -2697409147901883493
+    second: kickLeft0
+  - first:
+      213: -3283018572456368794
+    second: Officer_sheet_unboxed_left_0_115
+  - first:
+      213: -458361092973141765
+    second: Officer_sheet_unboxed_left_0_116
+  - first:
+      213: 3462814360277931167
+    second: Officer_sheet_unboxed_left_0_117
+  - first:
+      213: -6460112231680857377
+    second: hurtLeft3
+  - first:
+      213: 9177253824080231763
+    second: hurtLeft2
+  - first:
+      213: -7316585564487035974
+    second: hurtLeft1
+  - first:
+      213: -5446154942400115408
+    second: hurtLeft0
+  - first:
+      213: 3396063416781313922
+    second: Officer_sheet_unboxed_left_0_124
+  - first:
+      213: -3154643823968187550
+    second: Officer_sheet_unboxed_left_0_125
+  - first:
+      213: 1859986479068353265
+    second: Officer_sheet_unboxed_left_0_126
+  - first:
+      213: -8744898540085736983
+    second: Officer_sheet_unboxed_left_0_127
+  - first:
+      213: -5890069124697123696
+    second: damageLeft2
+  - first:
+      213: 2816222743940744049
+    second: damageLeft1
+  - first:
+      213: 1885164313507664030
+    second: damageLeft0
+  - first:
+      213: 8201665818381786025
+    second: Officer_sheet_unboxed_left_0_133
+  - first:
+      213: 8544987765992669964
+    second: Officer_sheet_unboxed_left_0_134
+  - first:
+      213: -615565342636324796
+    second: Officer_sheet_unboxed_left_0_135
+  - first:
+      213: 5035098999296583816
+    second: Officer_sheet_unboxed_left_0_136
+  - first:
+      213: -4762262292016303891
+    second: Officer_sheet_unboxed_left_0_137
+  - first:
+      213: 1580480231818872026
+    second: Officer_sheet_unboxed_left_0_138
+  - first:
+      213: -7318632424082979935
+    second: Officer_sheet_unboxed_left_0_139
+  - first:
+      213: -7158074947380323419
+    second: pushLeft6
+  - first:
+      213: 2797174281862706510
+    second: pushLeft5
+  - first:
+      213: 3374111960713343683
+    second: pushLeft4
+  - first:
+      213: -5919453078071696632
+    second: pushLeft3
+  - first:
+      213: -8276691076777327230
+    second: pushLeft2
+  - first:
+      213: -2191856973322497393
+    second: pushLeft1
+  - first:
+      213: -5651589654960469079
+    second: pushLeft0
+  - first:
+      213: -7107149702236705276
+    second: dealthLeft2
+  - first:
+      213: -1224463398588739458
+    second: dealthLeft1
+  - first:
+      213: 7359965980295405713
+    second: dealthLeft0
+  - first:
+      213: -2378135763727084385
+    second: dealthLeft6
+  - first:
+      213: 7254430389196179160
+    second: dealthLeft5
+  - first:
+      213: -5796517660430368692
+    second: dealthLeft4
+  - first:
+      213: -2846537510282997861
+    second: dealthLeft3
+  - first:
+      213: 6041932975292386074
+    second: Officer_sheet_unboxed_left_0_158
+  - first:
+      213: 8177896424166967927
+    second: Officer_sheet_unboxed_left_0_159
+  - first:
+      213: 3420101283138735357
+    second: Officer_sheet_unboxed_left_0_160
+  - first:
+      213: -4866259400457605111
+    second: Officer_sheet_unboxed_left_0_161
+  - first:
+      213: -3633094181800015785
+    second: Officer_sheet_unboxed_left_0_162
+  - first:
+      213: -8830562923389524239
+    second: Officer_sheet_unboxed_left_0_163
+  - first:
+      213: 2623875062530967078
+    second: Officer_sheet_unboxed_left_0_164
+  - first:
+      213: 1183939974706630810
+    second: Officer_sheet_unboxed_left_0_166
+  - first:
+      213: 7632816270931851335
+    second: Officer_sheet_unboxed_left_0_167
+  - first:
+      213: 2388091840116259795
+    second: Officer_sheet_unboxed_left_0_168
+  - first:
+      213: -6962213897849176781
+    second: Officer_sheet_unboxed_left_0_169
+  - first:
+      213: -5431362688958732236
+    second: Officer_sheet_unboxed_left_0_170
+  - first:
+      213: 349766921524809782
+    second: Officer_sheet_unboxed_left_0_171
+  - first:
+      213: 6893594074443965044
+    second: Officer_sheet_unboxed_left_0_172
+  - first:
+      213: 1971257813522338602
+    second: Officer_sheet_unboxed_left_0_179
+  - first:
+      213: -349719493403825012
+    second: Officer_sheet_unboxed_left_0_180
+  - first:
+      213: 5533145833015940463
+    second: Officer_sheet_unboxed_left_0_181
+  - first:
+      213: -4870176161016727179
+    second: Officer_sheet_unboxed_left_0_182
+  - first:
+      213: -5667773254076469772
+    second: Officer_sheet_unboxed_left_0_183
+  - first:
+      213: -7731272877773149655
+    second: Officer_sheet_unboxed_left_0_184
+  - first:
+      213: 798490794199400626
+    second: Officer_sheet_unboxed_left_0_185
+  - first:
+      213: -7288594373335532611
+    second: Officer_sheet_unboxed_left_0_187
+  - first:
+      213: 7778180751235909860
+    second: Officer_sheet_unboxed_left_0_188
+  - first:
+      213: 6277072804471629826
+    second: Officer_sheet_unboxed_left_0_189
+  - first:
+      213: -6212388640551820506
+    second: Officer_sheet_unboxed_left_0_190
+  - first:
+      213: -6794192423004157619
+    second: Officer_sheet_unboxed_left_0_191
+  - first:
+      213: -7890777312858843071
+    second: Officer_sheet_unboxed_left_0_192
+  - first:
+      213: -4315351201492023599
+    second: Officer_sheet_unboxed_left_0_193
+  - first:
+      213: -209657659452122482
+    second: Officer_sheet_unboxed_left_0_197
+  - first:
+      213: -2247072958420580578
+    second: Officer_sheet_unboxed_left_0_198
+  - first:
+      213: -8096317906193197384
+    second: Officer_sheet_unboxed_left_0_199
+  - first:
+      213: 7278082818442874637
+    second: Officer_sheet_unboxed_left_0_200
+  - first:
+      213: -5588273976657292670
+    second: Officer_sheet_unboxed_left_0_201
+  - first:
+      213: -8481096433019120405
+    second: Officer_sheet_unboxed_left_0_202
+  - first:
+      213: 2069686374515357786
+    second: Officer_sheet_unboxed_left_0_203
+  - first:
+      213: 8795174407951669031
+    second: Officer_sheet_unboxed_left_0_207
+  - first:
+      213: -2787068085468108491
+    second: Officer_sheet_unboxed_left_0_208
+  - first:
+      213: -4333955728794349615
+    second: Officer_sheet_unboxed_left_0_209
+  - first:
+      213: 5247016381425762270
+    second: Officer_sheet_unboxed_left_0_210
+  - first:
+      213: -1146827932667278126
+    second: Officer_sheet_unboxed_left_0_211
+  - first:
+      213: 1892059219456783771
+    second: Officer_sheet_unboxed_left_0_212
+  - first:
+      213: 8553684858906377983
+    second: Officer_sheet_unboxed_left_0_213
+  - first:
+      213: -5924486647920945423
+    second: Officer_sheet_unboxed_left_0_215
+  - first:
+      213: -5021665798595691577
+    second: Officer_sheet_unboxed_left_0_216
+  - first:
+      213: 8782903288348983939
+    second: Officer_sheet_unboxed_left_0_217
+  - first:
+      213: 3315693265608626847
+    second: Officer_sheet_unboxed_left_0_218
+  - first:
+      213: 7698989405875143555
+    second: Officer_sheet_unboxed_left_0_219
+  - first:
+      213: -596893978442674086
+    second: Officer_sheet_unboxed_left_0_220
+  - first:
+      213: 1616158694354649432
+    second: Officer_sheet_unboxed_left_0_221
+  - first:
+      213: 1687107551033534714
+    second: Officer_sheet_unboxed_left_0_226
+  - first:
+      213: -8461408893944661277
+    second: Officer_sheet_unboxed_left_0_227
+  - first:
+      213: 6262322256991333927
+    second: Officer_sheet_unboxed_left_0_228
+  - first:
+      213: -8317560009134243774
+    second: Officer_sheet_unboxed_left_0_229
+  - first:
+      213: -4286040211701049287
+    second: Officer_sheet_unboxed_left_0_230
+  - first:
+      213: 6527890884335391546
+    second: Officer_sheet_unboxed_left_0_231
+  - first:
+      213: -3424885188843382809
+    second: Officer_sheet_unboxed_left_0_232
+  - first:
+      213: -9170339158051009303
+    second: Officer_sheet_unboxed_left_0_238
+  - first:
+      213: 9112047830422550519
+    second: Officer_sheet_unboxed_left_0_239
+  - first:
+      213: -2507838327391314128
+    second: Officer_sheet_unboxed_left_0_240
+  - first:
+      213: 2808295991981899707
+    second: Officer_sheet_unboxed_left_0_241
+  - first:
+      213: -5834887885226928873
+    second: Officer_sheet_unboxed_left_0_242
+  - first:
+      213: 6692108713207692052
+    second: Officer_sheet_unboxed_left_0_243
+  - first:
+      213: 9158124717594276195
+    second: Officer_sheet_unboxed_left_0_244
+  - first:
+      213: -6364417150808883598
+    second: Officer_sheet_unboxed_left_0_250
+  - first:
+      213: 954952277530584020
+    second: Officer_sheet_unboxed_left_0_251
+  - first:
+      213: 3447781966609659255
+    second: Officer_sheet_unboxed_left_0_252
+  - first:
+      213: -4867806769998775141
+    second: Officer_sheet_unboxed_left_0_253
+  - first:
+      213: 5393836521993378695
+    second: Officer_sheet_unboxed_left_0_254
+  - first:
+      213: 9188087408890340526
+    second: Officer_sheet_unboxed_left_0_255
+  - first:
+      213: -1622861302297760501
+    second: Officer_sheet_unboxed_left_0_256
+  - first:
+      213: -3715626683557738560
+    second: Officer_sheet_unboxed_left_0_262
+  - first:
+      213: 2652806178863411067
+    second: Officer_sheet_unboxed_left_0_263
+  - first:
+      213: 6280836825479590649
+    second: Officer_sheet_unboxed_left_0_264
+  - first:
+      213: 2729441369385545767
+    second: Officer_sheet_unboxed_left_0_265
+  - first:
+      213: 1268119913334160394
+    second: Officer_sheet_unboxed_left_0_266
+  - first:
+      213: -6453617654564225473
+    second: Officer_sheet_unboxed_left_0_267
+  - first:
+      213: 2561851867313334404
+    second: Officer_sheet_unboxed_left_0_268
+  - first:
+      213: -8556559498814276991
+    second: Officer_sheet_unboxed_left_0_274
+  - first:
+      213: 791768846056969704
+    second: Officer_sheet_unboxed_left_0_275
+  - first:
+      213: 5826252367533695200
+    second: Officer_sheet_unboxed_left_0_276
+  - first:
+      213: -7535085844966258219
+    second: Officer_sheet_unboxed_left_0_277
+  - first:
+      213: 6787830535067915861
+    second: Officer_sheet_unboxed_left_0_278
+  - first:
+      213: 1392594778415325221
+    second: Officer_sheet_unboxed_left_0_279
+  - first:
+      213: 7405982468510449563
+    second: Officer_sheet_unboxed_left_0_280
+  - first:
+      213: 2049193369998703016
+    second: Officer_sheet_unboxed_left_0_286
+  - first:
+      213: 1170476333013984595
+    second: Officer_sheet_unboxed_left_0_287
+  - first:
+      213: 2226068637469874759
+    second: Officer_sheet_unboxed_left_0_288
+  - first:
+      213: 3562941463807845937
+    second: Officer_sheet_unboxed_left_0_289
+  - first:
+      213: -3700808772594722387
+    second: Officer_sheet_unboxed_left_0_290
+  - first:
+      213: -361957539621641256
+    second: Officer_sheet_unboxed_left_0_291
+  - first:
+      213: 8252553978021428403
+    second: Officer_sheet_unboxed_left_0_292
+  - first:
+      213: -1880947739127843152
+    second: Officer_sheet_unboxed_left_0_296
+  - first:
+      213: -8423077732849540439
+    second: Officer_sheet_unboxed_left_0_297
+  - first:
+      213: 191756356076406051
+    second: Officer_sheet_unboxed_left_0_298
+  - first:
+      213: 6590855146469683867
+    second: Officer_sheet_unboxed_left_0_299
+  - first:
+      213: -7399487807898214330
+    second: Officer_sheet_unboxed_left_0_300
+  - first:
+      213: 5537874474377038982
+    second: Officer_sheet_unboxed_left_0_301
+  - first:
+      213: -8156138167705244895
+    second: Officer_sheet_unboxed_left_0_302
+  - first:
+      213: -6002248396663689278
+    second: Officer_sheet_unboxed_left_0_307
+  - first:
+      213: -5950240603844337596
+    second: Officer_sheet_unboxed_left_0_308
+  - first:
+      213: -4008535453219395955
+    second: Officer_sheet_unboxed_left_0_309
+  - first:
+      213: 5830384995995908870
+    second: Officer_sheet_unboxed_left_0_310
+  - first:
+      213: -5473764515662201290
+    second: Officer_sheet_unboxed_left_0_311
+  - first:
+      213: -7744500284531534827
+    second: Officer_sheet_unboxed_left_0_312
+  - first:
+      213: -8106721197703861116
+    second: Officer_sheet_unboxed_left_0_313
+  - first:
+      213: 6700889059546826126
+    second: IdleLeftRiotShield6
+  - first:
+      213: -2493100522017912079
+    second: IdleLeftRiotShield5
+  - first:
+      213: -6835397355128618519
+    second: IdleLeftRiotShield4
+  - first:
+      213: 31936302183306633
+    second: IdleLeftRiotShield3
+  - first:
+      213: 1222675493090125223
+    second: IdleLeftRiotShield2
+  - first:
+      213: 2892279971063475139
+    second: IdleLeftRiotShield1
+  - first:
+      213: 5873556014354016249
+    second: IdleLeftRiotShield0
+  - first:
+      213: 8391628430018703808
+    second: WalkLeftRiotShield6
+  - first:
+      213: 4458200812425801730
+    second: WalkLeftRiotShield5
+  - first:
+      213: -3760405923953408182
+    second: WalkLeftRiotShield4
+  - first:
+      213: 3141845559064783409
+    second: WalkLeftRiotShield3
+  - first:
+      213: 2322816227714586198
+    second: WalkLeftRiotShield2
+  - first:
+      213: -6178329186825867017
+    second: WalkLeftRiotShield1
+  - first:
+      213: -8079572188671939541
+    second: WalkLeftRiotShield0
+  - first:
+      213: -6954046350976927946
+    second: RunLeftRiotShield6
+  - first:
+      213: -1213463957236227107
+    second: RunLeftRiotShield5
+  - first:
+      213: 8791609692783982406
+    second: RunLeftRiotShield4
+  - first:
+      213: 5382163802631990995
+    second: RunLeftRiotShield3
+  - first:
+      213: -5030476714458406385
+    second: RunLeftRiotShield2
+  - first:
+      213: -7746462397487081457
+    second: RunLeftRiotShield1
+  - first:
+      213: -3112910448355582931
+    second: RunLeftRiotShield0
+  - first:
+      213: 2574843100803077517
+    second: DefendLeftRiotShield6
+  - first:
+      213: 8162700763911215180
+    second: DefendLeftRiotShield5
+  - first:
+      213: -4293791368189199526
+    second: DefendLeftRiotShield4
+  - first:
+      213: -6238147627704260428
+    second: DefendLeftRiotShield3
+  - first:
+      213: 1097123532240638933
+    second: DefendLeftRiotShield2
+  - first:
+      213: -4792822358931649567
+    second: DefendLeftRiotShield1
+  - first:
+      213: -670156679117916614
+    second: DefendLeftRiotShield0
+  - first:
+      213: -678994989072892221
+    second: IdleLeftBaton6
+  - first:
+      213: -2644086921319581644
+    second: IdleLeftBaton5
+  - first:
+      213: -6316841481065543792
+    second: IdleLeftBaton4
+  - first:
+      213: -2744819215339872379
+    second: IdleLeftBaton3
+  - first:
+      213: 8082211387406851402
+    second: IdleLeftBaton2
+  - first:
+      213: -6147413801758168039
+    second: IdleLeftBaton1
+  - first:
+      213: -9180254845676999947
+    second: IdleLeftBaton0
+  - first:
+      213: 1484718762376773559
+    second: Officer_sheet_unboxed_left_0_368
+  - first:
+      213: 523133907799398881
+    second: Officer_sheet_unboxed_left_0_371
+  - first:
+      213: -5091818776490956282
+    second: Officer_sheet_unboxed_left_0_372
+  - first:
+      213: 8949419812883919920
+    second: PickUpLeft
+  - first:
+      213: 3178965008060999086
+    second: IdleLeft6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleLeft5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1281
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d11d258d06c570800000000000000
+      internalID: 8486485413464233732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1281
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176655daff615eb0800000000000000
+      internalID: -4732878610277964011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1281
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9188dacfd835abe10800000000000000
+      internalID: 2214174036100745241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1281
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacfaccfa62f422d0800000000000000
+      internalID: -3304249685261484886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1281
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be47b71200757040800000000000000
+      internalID: 4644741744992669362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1281
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b8953e9d103090800000000000000
+      internalID: -8056907168024579004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1249
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010f3a340b78f3560800000000000000
+      internalID: 7295699112482304016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1249
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b682c2c6b75180800000000000000
+      internalID: -9126625172239503337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1249
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db1770027bb1abe0800000000000000
+      internalID: -1467685905237599274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1249
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99edc81a1e47b1a00800000000000000
+      internalID: 728304277177294489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1249
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c492a9bee96e4b30800000000000000
+      internalID: 4273469570458752195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1249
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426848dfe653463f0800000000000000
+      internalID: -908542474006002140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walkLeft0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1249
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea0909fdeb8b4e0800000000000000
+      internalID: -1965611369934836064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1217
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14040c105f44d420800000000000000
+      internalID: 2653833285914067997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1219
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6aa71423ced140800000000000000
+      internalID: 4746445617078364913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1217
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad2d51d892797130800000000000000
+      internalID: 3565006580713598383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1217
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab72c00a50208f00800000000000000
+      internalID: 1116928278519774117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1221
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c4b1b416d175b0800000000000000
+      internalID: -5372277496107187792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1217
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045a194a4575f6e0800000000000000
+      internalID: -1804407113777523709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runLeft0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1217
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61dfe34a2af05020800000000000000
+      internalID: 2328636066785907054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1088
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a6868418e30a40800000000000000
+      internalID: 5333361558590761450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1088
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986fb18b9e17efb0800000000000000
+      internalID: -4618689239599585128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1088
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2fd7347cd89280800000000000000
+      internalID: -9036230260607210241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1088
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abca90e013803dd20800000000000000
+      internalID: 3301991958574640314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1088
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81acf17c5c21f10800000000000000
+      internalID: 2239069423779059875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1088
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95215ef0a85c7d520800000000000000
+      internalID: 2726865296158954073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawBatonLeft0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1088
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2179d2cd9e29320800000000000000
+      internalID: 2563368269794185894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1056
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d370590c6737f7cc0800000000000000
+      internalID: -3711120614055672003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1056
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903154b9fda3e7e0800000000000000
+      internalID: -1737353743251197803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1056
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9325623e45efe31e0800000000000000
+      internalID: -2216054326078057927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1056
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd272befb4d9e2340800000000000000
+      internalID: 4840979599191077599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1056
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a46b3264fa619c0800000000000000
+      internalID: -3956782506816681466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1056
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f9bc4688d249d0800000000000000
+      internalID: -2791430747691814530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonWalkLeft0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1056
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e67a5c09eefb8c0800000000000000
+      internalID: -3981201240013443455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1024
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96160a916bbe4d40800000000000000
+      internalID: 5570595816974194331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1024
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49767e8ab87930e10800000000000000
+      internalID: 2162738872157955988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1024
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b063d0ef1b9b5d0800000000000000
+      internalID: -3046207968237974639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1024
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9039c92c3481fd170800000000000000
+      internalID: 8205303725399249673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1024
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4f8c4621353750800000000000000
+      internalID: 6283982895628373063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1024
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab7a6ca81604b520800000000000000
+      internalID: 2716803178252893102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonAttack0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1024
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b828e014eaffb800800000000000000
+      internalID: 630498330298296497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 992
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cee70ab3e849110800000000000000
+      internalID: 1266793781944839257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 994
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c72cf4fb3f2f030800000000000000
+      internalID: 3527149461186968634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 992
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a36face22b30b30800000000000000
+      internalID: 4252438387211254393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 992
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28962607cae3ecee0800000000000000
+      internalID: -1238983937139512958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 996
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645fe3fb92b4a6af0800000000000000
+      internalID: -402426574021921466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 992
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d6db3f0d42e660800000000000000
+      internalID: 7413572664429041008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batonRun0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 992
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a85bb47d991430800000000000000
+      internalID: 3754204889074936144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 960
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51b4a9a7b3726a0800000000000000
+      internalID: -6474140541561137737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 960
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1fa8caa4625fc0800000000000000
+      internalID: -3507630475094057562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 960
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708fc16dc92b854b0800000000000000
+      internalID: -5451410962255120377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 960
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae475de5012d1550800000000000000
+      internalID: 6133094576888958629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 960
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f310964af58a17b80800000000000000
+      internalID: -8398746701335559873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 960
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4197b81aea040b90800000000000000
+      internalID: -7276679097370570419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punchLeft0
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 960
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d1e9a844b82070800000000000000
+      internalID: 8081907755497150290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 928
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2bf323b0a33890800000000000000
+      internalID: -7479457864869008110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 928
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872afb20bf2d819e0800000000000000
+      internalID: -1650337287906549128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 928
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c0dfd45ffb2d330800000000000000
+      internalID: 3734258101339884621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 928
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c64f996eadb01f10800000000000000
+      internalID: 2238497571597141704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 928
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbdb52bc5f475d50800000000000000
+      internalID: 6725931828049075184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 928
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a70960295b5020800000000000000
+      internalID: 2331555227830298254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickLeft0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 928
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b4b65eba0e09ad0800000000000000
+      internalID: -2697409147901883493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurtLeft3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 896
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa18507221956a0800000000000000
+      internalID: -6460112231680857377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurtLeft2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 896
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db5e5dab72c5f70800000000000000
+      internalID: 9177253824080231763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurtLeft1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 897
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3dffba134467a90800000000000000
+      internalID: -7316585564487035974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurtLeft0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 896
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dc0825fee5b64b0800000000000000
+      internalID: -5446154942400115408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageLeft2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 864
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0949ee78655424ea0800000000000000
+      internalID: -5890069124697123696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageLeft1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 864
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c6f42aab351720800000000000000
+      internalID: 2816222743940744049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damageLeft0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 864
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901ed184f2792a10800000000000000
+      internalID: 1885164313507664030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd5cda2c869ac90800000000000000
+      internalID: -7158074947380323419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f845703f81d620800000000000000
+      internalID: 2797174281862706510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c237b293f043de20800000000000000
+      internalID: 3374111960713343683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a1f0c9c0e9dda0800000000000000
+      internalID: -5919453078071696632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ca054159432d80800000000000000
+      internalID: -8276691076777327230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8256aa12b5f491e0800000000000000
+      internalID: -2191856973322497393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pushLeft0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 800
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0fc7f6258191b0800000000000000
+      internalID: -5651589654960469079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 768
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e68a840055e5d90800000000000000
+      internalID: -7107149702236705276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 768
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7096a6c605d10fe0800000000000000
+      internalID: -1224463398588739458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 768
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190a776701ad32660800000000000000
+      internalID: 7359965980295405713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 768
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94156f6f1a2ffed0800000000000000
+      internalID: -2378135763727084385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 768
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d646dbd00aeca460800000000000000
+      internalID: 7254430389196179160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 768
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4005cb26e1ae8fa0800000000000000
+      internalID: -5796517660430368692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dealthLeft3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 768
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc1cb47311f78d0800000000000000
+      internalID: -2846537510282997861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850799c8175efc50800000000000000
+      internalID: 6700889059546826126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa08c3c84ab66dd0800000000000000
+      internalID: -2493100522017912079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10aec225ac321a0800000000000000
+      internalID: -6835397355128618519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985531bc5e5717000800000000000000
+      internalID: 31936302183306633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 256
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5663902e0d7f010800000000000000
+      internalID: 1222675493090125223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb273a4f41732820800000000000000
+      internalID: 2892279971063475139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftRiotShield0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f72eeb5310138150800000000000000
+      internalID: 5873556014354016249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1755aa89d057470800000000000000
+      internalID: 8391628430018703808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2007ff1b406bedd30800000000000000
+      internalID: 4458200812425801730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478b735cba50dbc0800000000000000
+      internalID: -3760405923953408182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae137c3e31a9b20800000000000000
+      internalID: 3141845559064783409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d0736d0d4c3020800000000000000
+      internalID: 2322816227714586198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0f0d9b65a224aa0800000000000000
+      internalID: -6178329186825867017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkLeftRiotShield0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c651dd6e79fdf80800000000000000
+      internalID: -8079572188671939541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 192
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6373b6a10b34e7f90800000000000000
+      internalID: -6954046350976927946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e139c5f8e82fe0800000000000000
+      internalID: -1213463957236227107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 192
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64735468f62120a70800000000000000
+      internalID: 8791609692783982406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de68da667941ba40800000000000000
+      internalID: 5382163802631990995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0225dfa418203ab0800000000000000
+      internalID: -5030476714458406385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089cd3fd790f7490800000000000000
+      internalID: -7746462397487081457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunLeftRiotShield0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 192
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd92ca078bcc4d0800000000000000
+      internalID: -3112910448355582931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859bb7782eabb320800000000000000
+      internalID: 2574843100803077517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48dcb0d81db74170800000000000000
+      internalID: 8162700763911215180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bb17700836964c0800000000000000
+      internalID: -4293791368189199526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ed32a8c5ad69a0800000000000000
+      internalID: -6238147627704260428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3dced2a04c93f00800000000000000
+      internalID: 1097123532240638933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb445045797c7db0800000000000000
+      internalID: -4792822358931649567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefendLeftRiotShield0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36325d0d0023b6f0800000000000000
+      internalID: -670156679117916614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3a08a7a9b396f0800000000000000
+      internalID: -678994989072892221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4387d7b34f05e4bd0800000000000000
+      internalID: -2644086921319581644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c2aa14221658a0800000000000000
+      internalID: -6316841481065543792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f1001677178e9d0800000000000000
+      internalID: -2744819215339872379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 128
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d900a7f68c92070800000000000000
+      internalID: 8082211387406851402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ceedab7bfffaaa0800000000000000
+      internalID: -6147413801758168039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeftBaton0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa2ddf5bde299080800000000000000
+      internalID: -9180254845676999947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickUpLeft
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f9cc57e9b23c70800000000000000
+      internalID: 8949419812883919920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1281
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56fdaf4d3fd1c20800000000000000
+      internalID: 3178965008060999086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

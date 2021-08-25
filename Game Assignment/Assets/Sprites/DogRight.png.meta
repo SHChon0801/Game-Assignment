@@ -16,16 +16,16 @@ TextureImporter:
     second: sPlexrD - Imgur_3
   - first:
       213: 6793705164665878384
-    second: sPlexrD - Imgur_4
+    second: DogMoveRight0
   - first:
       213: -350751798405100347
-    second: sPlexrD - Imgur_5
+    second: DogMoveRight1
   - first:
       213: 497300648758838786
-    second: sPlexrD - Imgur_6
+    second: DogMoveRight2
   - first:
       213: -6804711274342115297
-    second: sPlexrD - Imgur_7
+    second: DogMoveRight3
   - first:
       213: 4821499606619468525
     second: sPlexrD - Imgur_8
@@ -46,10 +46,10 @@ TextureImporter:
     second: sPlexrD - Imgur_13
   - first:
       213: -7539158328522808478
-    second: sPlexrD - Imgur_14
+    second: DogMoveRight
   - first:
       213: -9121374415049383370
-    second: sPlexrD - Imgur_15
+    second: DogMoveLeft0
   - first:
       213: -7988467641074331866
     second: sPlexrD - Imgur_16
@@ -64,25 +64,25 @@ TextureImporter:
     second: sPlexrD - Imgur_19
   - first:
       213: 7159242020499056132
-    second: sPlexrD - Imgur_20
+    second: DogIdleRight0
   - first:
       213: 5370694762213947495
-    second: sPlexrD - Imgur_21
+    second: DogIdleRight1
   - first:
       213: 553972358806266890
-    second: sPlexrD - Imgur_22
+    second: DogIdleRight2
   - first:
       213: -4798615832772483916
-    second: sPlexrD - Imgur_23
+    second: DogIdleRight3
   - first:
       213: -8231866740039000389
-    second: sPlexrD - Imgur_24
+    second: DogBark0
   - first:
       213: -3107756895781467842
-    second: sPlexrD - Imgur_25
+    second: DogBark1
   - first:
       213: -3330469781605946905
-    second: sPlexrD - Imgur_26
+    second: DogBark2
   - first:
       213: 4872435639535395936
     second: sPlexrD - Imgur_27
@@ -94,16 +94,16 @@ TextureImporter:
     second: sPlexrD - Imgur_29
   - first:
       213: -4055620311609854756
-    second: sPlexrD - Imgur_30
+    second: DogRunRight0
   - first:
       213: -6036698582502264812
-    second: sPlexrD - Imgur_31
+    second: DogRunRight1
   - first:
       213: -6624376902754545502
-    second: sPlexrD - Imgur_32
+    second: DogRunRight2
   - first:
       213: 1078906950571176602
-    second: sPlexrD - Imgur_33
+    second: DogRunRight3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -205,91 +205,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sPlexrD - Imgur_0
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 257
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a32177bae85cc7650800000000000000
-      internalID: 6232073200926659130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_1
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 258
-        width: 16
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c96bca10425cb7b0800000000000000
-      internalID: -5207196633866212924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_2
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 257
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aee4d90fbbd30d950800000000000000
-      internalID: 6471740541936422634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_3
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 258
-        width: 16
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 756baf4f93789ee00800000000000000
-      internalID: 1074538669097530967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_4
+      name: DogMoveRight0
       rect:
         serializedVersion: 2
         x: 4
@@ -297,7 +213,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -310,7 +226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_5
+      name: DogMoveRight1
       rect:
         serializedVersion: 2
         x: 35
@@ -318,7 +234,7 @@ TextureImporter:
         width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -331,7 +247,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_6
+      name: DogMoveRight2
       rect:
         serializedVersion: 2
         x: 68
@@ -339,7 +255,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -352,7 +268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_7
+      name: DogMoveRight3
       rect:
         serializedVersion: 2
         x: 99
@@ -360,7 +276,7 @@ TextureImporter:
         width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -368,90 +284,6 @@ TextureImporter:
       bones: []
       spriteID: f181ebd162fc091a0800000000000000
       internalID: -6804711274342115297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_8
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 193
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de23d39c85869e240800000000000000
-      internalID: 4821499606619468525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_9
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 193
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47c5af7ee6ed0a7a0800000000000000
-      internalID: -6367845305182167948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_10
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 193
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9fcbdadd0bf07e30800000000000000
-      internalID: 4499372064668110746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_11
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 193
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb403dc72c1cf0d90800000000000000
-      internalID: -7129266644042185541
       vertices: []
       indices: 
       edges: []
@@ -465,7 +297,7 @@ TextureImporter:
         width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -486,7 +318,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -499,7 +331,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_14
+      name: DogMoveRight
       rect:
         serializedVersion: 2
         x: 69
@@ -507,7 +339,7 @@ TextureImporter:
         width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -520,7 +352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_15
+      name: DogMoveLeft0
       rect:
         serializedVersion: 2
         x: 101
@@ -528,7 +360,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -541,91 +373,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_16
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 129
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62fcf025103432190800000000000000
-      internalID: -7988467641074331866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_17
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 130
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea7c75a1266cdef50800000000000000
-      internalID: 6912399127734634414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_18
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 130
-        width: 16
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1394c9bfdeef86c0800000000000000
-      internalID: -4138826887868411109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_19
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 130
-        width: 16
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2c45ef5a5ef792b0800000000000000
-      internalID: -5577709949365695443
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_20
+      name: DogIdleRight0
       rect:
         serializedVersion: 2
         x: 4
@@ -633,7 +381,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -646,7 +394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_21
+      name: DogIdleRight1
       rect:
         serializedVersion: 2
         x: 36
@@ -654,7 +402,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -667,7 +415,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_22
+      name: DogIdleRight2
       rect:
         serializedVersion: 2
         x: 68
@@ -675,7 +423,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -688,7 +436,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_23
+      name: DogIdleRight3
       rect:
         serializedVersion: 2
         x: 97
@@ -696,7 +444,7 @@ TextureImporter:
         width: 26
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -709,7 +457,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_24
+      name: DogBark0
       rect:
         serializedVersion: 2
         x: 1
@@ -717,7 +465,7 @@ TextureImporter:
         width: 26
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -730,7 +478,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_25
+      name: DogBark1
       rect:
         serializedVersion: 2
         x: 33
@@ -738,7 +486,7 @@ TextureImporter:
         width: 26
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -751,7 +499,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_26
+      name: DogBark2
       rect:
         serializedVersion: 2
         x: 65
@@ -759,7 +507,7 @@ TextureImporter:
         width: 29
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -772,70 +520,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_27
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 66
-        width: 17
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 064e57d166e5e9340800000000000000
-      internalID: 4872435639535395936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_28
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 38
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f70cd58514fc00e90800000000000000
-      internalID: -7061416336154574721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_29
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 38
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f74f555932c252b60800000000000000
-      internalID: 7720625667537499263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_30
+      name: DogRunRight0
       rect:
         serializedVersion: 2
         x: 97
@@ -843,7 +528,7 @@ TextureImporter:
         width: 26
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -856,7 +541,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_31
+      name: DogRunRight1
       rect:
         serializedVersion: 2
         x: 4
@@ -864,7 +549,7 @@ TextureImporter:
         width: 27
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -877,7 +562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_32
+      name: DogRunRight2
       rect:
         serializedVersion: 2
         x: 34
@@ -885,7 +570,7 @@ TextureImporter:
         width: 29
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -898,7 +583,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sPlexrD - Imgur_33
+      name: DogRunRight3
       rect:
         serializedVersion: 2
         x: 66
@@ -906,7 +591,7 @@ TextureImporter:
         width: 29
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
