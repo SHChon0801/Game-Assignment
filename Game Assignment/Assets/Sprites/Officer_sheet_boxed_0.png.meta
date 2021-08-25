@@ -544,13 +544,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_60
+      name: drawBaton0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 1089
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,13 +565,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_61
+      name: drawBaton1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 43
+        y: 1089
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,13 +586,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_62
+      name: drawBaton2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 72
+        y: 1089
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -607,13 +607,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_63
+      name: drawBaton3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 104
+        y: 1089
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,13 +628,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_64
+      name: drawBaton4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 136
+        y: 1089
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,13 +649,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_65
+      name: drawBaton5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 171
+        y: 1089
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,13 +670,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_66
+      name: drawBaton6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1088.9756
-        width: 32
-        height: 32.02439
+        x: 203
+        y: 1089
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -691,13 +691,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_70
+      name: batonWalk0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 8
+        y: 1057
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,13 +712,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_71
+      name: batonWalk1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 40
+        y: 1057
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -733,13 +733,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_72
+      name: batonWalk2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 72
+        y: 1057
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -754,13 +754,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_73
+      name: batonWalk3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 104
+        y: 1057
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -775,13 +775,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_74
+      name: batonWalk4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 136
+        y: 1057
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,13 +796,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_75
+      name: batonWalk5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 167
+        y: 1057
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,13 +817,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_76
+      name: batonWalk6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1056.9756
-        width: 32
-        height: 32.02439
+        x: 200
+        y: 1057
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,13 +838,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_80
+      name: batonAttack0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 8
+        y: 1025
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,13 +859,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_81
+      name: batonAttack1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 37
+        y: 1025
+        width: 16
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,13 +880,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_82
+      name: batonAttack2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 76
+        y: 1025
+        width: 19
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -901,13 +901,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_83
+      name: batonAttack3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 108
+        y: 1025
+        width: 19
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,13 +922,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_84
+      name: batonAttack4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 133
+        y: 1025
+        width: 16
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -943,13 +943,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_85
+      name: batonAttack5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 172
+        y: 1025
+        width: 19
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -964,13 +964,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_86
+      name: batonAttack6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1024.9756
-        width: 32
-        height: 32.02439
+        x: 204
+        y: 1025
+        width: 19
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,13 +985,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_90
+      name: batonRun0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 10
+        y: 993
+        width: 12
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,13 +1006,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_91
+      name: batonRun1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 40
+        y: 993
+        width: 16
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1027,13 +1027,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_92
+      name: batonRun2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 70
+        y: 997
+        width: 18
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,13 +1048,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_93
+      name: batonRun3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 105
+        y: 993
+        width: 15
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1069,13 +1069,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_94
+      name: batonRun4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 139
+        y: 993
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1090,13 +1090,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_95
+      name: batonRun5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 167
+        y: 995
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,13 +1111,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_96
+      name: batonRun6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 992.9756
-        width: 32
-        height: 32.02439
+        x: 199
+        y: 993
+        width: 18
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1132,13 +1132,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_100
+      name: punch0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 961
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1153,13 +1153,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_101
+      name: punch1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 43
+        y: 961
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,13 +1174,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_102
+      name: punch2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 75
+        y: 961
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1195,13 +1195,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_103
+      name: punch3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 107
+        y: 961
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1216,13 +1216,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_104
+      name: punch4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 139
+        y: 961
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,13 +1237,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_105
+      name: punch5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 171
+        y: 961
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,13 +1258,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_106
+      name: punch6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 960.9756
-        width: 32
-        height: 32.02439
+        x: 203
+        y: 961
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,13 +1279,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_110
+      name: kick0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 9
+        y: 929
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1300,13 +1300,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_111
+      name: kick1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 39
+        y: 929
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,13 +1321,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_112
+      name: kick2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 73
+        y: 929
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,13 +1342,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_113
+      name: kick3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 103
+        y: 929
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1363,13 +1363,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_114
+      name: kick4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 137
+        y: 929
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1384,13 +1384,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_115
+      name: kick5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 167
+        y: 929
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1405,13 +1405,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_116
+      name: kick6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 928.9756
-        width: 32
-        height: 32.02439
+        x: 199
+        y: 929
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1426,13 +1426,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_120
+      name: hurt0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896.9756
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 897
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,13 +1447,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_121
+      name: hurt1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 896.9756
-        width: 32
-        height: 32.02439
+        x: 42
+        y: 898
+        width: 14
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1468,13 +1468,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_122
+      name: hurt2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 896.9756
-        width: 32
-        height: 32.02439
+        x: 72
+        y: 897
+        width: 21
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1489,13 +1489,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_123
+      name: hurt3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 896.9756
-        width: 32
-        height: 32.02439
+        x: 108
+        y: 897
+        width: 16
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,76 +1510,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_124
+      name: damage0
       rect:
         serializedVersion: 2
-        x: 128
-        y: 896.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab1bd214da92d4dd0800000000000000
-      internalID: -2500296394021162566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_125
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 896.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a5586af4957940e0800000000000000
-      internalID: -2285166053197064798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_126
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 896.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97cb16e480061f6d0800000000000000
-      internalID: -2958477891414672263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_130
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 864.9756
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 865
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1594,13 +1531,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_131
+      name: damage1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 864.9756
-        width: 32
-        height: 32.02439
+        x: 42
+        y: 865
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1615,13 +1552,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_132
+      name: damage2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 864.9756
-        width: 32
-        height: 32.02439
+        x: 75
+        y: 865
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1636,97 +1573,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_133
+      name: push0
       rect:
         serializedVersion: 2
-        x: 96
-        y: 864.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7968af5304e57d020800000000000000
-      internalID: 2366463759083013783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_134
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 864.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6ef1588f05f54880800000000000000
-      internalID: -8627220064097927573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_135
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 864.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5470ef4a875cf67a0800000000000000
-      internalID: -6381665025005844667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_136
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 864.9756
-        width: 32
-        height: 32.02439
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bd6a9dca61116280800000000000000
-      internalID: -9051934625624330830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Officer_sheet_boxed_0_150
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 12
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1741,13 +1594,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_151
+      name: push1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 44
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1762,13 +1615,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_152
+      name: push2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 76
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1783,13 +1636,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_153
+      name: push3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 108
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,13 +1657,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_154
+      name: push4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 140
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1825,13 +1678,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_155
+      name: push5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 172
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1846,13 +1699,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_156
+      name: push6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 800.9756
-        width: 32
-        height: 32.02439
+        x: 204
+        y: 801
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1867,13 +1720,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_160
+      name: death0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 10
+        y: 769
+        width: 7
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1888,13 +1741,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_161
+      name: death1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 42
+        y: 769
+        width: 10
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1909,13 +1762,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_162
+      name: death2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 70
+        y: 769
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1930,13 +1783,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_163
+      name: dealth3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 103
+        y: 769
+        width: 22
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1951,13 +1804,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_164
+      name: dealth4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 129
+        y: 769
+        width: 30
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1972,13 +1825,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_165
+      name: dealth5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 161
+        y: 769
+        width: 30
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1993,13 +1846,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_166
+      name: dealth6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 768.9756
-        width: 32
-        height: 32.02439
+        x: 193
+        y: 769
+        width: 30
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2014,13 +1867,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_220
+      name: shimmey0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 9
+        y: 577
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2035,13 +1888,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_221
+      name: shimmey1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 39
+        y: 577
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2056,13 +1909,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_222
+      name: shimmey2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 72
+        y: 577
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2077,13 +1930,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_223
+      name: shimmey3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 105
+        y: 577
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2098,13 +1951,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_224
+      name: shimmey4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 138
+        y: 577
+        width: 10
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2119,13 +1972,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_225
+      name: shimmey5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 169
+        y: 577
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2140,13 +1993,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_226
+      name: shimmey6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 576.9756
-        width: 32
-        height: 32.02439
+        x: 200
+        y: 577
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2161,13 +2014,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_320
+      name: IdleRiotShield0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 257
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2182,13 +2035,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_321
+      name: IdleRiotShield1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 43
+        y: 257
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2203,13 +2056,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_322
+      name: IdleRiotShield2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 75
+        y: 257
+        width: 14
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2224,13 +2077,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_323
+      name: IdleRiotShield3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 107
+        y: 257
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2245,13 +2098,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_324
+      name: IdleRiotShield4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 139
+        y: 257
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2266,13 +2119,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_325
+      name: IdleRiotShield5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 171
+        y: 257
+        width: 14
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2287,13 +2140,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_326
+      name: IdleRiotShield6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256.97562
-        width: 32
-        height: 32.02439
+        x: 203
+        y: 257
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2308,13 +2161,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_330
+      name: WalkRiotShield0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 225
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2329,13 +2182,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_331
+      name: WalkRiotShield1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 43
+        y: 225
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2350,13 +2203,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_332
+      name: WalkRiotShield2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 75
+        y: 225
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2371,13 +2224,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_333
+      name: WalkRiotShield3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 106
+        y: 225
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2392,13 +2245,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_334
+      name: WalkRiotShield4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 139
+        y: 225
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2413,13 +2266,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_335
+      name: WalkRiotShield5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 171
+        y: 225
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2434,13 +2287,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_336
+      name: WalkRiotShield6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 224.97562
-        width: 32
-        height: 32.02439
+        x: 203
+        y: 225
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2455,13 +2308,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_340
+      name: RunRiotShield0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 10
+        y: 193
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2476,13 +2329,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_341
+      name: RunRiotShield1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 40
+        y: 193
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,13 +2350,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_342
+      name: RunRiotShield2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 70
+        y: 197
+        width: 18
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2518,13 +2371,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_343
+      name: RunRiotShield3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 105
+        y: 193
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2539,13 +2392,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_344
+      name: RunRiotShield4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 139
+        y: 193
+        width: 11
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2560,13 +2413,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_345
+      name: RunRiotShield5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 167
+        y: 195
+        width: 18
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2581,13 +2434,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_346
+      name: RunRiotShield6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192.97562
-        width: 32
-        height: 32.02439
+        x: 199
+        y: 193
+        width: 18
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2602,13 +2455,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_350
+      name: DefendRiotShield0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 11
+        y: 161
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2623,13 +2476,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_351
+      name: DefendRiotShield1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 43
+        y: 161
+        width: 12
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2644,13 +2497,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_352
+      name: DefendRiotShield2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 75
+        y: 161
+        width: 12
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2665,13 +2518,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_353
+      name: DefendRiotShield3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 107
+        y: 161
+        width: 12
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2686,13 +2539,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_354
+      name: DefendRiotShield4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 139
+        y: 161
+        width: 12
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2707,13 +2560,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_355
+      name: DefendRiotShield5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 171
+        y: 161
+        width: 12
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2728,13 +2581,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_356
+      name: DefendRiotShield6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 160.97562
-        width: 32
-        height: 32.02439
+        x: 203
+        y: 161
+        width: 14
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2749,13 +2602,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_360
+      name: IdleBaton0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 8
+        y: 129
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2770,13 +2623,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_361
+      name: IdleBaton1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 40
+        y: 129
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2791,13 +2644,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_362
+      name: IdleBaton2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 72
+        y: 129
+        width: 13
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2812,13 +2665,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_363
+      name: IdleBaton3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 104
+        y: 129
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2833,13 +2686,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_364
+      name: IdleBaton4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 136
+        y: 129
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2854,13 +2707,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_365
+      name: IdleBaton5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 168
+        y: 129
+        width: 13
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2875,13 +2728,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_366
+      name: IdleBaton6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128.97562
-        width: 32
-        height: 32.02439
+        x: 200
+        y: 129
+        width: 13
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2896,13 +2749,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Officer_sheet_boxed_0_383
+      name: pickUp
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32.97561
-        width: 32
-        height: 32.02439
+        x: 6
+        y: 33
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
