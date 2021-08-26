@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 5a8c3ab29c93027469768a97a55b6ef7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 9178535916918012257
+    second: hurt4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1720,7 +1723,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death0
+      name: dealth0
       rect:
         serializedVersion: 2
         x: 10
@@ -1741,7 +1744,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death1
+      name: dealth1
       rect:
         serializedVersion: 2
         x: 42
@@ -1762,7 +1765,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death2
+      name: dealth2
       rect:
         serializedVersion: 2
         x: 70
@@ -1862,153 +1865,6 @@ TextureImporter:
       bones: []
       spriteID: 49b7a735c48b98f10800000000000000
       internalID: 2272550124942687124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 577
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 394dfa66eff1f6730800000000000000
-      internalID: 3994446572005872787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey1
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 577
-        width: 13
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 924c5b0d2a6483920800000000000000
-      internalID: 2970201619351061545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey2
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 577
-        width: 13
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0248a781ebab51f0800000000000000
-      internalID: -1055060702556306932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey3
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 577
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 038655c0c351f8080800000000000000
-      internalID: -9183097767536007120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey4
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 577
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01155cacf5ca083e0800000000000000
-      internalID: -2053451902657146608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey5
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 577
-        width: 13
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80a8884708c2c3110800000000000000
-      internalID: 1241916527469955592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shimmey6
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 577
-        width: 13
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef96fa1a539fc11f0800000000000000
-      internalID: -1072708602479810050
       vertices: []
       indices: 
       edges: []
@@ -2765,6 +2621,27 @@ TextureImporter:
       bones: []
       spriteID: 6bfa04403772987c0800000000000000
       internalID: -4068677413406462026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 865
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ff0659c5b06f70800000000000000
+      internalID: 9178535916918012257
       vertices: []
       indices: 
       edges: []
