@@ -148,7 +148,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -284,90 +284,6 @@ TextureImporter:
       bones: []
       spriteID: f181ebd162fc091a0800000000000000
       internalID: -6804711274342115297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_12
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 161
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8148287500a9c8a90800000000000000
-      internalID: -7310298768870308840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sPlexrD - Imgur_13
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 161
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6423640b497e04f70800000000000000
-      internalID: 9169583467124896326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogMoveRight
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 161
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26368f2c1778f5790800000000000000
-      internalID: -7539158328522808478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogMoveLeft0
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 161
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63225afeb4e5a6180800000000000000
-      internalID: -9121374415049383370
       vertices: []
       indices: 
       edges: []
