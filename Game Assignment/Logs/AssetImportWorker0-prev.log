@@ -15,11 +15,11 @@ C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60293
+62032
 Successfully changed project path to: C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
 C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 130.07 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 61.57 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006068 seconds.
+Registered in 0.001758 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 129.86 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 60.67 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.078 seconds
+- Completed reload, in  2.205 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.019168 seconds.
+Registered in 0.009149 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 131.41 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 65.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.155 seconds
+- Completed reload, in  2.246 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2130 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 96.0 MB.
 System memory in use after: 95.5 MB.
 
 Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2559.
-Total: 5.138600 ms (FindLiveObjects: 0.406600 ms CreateObjectMapping: 0.196100 ms MarkObjects: 3.984200 ms  DeleteObjects: 0.549200 ms)
+Total: 5.410500 ms (FindLiveObjects: 0.519400 ms CreateObjectMapping: 0.253900 ms MarkObjects: 4.043400 ms  DeleteObjects: 0.591000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -79,148 +79,1301 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Main Menu.unity
-  artifactKey: Guid(04319c16e3e08864baefb0d94b6dcf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Main Menu.unity using Guid(04319c16e3e08864baefb0d94b6dcf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe81baabd9d592790e4b663035dc2f3') in 0.038633 seconds 
-  Import took 0.048011 seconds .
+  path: Assets/Tilesets/Furniture/brick3.png
+  artifactKey: Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/brick3.png using Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210140a231410dcd8897e035df71f449') in 0.257464 seconds 
+  Import took 0.265210 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.017323 seconds.
-  path: Assets/Scenes/Main Menu.unity
-  artifactKey: Guid(04319c16e3e08864baefb0d94b6dcf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Main Menu.unity using Guid(04319c16e3e08864baefb0d94b6dcf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe81baabd9d592790e4b663035dc2f3') in 0.005837 seconds 
-  Import took 0.015016 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011112 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.592 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.3 MB.
-System memory in use after: 94.8 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2563.
-Total: 4.429500 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.093800 ms MarkObjects: 3.567800 ms  DeleteObjects: 0.547200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 55.094677 seconds.
-  path: Assets/Scenes/Stage2.unity
-  artifactKey: Guid(ade698d9b0b04f241aaf23f27a72baef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Stage2.unity using Guid(ade698d9b0b04f241aaf23f27a72baef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59cc5bd29c9991d99d35d4f4b26455e5') in 0.036605 seconds 
-  Import took 0.047499 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011454 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.862 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.3 MB.
-System memory in use after: 94.9 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2567.
-Total: 3.190800 ms (FindLiveObjects: 0.273100 ms CreateObjectMapping: 0.130900 ms MarkObjects: 2.465300 ms  DeleteObjects: 0.319600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 138.312456 seconds.
-  path: Assets/Tilesets/Buildings/building.prefab
-  artifactKey: Guid(c18c7c4585201d04c933ba569cb2cedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Buildings/building.prefab using Guid(c18c7c4585201d04c933ba569cb2cedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929bb70bf5e61abaef5951ee4e35aa5b') in 0.066280 seconds 
-  Import took 0.073251 seconds .
+  Time since last request: 8.977742 seconds.
+  path: Assets/Tilesets/Furniture/brick3.asset
+  artifactKey: Guid(22d0205fefe19f040894ddc1c8aaa1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/brick3.asset using Guid(22d0205fefe19f040894ddc1c8aaa1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554ef15517f0a80f950f33736645754b') in 0.033461 seconds 
+  Import took 0.038370 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.711957 seconds.
-  path: Assets/Tilesets/Furniture/brick2.png
-  artifactKey: Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/brick2.png using Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43cacc42ac964deb80bdc509d2ed217') in 0.131897 seconds 
-  Import took 0.137005 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.766644 seconds.
-  path: Assets/Tilesets/Furniture/brick2.asset
-  artifactKey: Guid(2b52655149c697d49a7a01c93536bdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/brick2.asset using Guid(2b52655149c697d49a7a01c93536bdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5663be9cc1a253799b7ef81096376647') in 0.024067 seconds 
-  Import took 0.029526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
+  Time since last request: 0.000233 seconds.
   path: Assets/Tilesets/Furniture/furniture.prefab
   artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c2e8c57a4b15705b91e03017d06536') in 0.009222 seconds 
-  Import took 0.014682 seconds .
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84733251130a207e83ba8c441277c04e') in 0.017301 seconds 
+  Import took 0.023172 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.435422 seconds.
-  path: Assets/Tilesets/Furniture/brick2.png
-  artifactKey: Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/brick2.png using Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f755b8f7deeb86e8ce3667e50bd01f') in 0.037122 seconds 
-  Import took 0.046169 seconds .
+  Time since last request: 9.300345 seconds.
+  path: Assets/Tilesets/Furniture/brick3.png
+  artifactKey: Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/brick3.png using Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf5ff4fa2d7e10ecefe06717ea20264') in 0.018125 seconds 
+  Import took 0.022696 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.188502 seconds.
-  path: Assets/Tilesets/Furniture/brick2.png
-  artifactKey: Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/brick2.png using Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a04c9a8ce53e5c14a0256a2d96a3d1') in 0.020954 seconds 
-  Import took 0.026677 seconds .
+  Time since last request: 0.042458 seconds.
+  path: Assets/Tilesets/Furniture/brick3.png
+  artifactKey: Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/brick3.png using Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf5ff4fa2d7e10ecefe06717ea20264') in 0.028178 seconds 
+  Import took 0.032354 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.471084 seconds.
-  path: Assets/Tilesets/Furniture/brick2.png
-  artifactKey: Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/brick2.png using Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e6864709f98384ce72e4588aec4d38') in 0.018802 seconds 
-  Import took 0.023899 seconds .
+  Time since last request: 22.913922 seconds.
+  path: Assets/Tilesets/Furniture/brick3.png
+  artifactKey: Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/brick3.png using Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee220914aa2d97b0de684461fb2fd9f5') in 0.024365 seconds 
+  Import took 0.031490 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.014173 seconds.
+  Time since last request: 0.049773 seconds.
+  path: Assets/Tilesets/Furniture/brick3.png
+  artifactKey: Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/brick3.png using Guid(e37a23433443bc14cbd28390959223c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee220914aa2d97b0de684461fb2fd9f5') in 0.029128 seconds 
+  Import took 0.033393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.856557 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f71cc25c6e5390d31ec86cc35da4afa') in 0.006508 seconds 
+  Import took 0.012724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 157.747936 seconds.
+  path: Assets/Tilesets/Furniture/furniture1.1.png
+  artifactKey: Guid(718931d785ff2ba47a89798c2a98e4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture1.1.png using Guid(718931d785ff2ba47a89798c2a98e4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32a7904e177b78090eedb5bc8e300b4') in 0.033609 seconds 
+  Import took 0.038314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025914 seconds.
+  path: Assets/Tilesets/Furniture/furniture1.1.png
+  artifactKey: Guid(718931d785ff2ba47a89798c2a98e4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture1.1.png using Guid(718931d785ff2ba47a89798c2a98e4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32a7904e177b78090eedb5bc8e300b4') in 0.041224 seconds 
+  Import took 0.046875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 328.412200 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677709b02d36362e70bfb8e95fe3ef3e') in 0.093326 seconds 
+  Import took 0.102279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.500581 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d209ef2c0874b7a1aa2d17dc86ea6c') in 0.017337 seconds 
+  Import took 0.022043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055907 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d209ef2c0874b7a1aa2d17dc86ea6c') in 0.029952 seconds 
+  Import took 0.035229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.362228 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2123f7ece3cd24911bf8122131c57f') in 0.004248 seconds 
+  Import took 0.009075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.asset
+  artifactKey: Guid(453f3586ca34c8343a5a71b224d6fe6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.asset using Guid(453f3586ca34c8343a5a71b224d6fe6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecaaef5ba51378d64b3f30c2a6a20cd') in 0.019493 seconds 
+  Import took 0.025120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.465096 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c83fde34c4750666375975728ffce44') in 0.017356 seconds 
+  Import took 0.021805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042130 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c83fde34c4750666375975728ffce44') in 0.028421 seconds 
+  Import took 0.032858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.055860 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be27d20d667e1ef9b89fbd7cd7a60346') in 0.035722 seconds 
+  Import took 0.045253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080118 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be27d20d667e1ef9b89fbd7cd7a60346') in 0.036409 seconds 
+  Import took 0.043496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2892.795328 seconds.
+  path: Assets/Tilesets/Furniture/forniture2.5.png
+  artifactKey: Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/forniture2.5.png using Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84e24535c5f34f6fc780b57e63eb9c5') in 0.049637 seconds 
+  Import took 0.055739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f3c2790eb182c28709ed3e044b2505') in 0.024051 seconds 
+  Import took 0.028664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfbfe5a7721cb1b5a2ce6014132b1e1') in 0.019229 seconds 
+  Import took 0.024732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.685762 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832ab3121d6d0acdb1dbd12780e1a2a6') in 0.009417 seconds 
+  Import took 0.013881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052900 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832ab3121d6d0acdb1dbd12780e1a2a6') in 0.019997 seconds 
+  Import took 0.024357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.600386 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9999e72adcf9d4845a6b1b6715a353') in 0.010712 seconds 
+  Import took 0.015207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.asset
+  artifactKey: Guid(6ba0f5df930c7ea4d849b69262d0a541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.asset using Guid(6ba0f5df930c7ea4d849b69262d0a541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43defa2bea341eff21a00c3b6e49f7d1') in 0.011524 seconds 
+  Import took 0.016166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.422286 seconds.
+  path: Assets/Tilesets/Furniture/forniture2.5.asset
+  artifactKey: Guid(30f2ea4eb1d836449bd5bcb7a857bdb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/forniture2.5.asset using Guid(30f2ea4eb1d836449bd5bcb7a857bdb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fedcffb876183e1db332ae57221d36') in 0.016785 seconds 
+  Import took 0.022266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8cec41eb5fbb4a424a5abe245b18521') in 0.005220 seconds 
+  Import took 0.010348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.375182 seconds.
+  path: Assets/Tilesets/Furniture/forniture2.5.png
+  artifactKey: Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/forniture2.5.png using Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6e0f15afb62efdd68ea1a5b605871e') in 0.008990 seconds 
+  Import took 0.013465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042669 seconds.
+  path: Assets/Tilesets/Furniture/forniture2.5.png
+  artifactKey: Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/forniture2.5.png using Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6e0f15afb62efdd68ea1a5b605871e') in 0.021184 seconds 
+  Import took 0.024840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.954485 seconds.
+  path: Assets/Tilesets/Furniture/forniture2.5.png
+  artifactKey: Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/forniture2.5.png using Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f35757d0aa573dc2de1dd98c8ce15b') in 0.008070 seconds 
+  Import took 0.011859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041979 seconds.
+  path: Assets/Tilesets/Furniture/forniture2.5.png
+  artifactKey: Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/forniture2.5.png using Guid(af2163ff6b4fb404aab18f11ff900f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f35757d0aa573dc2de1dd98c8ce15b') in 0.022138 seconds 
+  Import took 0.026361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.118079 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b2df2a546895c6de458cb1f520b27d') in 0.005106 seconds 
+  Import took 0.013594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.asset
+  artifactKey: Guid(f68db3797d5925a43aae20ec7e5fca58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.asset using Guid(f68db3797d5925a43aae20ec7e5fca58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23bc69637da4f62c53eea1650ea227c') in 0.022674 seconds 
+  Import took 0.028886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.415484 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84da7919418d301d02a924363b646cee') in 0.014182 seconds 
+  Import took 0.018447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038712 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84da7919418d301d02a924363b646cee') in 0.027008 seconds 
+  Import took 0.031332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.649734 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97eddad307b0a13a92ab5321249ef04b') in 0.015466 seconds 
+  Import took 0.019967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037975 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97eddad307b0a13a92ab5321249ef04b') in 0.026540 seconds 
+  Import took 0.030912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 530.658160 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7388fdfd5e5a3b645fb2cbd0024b50ba') in 0.041148 seconds 
+  Import took 0.047068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.376288 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad859cde7b6f10edc7479b623a3bce7') in 0.006088 seconds 
+  Import took 0.010817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.asset
+  artifactKey: Guid(a9fdde7d2f0524f47b5d4d8d18b71ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.asset using Guid(a9fdde7d2f0524f47b5d4d8d18b71ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de2b1a21a7bb1f287fb3484e83cf4b6') in 0.020469 seconds 
+  Import took 0.024653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.736346 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e534fcb3f08e11e8a008aa8882e23f0') in 0.013717 seconds 
+  Import took 0.018667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037659 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e534fcb3f08e11e8a008aa8882e23f0') in 0.017724 seconds 
+  Import took 0.023017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.723122 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31281557287e0f254671006412aaef59') in 0.015606 seconds 
+  Import took 0.020755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043200 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31281557287e0f254671006412aaef59') in 0.029412 seconds 
+  Import took 0.034316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.730026 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ca464a06459ba1d91354126fae74e5') in 0.013480 seconds 
+  Import took 0.017563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038320 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ca464a06459ba1d91354126fae74e5') in 0.024866 seconds 
+  Import took 0.028709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.384451 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9104e0d425c4cdf2faec9809fbdc462d') in 0.028426 seconds 
+  Import took 0.032930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034406 seconds.
+  path: Assets/Tilesets/Furniture/kitchen.png
+  artifactKey: Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/kitchen.png using Guid(6e1269bf42531dd4ca2d13b4ece913b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9104e0d425c4cdf2faec9809fbdc462d') in 0.025361 seconds 
+  Import took 0.028893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.771296 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16db8f3cf461a1c1c8d979f73d689ee7') in 0.018068 seconds 
+  Import took 0.022758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035155 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16db8f3cf461a1c1c8d979f73d689ee7') in 0.018621 seconds 
+  Import took 0.022835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.971963 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25873325a16eaeb9c392a70b96ac23d0') in 0.009360 seconds 
+  Import took 0.014074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043029 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25873325a16eaeb9c392a70b96ac23d0') in 0.014611 seconds 
+  Import took 0.018564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.896350 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff473d5db19755075ef49448607bf90') in 0.008119 seconds 
+  Import took 0.012586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046083 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.3.png
+  artifactKey: Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.3.png using Guid(0721c95a50979b0479d0a3db22e8b30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff473d5db19755075ef49448607bf90') in 0.010404 seconds 
+  Import took 0.014576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.448348 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf6a046215c7162073ed52c0be7f0fc') in 0.014115 seconds 
+  Import took 0.018699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040972 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf6a046215c7162073ed52c0be7f0fc') in 0.027731 seconds 
+  Import took 0.031469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.856614 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445924ab4b92d40757576548c01f7b6b') in 0.028610 seconds 
+  Import took 0.034034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030940 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.4.png
+  artifactKey: Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.4.png using Guid(5b73f26e3302daa4eb416d809492a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445924ab4b92d40757576548c01f7b6b') in 0.028389 seconds 
+  Import took 0.032458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 437.955583 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.png
+  artifactKey: Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.png using Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8251b9210274937ea233ed41eaebd82') in 0.041988 seconds 
+  Import took 0.046673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.8.png
+  artifactKey: Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.8.png using Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd003ca304d1ad13f55320bcc4846964f') in 0.014995 seconds 
+  Import took 0.021234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.png
+  artifactKey: Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.png using Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8251b9210274937ea233ed41eaebd82') in 0.007362 seconds 
+  Import took 0.011084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a72b835bd7a7fa55f63bd7f1e9f25732') in 0.015759 seconds 
+  Import took 0.020078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.8.png
+  artifactKey: Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.8.png using Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd003ca304d1ad13f55320bcc4846964f') in 0.015074 seconds 
+  Import took 0.019618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a72b835bd7a7fa55f63bd7f1e9f25732') in 0.010431 seconds 
+  Import took 0.014855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.238326 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067244408bbd9b817e5208a3c5ef8e9e') in 0.010958 seconds 
+  Import took 0.015390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042477 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067244408bbd9b817e5208a3c5ef8e9e') in 0.020111 seconds 
+  Import took 0.023698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.727117 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1533dfb84ea995703306960b74739f53') in 0.004838 seconds 
+  Import took 0.010257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.asset
+  artifactKey: Guid(a23feed4a8bba2a489f2204492f89bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.asset using Guid(a23feed4a8bba2a489f2204492f89bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a7b206a824dc6e19f621bf1bfba0de') in 0.015408 seconds 
+  Import took 0.020111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.540608 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d84e79d3451acf0990595645c66e6c1') in 0.010355 seconds 
+  Import took 0.013998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041388 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d84e79d3451acf0990595645c66e6c1') in 0.013472 seconds 
+  Import took 0.017179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.692117 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e4b5188941967cea80776386999263') in 0.011198 seconds 
+  Import took 0.015328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042727 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.9.png
+  artifactKey: Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.9.png using Guid(91c6426a183c95745a1f15e853ee60df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e4b5188941967cea80776386999263') in 0.023066 seconds 
+  Import took 0.027046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.360246 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.8.png
+  artifactKey: Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.8.png using Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ac7e0324b8c1ebfc9b316a7caa019a5') in 0.013023 seconds 
+  Import took 0.016911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038171 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.8.png
+  artifactKey: Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.8.png using Guid(34594380d1976724786ab5394986b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ac7e0324b8c1ebfc9b316a7caa019a5') in 0.023985 seconds 
+  Import took 0.027395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.546133 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5899126f215a9a6c7c67d7decf0cd571') in 0.004198 seconds 
+  Import took 0.008383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.8.asset
+  artifactKey: Guid(fafedcb52b6fd9e48af198843fc4f316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.8.asset using Guid(fafedcb52b6fd9e48af198843fc4f316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc02b87e5aa754ac2859bfcf0a0a7ad') in 0.017399 seconds 
+  Import took 0.021439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.642207 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee4e51d86906de3da3749cfd298cad1') in 0.004462 seconds 
+  Import took 0.008481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.asset
+  artifactKey: Guid(a9978df9bb29cf9429c7634184820084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.asset using Guid(a9978df9bb29cf9429c7634184820084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c99fa4dcdbf438ae288f1c4fb8c5ea2') in 0.021205 seconds 
+  Import took 0.025750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.474005 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.png
+  artifactKey: Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.png using Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807979daa74cbc499672f44eedaf8f67') in 0.010962 seconds 
+  Import took 0.015194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041150 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.png
+  artifactKey: Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.png using Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807979daa74cbc499672f44eedaf8f67') in 0.013363 seconds 
+  Import took 0.017279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.702475 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.png
+  artifactKey: Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.png using Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19478f1fded00589bf09c6c320cad061') in 0.011280 seconds 
+  Import took 0.015101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059960 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.7.png
+  artifactKey: Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.7.png using Guid(d0d3db857fbe6f24284e0211a85f8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19478f1fded00589bf09c6c320cad061') in 0.013524 seconds 
+  Import took 0.017049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.639233 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26007e512abe1a8f1266ab5d56f3dd0') in 0.036005 seconds 
+  Import took 0.042640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005307 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26007e512abe1a8f1266ab5d56f3dd0') in 0.009664 seconds 
+  Import took 0.015626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.234877 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca507722a32850dddcd690180da2522f') in 0.022126 seconds 
+  Import took 0.027431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031090 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca507722a32850dddcd690180da2522f') in 0.019523 seconds 
+  Import took 0.023157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.682589 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e943efa3facae0346b3c51c9c48655') in 0.004503 seconds 
+  Import took 0.009214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.asset
+  artifactKey: Guid(69067d8aac215db4ba5899061c742a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.asset using Guid(69067d8aac215db4ba5899061c742a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f2561c78e3e84746a1672dbf15b585') in 0.017047 seconds 
+  Import took 0.021399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.087201 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea18bfc728d8872603957c7b8b4d371') in 0.008032 seconds 
+  Import took 0.012973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044893 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea18bfc728d8872603957c7b8b4d371') in 0.020174 seconds 
+  Import took 0.023821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.739446 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0767cce45af48f59d83d95e1bd677afe') in 0.008316 seconds 
+  Import took 0.012401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044382 seconds.
+  path: Assets/Tilesets/Furniture/furniture3.1.png
+  artifactKey: Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture3.1.png using Guid(3cc6ceae146e8e04fb819c48192f6459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0767cce45af48f59d83d95e1bd677afe') in 0.020237 seconds 
+  Import took 0.024209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.060054 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c05fc7dcec76d7a17a717c4e19f3dc') in 0.025503 seconds 
+  Import took 0.029531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026756 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c05fc7dcec76d7a17a717c4e19f3dc') in 0.027369 seconds 
+  Import took 0.032101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.648771 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f00b402f7c44a0442fd36d5d0cd5cd8') in 0.011661 seconds 
+  Import took 0.016239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039297 seconds.
+  path: Assets/Tilesets/Furniture/furniture2.2.png
+  artifactKey: Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture2.2.png using Guid(73a3fdec9fcce1a4e921f8dd3d023a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f00b402f7c44a0442fd36d5d0cd5cd8') in 0.013553 seconds 
+  Import took 0.016805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 785.367840 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e13ef6eba99e678632a840daf3b869') in 0.039764 seconds 
+  Import took 0.043642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c8f8e89ec96811a989267273382ed1') in 0.015334 seconds 
+  Import took 0.019076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.png
+  artifactKey: Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.png using Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd350598e932209d06729963915167c92') in 0.014357 seconds 
+  Import took 0.018960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.1.png
+  artifactKey: Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.1.png using Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d5c267b0fb0def6bf345d072b5896d') in 0.014781 seconds 
+  Import took 0.018442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003454 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.png
+  artifactKey: Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.png using Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd350598e932209d06729963915167c92') in 0.007666 seconds 
+  Import took 0.012081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.376666 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.png
+  artifactKey: Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.png using Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b333d520912418ff54e76def804aa04') in 0.008663 seconds 
+  Import took 0.013150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044636 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.png
+  artifactKey: Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.png using Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b333d520912418ff54e76def804aa04') in 0.020570 seconds 
+  Import took 0.024623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.261787 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c222e7a9d927f4528e416423c37e11') in 0.009423 seconds 
+  Import took 0.013692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.asset
+  artifactKey: Guid(14a4c42370926414cae02111d1b9168b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.asset using Guid(14a4c42370926414cae02111d1b9168b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0283fafbda9fdf8b220bfcdb0b7b5a1') in 0.013984 seconds 
+  Import took 0.017889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.383228 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.png
+  artifactKey: Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.png using Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac7dddd72acfe8682c5eed1f635639d') in 0.009620 seconds 
+  Import took 0.013720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044677 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.2.png
+  artifactKey: Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.2.png using Guid(7224a4b99cd6ab84b9ec75a9a8caceae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac7dddd72acfe8682c5eed1f635639d') in 0.020490 seconds 
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.976115 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6f32c31e34310fe3459f94d408357a') in 0.004471 seconds 
+  Import took 0.009360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.asset
+  artifactKey: Guid(b0c1f7c41fbf1a742a27fdea3b8e4ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.asset using Guid(b0c1f7c41fbf1a742a27fdea3b8e4ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b7ec197311bc8e482ce99f53af96d7') in 0.019376 seconds 
+  Import took 0.023846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.822214 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a1d89d4e927c04a5467e73d585da01') in 0.010823 seconds 
+  Import took 0.014741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041554 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a1d89d4e927c04a5467e73d585da01') in 0.024460 seconds 
+  Import took 0.028012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.053255 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbf09d06d686059f08ca73e16fb8ee0') in 0.010852 seconds 
+  Import took 0.015520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040678 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbf09d06d686059f08ca73e16fb8ee0') in 0.023758 seconds 
+  Import took 0.027245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.980582 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9727266e6adea7e5849a5f0e1a0af671') in 0.011125 seconds 
+  Import took 0.015729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042045 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9727266e6adea7e5849a5f0e1a0af671') in 0.024763 seconds 
+  Import took 0.028563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.390121 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd04260ff188d2a44c1f188c3194acd') in 0.012121 seconds 
+  Import took 0.016617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042843 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.0.png
+  artifactKey: Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.0.png using Guid(c04441bfbdd8aef4db8fb1e3237bb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd04260ff188d2a44c1f188c3194acd') in 0.024185 seconds 
+  Import took 0.028852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.054310 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25cc8171c3a12637e3855b30723091d') in 0.004655 seconds 
+  Import took 0.008692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.asset
+  artifactKey: Guid(e06f754872e4f624980e1f3974be8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.asset using Guid(e06f754872e4f624980e1f3974be8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf75e1e82e3fcc085ade6a70f52a461') in 0.019381 seconds 
+  Import took 0.023795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.423060 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ccc5d023ae242c85f575a607639b6f') in 0.011294 seconds 
+  Import took 0.015878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042591 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ccc5d023ae242c85f575a607639b6f') in 0.022259 seconds 
+  Import took 0.025733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.119604 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a286fbb9748973481aed615537ab6b3f') in 0.008405 seconds 
+  Import took 0.012953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044627 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a286fbb9748973481aed615537ab6b3f') in 0.021196 seconds 
+  Import took 0.024799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.342204 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0504496c4705815022ee06f2d3d063b') in 0.008431 seconds 
+  Import took 0.011937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045545 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.3.png
+  artifactKey: Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.3.png using Guid(1129ab29698daed4fadd7d55e4869863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0504496c4705815022ee06f2d3d063b') in 0.020051 seconds 
+  Import took 0.023658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.735688 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae347abad9622cec705df6d05db6e80') in 0.004092 seconds 
+  Import took 0.008175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.1.asset
+  artifactKey: Guid(f5931cab751d22d4aac440eca2edf3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.1.asset using Guid(f5931cab751d22d4aac440eca2edf3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389a5c20cc29f4b28ff7c651f281dd71') in 0.024188 seconds 
+  Import took 0.028330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.192481 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.1.png
+  artifactKey: Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.1.png using Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb8e2c05af0d971dc76b5bc86dc7b04') in 0.008564 seconds 
+  Import took 0.012935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043696 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.1.png
+  artifactKey: Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.1.png using Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb8e2c05af0d971dc76b5bc86dc7b04') in 0.022080 seconds 
+  Import took 0.025760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.333430 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.1.png
+  artifactKey: Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.1.png using Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51317dfc9350aba238f118ab8554725e') in 0.008392 seconds 
+  Import took 0.012984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045004 seconds.
+  path: Assets/Tilesets/Furniture/furniture4.1.png
+  artifactKey: Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture4.1.png using Guid(449e01409d0dc5d40a3ac22263058fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51317dfc9350aba238f118ab8554725e') in 0.022859 seconds 
+  Import took 0.026772 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.4 MB.
+System memory in use after: 98.0 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2598.
+Total: 2.444000 ms (FindLiveObjects: 0.188500 ms CreateObjectMapping: 0.078500 ms MarkObjects: 1.922600 ms  DeleteObjects: 0.253400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 253.299338 seconds.
   path: Assets/Tilesets/Furniture/brick2.png
   artifactKey: Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tilesets/Furniture/brick2.png using Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e6864709f98384ce72e4588aec4d38') in 0.015584 seconds 
-  Import took 0.019462 seconds .
+Start importing Assets/Tilesets/Furniture/brick2.png using Guid(b323551364475ff4b9a8fb35fa8de398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812f1fdad02123b843ceb7d47c2866c8') in 0.049970 seconds 
+  Import took 0.053623 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.5 MB.
+System memory in use after: 98.0 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2605.
+Total: 2.320000 ms (FindLiveObjects: 0.207200 ms CreateObjectMapping: 0.094800 ms MarkObjects: 1.738200 ms  DeleteObjects: 0.278800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 792.759294 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21eaf45dca481f0c9dcec00adbf7343d') in 0.051752 seconds 
+  Import took 0.055803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.810468 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d3584f7e3136ac3fe1c0455530b1ca') in 0.010503 seconds 
+  Import took 0.017395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Tilesets/Furniture/pink.asset
+  artifactKey: Guid(6eae0b9b519b9b94d9ec96863343b8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.asset using Guid(6eae0b9b519b9b94d9ec96863343b8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f653426e8e35b83bad486ac3cb44879') in 0.014510 seconds 
+  Import took 0.018202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.507185 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a00c9d3da8873d09a7f3c9ab6afc1a') in 0.007845 seconds 
+  Import took 0.011988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046246 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a00c9d3da8873d09a7f3c9ab6afc1a') in 0.020671 seconds 
+  Import took 0.024615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.543977 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b71c4e4f8a77f6a0a513ff837b864a') in 0.006899 seconds 
+  Import took 0.010181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046098 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b71c4e4f8a77f6a0a513ff837b864a') in 0.019259 seconds 
+  Import took 0.022866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.747094 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d82a5bed34f85c28dbababd615f1dc3') in 0.008001 seconds 
+  Import took 0.012305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057582 seconds.
+  path: Assets/Tilesets/Furniture/pink.png
+  artifactKey: Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/pink.png using Guid(c72f58be01b5bb64f876428f440dfe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d82a5bed34f85c28dbababd615f1dc3') in 0.018582 seconds 
+  Import took 0.022701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.920235 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a32bbe2b8740e5c60a61ce1927d68f') in 0.015671 seconds 
+  Import took 0.020195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.608563 seconds.
+  path: Assets/Tilesets/Furniture/blue.asset
+  artifactKey: Guid(a70eb14c8e7afda43a337c575b8b12df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.asset using Guid(a70eb14c8e7afda43a337c575b8b12df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c1355cbbabb986b088d1a30ac103d1') in 0.009621 seconds 
+  Import took 0.014972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Tilesets/Furniture/furniture.prefab
+  artifactKey: Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/furniture.prefab using Guid(2811f96461b0a3b4195a8cb381de8234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7330a08ba8cac35aee3f61b467445f88') in 0.004965 seconds 
+  Import took 0.008680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.792635 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88c96d33aae14bcfab924f7bf5f5e89') in 0.008712 seconds 
+  Import took 0.013357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040317 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88c96d33aae14bcfab924f7bf5f5e89') in 0.015852 seconds 
+  Import took 0.019588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.590571 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa507356c3cd4eb956fd2f3aeeb0a121') in 0.008524 seconds 
+  Import took 0.012691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041353 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa507356c3cd4eb956fd2f3aeeb0a121') in 0.015605 seconds 
+  Import took 0.019340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.684007 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a175d792dafc7b964565fefb2f9a9c') in 0.007575 seconds 
+  Import took 0.012212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041740 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a175d792dafc7b964565fefb2f9a9c') in 0.015963 seconds 
+  Import took 0.019554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.109198 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130bdccbc5ad40c0c9a425ed40eb10ca') in 0.007388 seconds 
+  Import took 0.011453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050175 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130bdccbc5ad40c0c9a425ed40eb10ca') in 0.015115 seconds 
+  Import took 0.018871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.682902 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eff41a6ad67492604c3a462df09fe3d') in 0.006326 seconds 
+  Import took 0.010016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.498932 seconds.
+  path: Assets/Tilesets/Furniture/blue.png
+  artifactKey: Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/Furniture/blue.png using Guid(299e9f893c1dfca4e8deb74a4c25e467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feea2b6eb89606fa55ea96cdbab31f3e') in 0.007563 seconds 
+  Import took 0.011414 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
