@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Animal
   layers:
   - Default
   - TransparentFX
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: wall
     uniqueID: 58829115
+    locked: 0
+  - name: Animals
+    uniqueID: 168238321
     locked: 0
