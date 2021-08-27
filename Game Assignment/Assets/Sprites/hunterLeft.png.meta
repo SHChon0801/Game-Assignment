@@ -67,7 +67,10 @@ TextureImporter:
     second: hunterLeft_20
   - first:
       213: 1286755542840474354
-    second: hunterLeft_21
+    second: hunterLeft_
+  - first:
+      213: 9035030739114659495
+    second: hunterLeft_
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -112,7 +115,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -510,7 +513,7 @@ TextureImporter:
         serializedVersion: 2
         x: 271
         y: 109
-        width: 137
+        width: 67
         height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -610,7 +613,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hunterLeft_21
+      name: hunterLeft_22
       rect:
         serializedVersion: 2
         x: 557
@@ -626,6 +629,27 @@ TextureImporter:
       bones: []
       spriteID: 2fa75c349597bd110800000000000000
       internalID: 1286755542840474354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hunterLeft_
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 109
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0aab6690e26d70800000000000000
+      internalID: 9035030739114659495
       vertices: []
       indices: 
       edges: []

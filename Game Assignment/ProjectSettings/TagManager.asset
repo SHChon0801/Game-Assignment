@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Animal
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -56,4 +57,7 @@ TagManager:
     locked: 0
   - name: Animals
     uniqueID: 168238321
+    locked: 0
+  - name: Enemies
+    uniqueID: 3063105157
     locked: 0
