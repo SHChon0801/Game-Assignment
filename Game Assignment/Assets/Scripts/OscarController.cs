@@ -6,12 +6,26 @@ public class OscarController : MonoBehaviour
 {
     public float moveSpeed = 1;
     public Animator animator;
+    public int experience = 0;
     // Start is called before the first frame update
     void Start()
     {
         
     }
+    public Questing quest;
 
+    public void RescueAnimal()
+    {
+       if(quest.isActive)
+        {
+            quest.goal.DefeatEnemy();
+            if(quest.goal.isReached())
+            {
+                experience += quest.experienceReward;
+                quest.Complete();
+            }
+        }
+    }
     // Update is called once per frame
     void Update()
     {
