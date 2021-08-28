@@ -17,6 +17,9 @@ public class OscarController : MonoBehaviour
     {
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
+        animator.SetFloat("Kick", Input.GetAxis("Kick"));
+        animator.SetFloat("Punch", Input.GetAxis("Punch"));
+        animator.SetFloat("Attack", Input.GetAxis("Attack"));
 
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");

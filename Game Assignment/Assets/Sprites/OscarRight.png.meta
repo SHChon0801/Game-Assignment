@@ -49,7 +49,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 2
+  spritePixelsToUnits: 1
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -550,48 +550,6 @@ TextureImporter:
       name: drawBaton0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 1089
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d01ff50ad793cd4c0800000000000000
-      internalID: -4261467935674994419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: drawBaton1
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 1089
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 062bce17204aac360800000000000000
-      internalID: 7190740085458645600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: drawBaton2
-      rect:
-        serializedVersion: 2
         x: 72
         y: 1089
         width: 13
@@ -610,7 +568,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBaton3
+      name: drawBaton1
       rect:
         serializedVersion: 2
         x: 104
@@ -631,7 +589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBaton4
+      name: drawBaton2
       rect:
         serializedVersion: 2
         x: 136
@@ -652,7 +610,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBaton5
+      name: drawBaton3
       rect:
         serializedVersion: 2
         x: 171
@@ -673,7 +631,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBaton6
+      name: drawBaton4
       rect:
         serializedVersion: 2
         x: 203
