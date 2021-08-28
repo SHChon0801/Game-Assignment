@@ -145,10 +145,10 @@ TextureImporter:
     second: drawBatonLeft2
   - first:
       213: 2726865296158954073
-    second: drawBatonLeft1
+    second: drawBatonLeft3
   - first:
       213: 2563368269794185894
-    second: drawBatonLeft0
+    second: drawBatonLeft4
   - first:
       213: -3711120614055672003
     second: batonWalkLeft6
@@ -797,6 +797,9 @@ TextureImporter:
   - first:
       213: 4799655749432878815
     second: hurtLeft4
+  - first:
+      213: -1731175739280515119
+    second: IdleLeft5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -841,7 +844,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 2
+  spritePixelsToUnits: 1
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -897,27 +900,6 @@ TextureImporter:
   spriteSheet:
     serializedVersion: 2
     sprites:
-    - serializedVersion: 2
-      name: IdleLeft5
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 1281
-        width: 10
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 407d11d258d06c570800000000000000
-      internalID: 8486485413464233732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: IdleLeft4
       rect:
@@ -1318,49 +1300,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBatonLeft6
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 1088
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae9a6868418e30a40800000000000000
-      internalID: 5333361558590761450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: drawBatonLeft5
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 1088
-        width: 10
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8986fb18b9e17efb0800000000000000
-      internalID: -4618689239599585128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: drawBatonLeft4
+      name: drawBatonLeft0
       rect:
         serializedVersion: 2
         x: 171
@@ -1381,7 +1321,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBatonLeft3
+      name: drawBatonLeft1
       rect:
         serializedVersion: 2
         x: 203
@@ -1423,7 +1363,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBatonLeft1
+      name: drawBatonLeft3
       rect:
         serializedVersion: 2
         x: 267
@@ -1444,7 +1384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drawBatonLeft0
+      name: drawBatonLeft4
       rect:
         serializedVersion: 2
         x: 299
@@ -3426,7 +3366,7 @@ TextureImporter:
         width: 10
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3434,6 +3374,27 @@ TextureImporter:
       bones: []
       spriteID: fd6ab15797dcb9240800000000000000
       internalID: 4799655749432878815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleLeft5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1281
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df196856d0a9f7e0800000000000000
+      internalID: -1731175739280515119
       vertices: []
       indices: 
       edges: []
