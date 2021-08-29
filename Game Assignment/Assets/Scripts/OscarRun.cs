@@ -18,9 +18,16 @@ public class OscarRun : MonoBehaviour
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
         animator.SetFloat("Run", Input.GetAxis("Run"));
+        animator.SetFloat("Defend", Input.GetAxis("Defend"));
+
+        if (Input.GetAxis("Run") > 0.1f)
+        {
+            moveSpeed = 15;
+        }
 
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
+        float defendInput = Input.GetAxis("Defend");
 
         transform.Translate(new Vector3(horizontalInput, verticalInput, 0) * moveSpeed * Time.deltaTime);
     }
