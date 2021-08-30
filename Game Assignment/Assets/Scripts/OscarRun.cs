@@ -24,6 +24,10 @@ public class OscarRun : MonoBehaviour
         {
             moveSpeed = 15;
         }
+        else if (Input.GetAxis("Run") < 0.1f)
+        {
+            moveSpeed = 10;
+        }
 
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");

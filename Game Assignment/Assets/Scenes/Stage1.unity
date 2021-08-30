@@ -21114,6 +21114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hunter
       objectReference: {fileID: 0}
+    - target: {fileID: 6959993057806748906, guid: 60f380dac1a77a9478350b2cc9f5686c, type: 3}
+      propertyPath: m_Constraints
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f380dac1a77a9478350b2cc9f5686c, type: 3}
 --- !u!1 &1172282818
