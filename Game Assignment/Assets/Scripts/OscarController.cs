@@ -33,7 +33,16 @@ public class OscarController : MonoBehaviour
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
         animator.SetFloat("Kick", Input.GetAxis("Kick"));
         animator.SetFloat("Punch", Input.GetAxis("Punch"));
+        animator.SetFloat("Run", Input.GetAxis("Run"));
         animator.SetFloat("Attack", Input.GetAxis("Attack"));
+
+        if (Input.GetAxis("Run") > 0.1f)
+        {
+            moveSpeed = 15;
+        } else if (Input.GetAxis("Run") < 0.1f)
+        {
+            moveSpeed = 10;
+        }
 
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
