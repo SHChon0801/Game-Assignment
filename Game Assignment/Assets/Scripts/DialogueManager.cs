@@ -5,55 +5,29 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
-    public Text nameText;
-    public Text dialogueText;
-    public Queue<string> sentences;
+    [SerializeField] GameObject dialoguebox;
+    [SerializeField] Text dialogueText;
+    [SerializeField] int lettersPerSecond;
 
-    // Start is called before the first frame update
-    void Start()
+    public static DialogueManager Instance { get; private set; }
+
+    private void Awake()
     {
-        sentences = new Queue<string>();
+        Instance = this;
+    }
+    public void ShowDialog(Dialogue dialog)
+    {
+        dialoguebox.SetActive(true);
+        StartCoroutine(TypeDialog(dialog.Lines[0]));
     }
 
-    public void StartDialogue(Dialogue dialogue)
-    {
-        nameText.text = dialogue.name;
-
-        sentences.Clear();
-
-        foreach(string sentence in dialogue.sentences)
-        {
-            sentences.Enqueue(sentence);
-        }
-
-        DisplayNextSentence();
-    }
-
-    public void DisplayNextSentence() 
-    {
-        if(sentences.Count == 0)
-        {
-            EndDialogue();
-            return;
-        }
-        string sentence = sentences.Dequeue();
-        StopAllCoroutines();
-        StartCoroutine(TypeSentence(sentence));
-    }
-
-    IEnumerator TypeSentence (string sentence)
+    public IEnumerator TypeDialog(string dialog)
     {
         dialogueText.text = "";
-        foreach (char letter in sentence.ToCharArray())
+        foreach (var letter in dialog.ToCharArray())
         {
             dialogueText.text += letter;
-            yield return null;
+            yield return new WaitForSeconds(1f / lettersPerSecond);
         }
-    }
-
-
-    void EndDialogue()
-    {
-        Debug.Log("End Of conversation");
     }
 }
