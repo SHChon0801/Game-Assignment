@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6687801460024937230}
   - component: {fileID: 340847921182742248}
   - component: {fileID: 9055381213142394303}
+  - component: {fileID: 6300324306352163006}
   m_Layer: 0
   m_Name: DogIdle
   m_TagString: Animal
@@ -141,3 +142,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &6300324306352163006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6687801460024937231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d70c0f1f4aae44e469bc1ffe4aa66fa6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 7580820767259683092, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+  moveSpeed: 1
+  animator: {fileID: 6687801460024937230}

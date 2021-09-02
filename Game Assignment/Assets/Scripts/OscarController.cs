@@ -28,7 +28,7 @@ public class OscarController : MonoBehaviour
         }
     }
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
@@ -49,6 +49,34 @@ public class OscarController : MonoBehaviour
         float verticalInput = Input.GetAxis("Vertical");
 
         rb.velocity = new Vector2(horizontalInput * moveSpeed, verticalInput * moveSpeed);
-        transform.Translate(new Vector3(horizontalInput, verticalInput, 0) * moveSpeed * Time.deltaTime);
+        //transform.Translate(new Vector3(horizontalInput, verticalInput, 0) * moveSpeed * Time.deltaTime);
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            ChaseOscar enemyChase = other.gameObject.GetComponent<ChaseOscar>();
+            enemyChase.moveSpeed = 1;
+        }else if (other.gameObject.CompareTag("Animal"))
+        {
+            AnimalsFollow animalFollow = other.gameObject.GetComponent<AnimalsFollow>();
+            animalFollow.moveSpeed = 0;
+        }
+    }
+
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            ChaseOscar enemyChase = other.gameObject.GetComponent<ChaseOscar>();
+            enemyChase.moveSpeed = 0;
+        }
+        else if (other.gameObject.CompareTag("Animal"))
+        {
+            AnimalsFollow animalFollow = other.gameObject.GetComponent<AnimalsFollow>();
+            animalFollow.moveSpeed = 1;
+        }
     }
 }

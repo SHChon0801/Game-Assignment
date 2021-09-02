@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 7893445660948006545}
   - component: {fileID: 2935116035883585073}
   - component: {fileID: 7017532581217229056}
+  - component: {fileID: 6279103954418012761}
   - component: {fileID: 5360144365618812125}
-  - component: {fileID: 4816799423163503116}
   m_Layer: 0
   m_Name: Oscar
   m_TagString: Player
@@ -129,6 +129,32 @@ MonoBehaviour:
       goalType: 0
       requiredAmount: 0
       currentAmount: 0
+--- !u!61 &6279103954418012761
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4399828982600462270}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 2.9110289, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5.5, y: 15}
+    newSize: {x: 5.5, y: 15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 11.322056, y: 15}
+  m_EdgeRadius: 0
 --- !u!50 &5360144365618812125
 Rigidbody2D:
   serializedVersion: 4
@@ -149,20 +175,4 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 6
---- !u!70 &4816799423163503116
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4399828982600462270}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.07540993, y: -0.13659003}
-  m_Size: {x: 5.65082, y: 15.614663}
-  m_Direction: 0
+  m_Constraints: 4
