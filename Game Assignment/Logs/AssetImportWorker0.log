@@ -1,0 +1,384 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 7995 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65461
+Successfully changed project path to: C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
+C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 77.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/HP/Documents/GitHub/Game-Assignment/Game Assignment/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6280
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001611 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 71.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.006 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.014949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3290 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 143.6 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3718.
+Total: 2.729400 ms (FindLiveObjects: 0.352400 ms CreateObjectMapping: 0.150100 ms MarkObjects: 1.976200 ms  DeleteObjects: 0.249600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_79.asset
+  artifactKey: Guid(2cce9cb8f051cb14caa574f15e4efc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_79.asset using Guid(2cce9cb8f051cb14caa574f15e4efc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d63f3291af438000ce9251aabfe8bf') in 0.096670 seconds 
+  Import took 0.104999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Sprites/PXUI-Basic/panel_Example1.png
+  artifactKey: Guid(13bf7eae2ca4443418309c3c0f23c44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/panel_Example1.png using Guid(13bf7eae2ca4443418309c3c0f23c44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74a1c6d7f487be62fdcf68ae5a6cacf') in 0.049637 seconds 
+  Import took 0.055571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_70.asset
+  artifactKey: Guid(9212eb79b135a5d4b8a1631b8e2b2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_70.asset using Guid(9212eb79b135a5d4b8a1631b8e2b2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ca0116bf157f2784c0422508f9c510') in 0.014148 seconds 
+  Import took 0.020147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_72.asset
+  artifactKey: Guid(461e6b5b782ac5c44bc37a31e9e40638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_72.asset using Guid(461e6b5b782ac5c44bc37a31e9e40638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b368a63f5f80492dfa11058b1cacfe') in 0.024674 seconds 
+  Import took 0.032716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sprites/PXUI-Basic
+  artifactKey: Guid(c5c8129f6114fff4eba2548de35b963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic using Guid(c5c8129f6114fff4eba2548de35b963b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e903893b03e8f7d7aa95d7aaf0c84c') in 0.010097 seconds 
+  Import took 0.017157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_69.asset
+  artifactKey: Guid(79d0391b0f69ff34c830d1d71802262f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_69.asset using Guid(79d0391b0f69ff34c830d1d71802262f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55337bcf72421fee3fe5a77aa7e0108') in 0.016361 seconds 
+  Import took 0.025990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_73.asset
+  artifactKey: Guid(7b2730f7f62de314bb3a40ba10a85e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_73.asset using Guid(7b2730f7f62de314bb3a40ba10a85e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6244af8a8ac08057f92c510a08c9a457') in 0.016666 seconds 
+  Import took 0.024576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_85.asset
+  artifactKey: Guid(84fab91f88e8baf428dca69e2c4d5a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_85.asset using Guid(84fab91f88e8baf428dca69e2c4d5a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90360f20e69c56248042368124192cc7') in 0.016523 seconds 
+  Import took 0.025898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/TinyRPGTown.prefab
+  artifactKey: Guid(227a596c3c5896c4f8465327a12d8dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/TinyRPGTown.prefab using Guid(227a596c3c5896c4f8465327a12d8dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5ccb0a14184efe86178cd7a86d041c') in 0.021306 seconds 
+  Import took 0.031027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/top-wall-tile-right.png
+  artifactKey: Guid(ba0730fe8381a4dca96e8292a87e8d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/top-wall-tile-right.png using Guid(ba0730fe8381a4dca96e8292a87e8d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35d20113aa9d5bd0cc3d6b1093691fa') in 0.023853 seconds 
+  Import took 0.033062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Sprites/PXUI-Basic/checkbox_x_example.png
+  artifactKey: Guid(256a44c9a45386b42acf79c3a37a0a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/checkbox_x_example.png using Guid(256a44c9a45386b42acf79c3a37a0a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2104bd3cad926fbe78b4b47813cdc990') in 0.023136 seconds 
+  Import took 0.032645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_82.asset
+  artifactKey: Guid(f0cbd2058f129ed41810784f97c57d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_82.asset using Guid(f0cbd2058f129ed41810784f97c57d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c883b0381b3f00a40c34574eb6d4ad5b') in 0.010866 seconds 
+  Import took 0.019127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/wall-tile.png
+  artifactKey: Guid(3eb4f6ccdc9a240028824dffc4cf46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/wall-tile.png using Guid(3eb4f6ccdc9a240028824dffc4cf46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc67214bf9faf1274617eb5b23e4601c') in 0.019627 seconds 
+  Import took 0.026537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_78.asset
+  artifactKey: Guid(adf6bd1e0e821e746ba06f42c15795b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_78.asset using Guid(adf6bd1e0e821e746ba06f42c15795b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab459764feb49f45fb168023a0f9200') in 0.012930 seconds 
+  Import took 0.020634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_88.asset
+  artifactKey: Guid(3c6432c25015e154a82ae7a1a448a2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_88.asset using Guid(3c6432c25015e154a82ae7a1a448a2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493529fef66e0d4763a6d01153c3b4b2') in 0.012807 seconds 
+  Import took 0.020854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_84.asset
+  artifactKey: Guid(66411a7e224736c40b79ce6a0cd86348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_84.asset using Guid(66411a7e224736c40b79ce6a0cd86348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96d4c05b86434d3e4a1c434ca3b80f4') in 0.013725 seconds 
+  Import took 0.022672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_80.asset
+  artifactKey: Guid(dc8e246e02469a549aee2b3c22a6ecd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_80.asset using Guid(dc8e246e02469a549aee2b3c22a6ecd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f982cc4b6d3ae8bab79bbb8b69874e') in 0.012833 seconds 
+  Import took 0.022592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/top-wall-tile-left.png
+  artifactKey: Guid(ae6af53c911df4587a5d7b572f1d8718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/top-wall-tile-left.png using Guid(ae6af53c911df4587a5d7b572f1d8718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b945b3eebc87cc178fbae406fb609fb') in 0.021664 seconds 
+  Import took 0.028970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_83.asset
+  artifactKey: Guid(911f86f40e7993b49aa67125409006c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_83.asset using Guid(911f86f40e7993b49aa67125409006c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43dc704ffd83409e2c21dc9c469ceff5') in 0.012229 seconds 
+  Import took 0.026670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tree.png
+  artifactKey: Guid(da468f356abb846bcaf3a1b64c5c26d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tree.png using Guid(da468f356abb846bcaf3a1b64c5c26d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1eea22d721bc9a691116c290426527') in 0.024298 seconds 
+  Import took 0.031586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_77.asset
+  artifactKey: Guid(8aa2598361b8c1b49bd7ca3f8d2ad4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_77.asset using Guid(8aa2598361b8c1b49bd7ca3f8d2ad4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734ac243f7979dd7572301ade44ff92f') in 0.014029 seconds 
+  Import took 0.021496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/wall-tile-left.png
+  artifactKey: Guid(9750aef87e43847a7879b30cfb6f5e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/wall-tile-left.png using Guid(9750aef87e43847a7879b30cfb6f5e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8816eba6a740f697194e8abd0855e997') in 0.023044 seconds 
+  Import took 0.030061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Sprites/PXUI-Basic/panel_Example2.png
+  artifactKey: Guid(57a2365dcb8158a4ca777ba177ccb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/panel_Example2.png using Guid(57a2365dcb8158a4ca777ba177ccb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778662bbba48fea56fca79a70c243869') in 0.028191 seconds 
+  Import took 0.036122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sprites/PXUI-Basic/checkbox_example.png
+  artifactKey: Guid(63f8c9aff509e3346b2863ad6b64be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/checkbox_example.png using Guid(63f8c9aff509e3346b2863ad6b64be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3dcdf9b9d9816dbd26e5b5db2c08248') in 0.021207 seconds 
+  Import took 0.029313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_76.asset
+  artifactKey: Guid(eebe41cead3f3854fade6b594f58b9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_76.asset using Guid(eebe41cead3f3854fade6b594f58b9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20a3f3a1b01acaba75a277c3e6daf85') in 0.014700 seconds 
+  Import took 0.022098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sprites/PXUI-Basic/checkbox_check_example.png
+  artifactKey: Guid(c3cb1fe9bc756ac42838bf9426a50c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/checkbox_check_example.png using Guid(c3cb1fe9bc756ac42838bf9426a50c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f493d34967e9eb59910d2b86aa05a4e') in 0.021710 seconds 
+  Import took 0.030861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Sprites/PXUI-Basic/panel_Example4.png
+  artifactKey: Guid(0d706af0241761a44a5dc392609ca184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/panel_Example4.png using Guid(0d706af0241761a44a5dc392609ca184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '640ad22ba3bf3da0c73d7155613caece') in 0.018048 seconds 
+  Import took 0.025921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Sprites/PXUI-Basic/panel_Example3.png
+  artifactKey: Guid(4c0ea3579ffe11c42bf4595461bc02b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PXUI-Basic/panel_Example3.png using Guid(4c0ea3579ffe11c42bf4595461bc02b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc216c32e13292acb87dd3691fae7781') in 0.029983 seconds 
+  Import took 0.037844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/top-wall-tile.png
+  artifactKey: Guid(b9790124cd3f240bba1a1984b866137d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/top-wall-tile.png using Guid(b9790124cd3f240bba1a1984b866137d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a220019ad78059ec655278259ac164b') in 0.021700 seconds 
+  Import took 0.031951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/wall-tile-right.png
+  artifactKey: Guid(255326d2aba8941f5baf052c05ffd47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/wall-tile-right.png using Guid(255326d2aba8941f5baf052c05ffd47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1eca1f043c25b6adcbc043ebd694ebc') in 0.022455 seconds 
+  Import took 0.030376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_75.asset
+  artifactKey: Guid(61178d21d9b747244982d50a9e629e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_75.asset using Guid(61178d21d9b747244982d50a9e629e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6707e12a6a89522d315b583921526d22') in 0.014276 seconds 
+  Import took 0.025130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_86.asset
+  artifactKey: Guid(8a9432d3cc1650b4e886cd77110e3236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_86.asset using Guid(8a9432d3cc1650b4e886cd77110e3236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3214dbf0462f082f25b0dccabaeeb208') in 0.018528 seconds 
+  Import took 0.027101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_74.asset
+  artifactKey: Guid(a80e841245c7cda4b848ac08961a66f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_74.asset using Guid(a80e841245c7cda4b848ac08961a66f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9757a3dcdaa8831d77b8c6d702a6e61') in 0.015401 seconds 
+  Import took 0.024756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_87.asset
+  artifactKey: Guid(9f2b7cd25151ebf4393a858cca19e1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_87.asset using Guid(9f2b7cd25151ebf4393a858cca19e1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c8f0df6b26b0677aa5ea9caf563ff9') in 0.012959 seconds 
+  Import took 0.019041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_71.asset
+  artifactKey: Guid(b68c3dda14a353d41958f8020e5b09f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_71.asset using Guid(b68c3dda14a353d41958f8020e5b09f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8194dc2478d25227fb474a94bd0edd') in 0.013931 seconds 
+  Import took 0.021316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_81.asset
+  artifactKey: Guid(003a87d25452cfc4c9f8869dea6662ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilesets/TinyRPGTown/Artwork/Sprites/tileset_81.asset using Guid(003a87d25452cfc4c9f8869dea6662ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1be096ffafbd6b33af6c58390b0b522') in 0.017759 seconds 
+  Import took 0.026213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.150557 seconds.
+  path: Assets/Sprites/GalleCity/galletcity.png
+  artifactKey: Guid(55d52075d44930341801eb9f3ec322d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GalleCity/galletcity.png using Guid(55d52075d44930341801eb9f3ec322d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf8b84460a25e3bb67d77d02ff85b0c') in 0.020796 seconds 
+  Import took 0.027252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Sprites/GalleCity/galletcity_tiles.png
+  artifactKey: Guid(a2c98f7a887f6424ab78ae3992644e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GalleCity/galletcity_tiles.png using Guid(a2c98f7a887f6424ab78ae3992644e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8587c37e075ac654eb8dc436c932261') in 0.256730 seconds 
+  Import took 0.264627 seconds .
+
