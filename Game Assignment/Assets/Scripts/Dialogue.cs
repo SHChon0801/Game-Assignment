@@ -5,8 +5,13 @@ using UnityEngine;
 [System.Serializable]
 public class Dialogue
 {
-    public string[] sentences;
-    public string name;
+    [SerializeField] List<string> lines;
 
-
+    public List<string> Lines
+    {
+        get
+        {
+            return lines;
+        }
+    }
 }
