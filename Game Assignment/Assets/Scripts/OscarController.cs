@@ -39,10 +39,10 @@ public class OscarController : MonoBehaviour
 
         if (Input.GetAxis("Run") > 0.1f)
         {
-            moveSpeed = 15;
+            moveSpeed = 8;
         } else if (Input.GetAxis("Run") < 0.1f)
         {
-            moveSpeed = 10;
+            moveSpeed = 5;
         }
 
         float horizontalInput = Input.GetAxis("Horizontal");

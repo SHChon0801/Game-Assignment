@@ -466,10 +466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57994c46178b1204a8749ba8f414301b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textDisplay: {fileID: 0}
-  secondsLeft: 30
-  minutesLeft: 1
-  takingAway: 0
+  timerText: {fileID: 0}
 --- !u!1 &576480073 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1925064578143185183, guid: 60f380dac1a77a9478350b2cc9f5686c, type: 3}
@@ -1089,6 +1086,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2047537587}
   m_CullTransparentMesh: 1
+--- !u!1 &2048846863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2048846865}
+  - component: {fileID: 2048846864}
+  m_Layer: 0
+  m_Name: try
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2048846864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2048846863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ce416e501855741b6e0aa044a399d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timer1: {fileID: 2079252379}
+--- !u!4 &2048846865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2048846863}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 120.62366, y: 431.8324, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2079252378
 GameObject:
   m_ObjectHideFlags: 0
@@ -1100,7 +1141,7 @@ GameObject:
   - component: {fileID: 2079252380}
   - component: {fileID: 2079252379}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: time
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1118,10 +1159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57994c46178b1204a8749ba8f414301b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textDisplay: {fileID: 1743225437}
-  secondsLeft: 30
-  minutesLeft: 1
-  takingAway: 0
+  timerText: {fileID: 1743225439}
 --- !u!4 &2079252380
 Transform:
   m_ObjectHideFlags: 0

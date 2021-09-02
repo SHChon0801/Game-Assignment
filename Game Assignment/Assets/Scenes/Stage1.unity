@@ -22210,6 +22210,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oscar
       objectReference: {fileID: 0}
+    - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: moveSpeed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7580820767259683092, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: m_RootOrder
       value: 10
