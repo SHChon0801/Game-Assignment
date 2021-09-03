@@ -37,16 +37,16 @@ TextureImporter:
     second: DogRunLeft3
   - first:
       213: 7965902534583346582
-    second: DogLeft_20
+    second: nDogIdleLeft3
   - first:
       213: 4168828887166766903
-    second: DogLeft_21
+    second: nDogIdleLeft2
   - first:
       213: -5666174245074348678
-    second: DogLeft_22
+    second: nDogIdleLeft1
   - first:
       213: -140711319087421563
-    second: DogLeft_23
+    second: nDogIdleLeft0
   - first:
       213: 3945262621363821106
     second: DogLeft_25
@@ -109,7 +109,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 10
@@ -169,91 +169,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DogLeft_4
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 224
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca7e791eb557c14f0800000000000000
-      internalID: -856680791619934292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_5
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 224
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a99df897b19b5030800000000000000
-      internalID: 3484538954433010086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_6
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 224
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4b598ed19658dc20800000000000000
-      internalID: 3231427917142121290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_7
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 224
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 906a99e1c2918ed40800000000000000
-      internalID: 5613764612799964681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_20
+      name: nDogIdleLeft3
       rect:
         serializedVersion: 2
         x: 5
@@ -261,7 +177,7 @@ TextureImporter:
         width: 26
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -274,7 +190,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogLeft_21
+      name: nDogIdleLeft2
       rect:
         serializedVersion: 2
         x: 37
@@ -282,7 +198,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -295,7 +211,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogLeft_22
+      name: nDogIdleLeft1
       rect:
         serializedVersion: 2
         x: 69
@@ -303,7 +219,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -316,7 +232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogLeft_23
+      name: nDogIdleLeft0
       rect:
         serializedVersion: 2
         x: 101
@@ -324,7 +240,7 @@ TextureImporter:
         width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -332,153 +248,6 @@ TextureImporter:
       bones: []
       spriteID: 587eae10dc71c0ef0800000000000000
       internalID: -140711319087421563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_25
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 65
-        width: 29
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23a5404837360c630800000000000000
-      internalID: 3945262621363821106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_26
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 65
-        width: 26
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8c2792c1ed46d4f0800000000000000
-      internalID: -804369851411387252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_27
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 65
-        width: 26
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b5df4ae6831684d0800000000000000
-      internalID: -3132795020611955277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_28
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 33
-        width: 26
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: faee0564f013a7c10800000000000000
-      internalID: 2052006521894661807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_31
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 1
-        width: 29
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30beb2ea99481b690800000000000000
-      internalID: -7588138101555598589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_32
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 1
-        width: 29
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e08e2e61a0b2c88f0800000000000000
-      internalID: -537006933230295026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogLeft_33
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 2
-        width: 27
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3716682d1d541020800000000000000
-      internalID: 2311574888561121084
       vertices: []
       indices: 
       edges: []

@@ -47,9 +47,6 @@ TagManager:
   - name: building
     uniqueID: 3948074479
     locked: 0
-  - name: Oscar
-    uniqueID: 2932661061
-    locked: 0
   - name: ground
     uniqueID: 3359276601
     locked: 0
@@ -61,4 +58,7 @@ TagManager:
     locked: 0
   - name: Enemies
     uniqueID: 3063105157
+    locked: 0
+  - name: Oscar
+    uniqueID: 2932661061
     locked: 0
