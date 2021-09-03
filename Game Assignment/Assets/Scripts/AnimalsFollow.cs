@@ -27,6 +27,11 @@ public class AnimalsFollow : MonoBehaviour
             else
                 animator.SetInteger("moveDir", 2);
         }
+
+        if (moveSpeed == 0)
+        {
+            animator.SetInteger("moveDir", 0);
+        }
     }
 
     // Update is called once per frame
