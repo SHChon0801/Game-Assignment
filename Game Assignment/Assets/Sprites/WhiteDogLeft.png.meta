@@ -16,16 +16,16 @@ TextureImporter:
     second: WhiteDogLeft_3
   - first:
       213: 5122486302579420894
-    second: WhiteDogLeft_4
+    second: WhiteDogMoveLeft3
   - first:
       213: 5142982787121445246
-    second: WhiteDogLeft_5
+    second: WhiteDogMoveLeft2
   - first:
       213: -626830299786708317
-    second: WhiteDogLeft_6
+    second: WhiteDogMoveLeft1
   - first:
       213: -566090989202015442
-    second: WhiteDogLeft_7
+    second: WhiteDogMoveLeft0
   - first:
       213: -4451650542979294303
     second: WhiteDogLeft_8
@@ -40,16 +40,16 @@ TextureImporter:
     second: WhiteDogLeft_11
   - first:
       213: -4401283956441791302
-    second: WhiteDogLeft_12
+    second: WhiteDogMoveRight0
   - first:
       213: 4701218358241834227
-    second: WhiteDogLeft_13
+    second: WhiteDogMoveRight1
   - first:
       213: 913796377706764018
-    second: WhiteDogLeft_14
+    second: WhiteDogMoveRight2
   - first:
       213: 121892653908153726
-    second: WhiteDogLeft_15
+    second: WhiteDogMoveRight3
   - first:
       213: 5064945818333891312
     second: WhiteDogLeft_16
@@ -64,16 +64,16 @@ TextureImporter:
     second: WhiteDogLeft_19
   - first:
       213: 8522665680319440837
-    second: WhiteDogLeft_20
+    second: WhiteDogIdleLeft3
   - first:
       213: 1211647000666436672
-    second: WhiteDogLeft_21
+    second: WhiteDogIdleLeft2
   - first:
       213: -7689396980460657557
-    second: WhiteDogLeft_22
+    second: WhiteDogIdleLeft1
   - first:
       213: 6211223979543378887
-    second: WhiteDogLeft_23
+    second: WhiteDogIdleLeft0
   - first:
       213: -9108848660333478785
     second: WhiteDogLeft_24
@@ -205,91 +205,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhiteDogLeft_0
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 257
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 038602ea5168356f0800000000000000
-      internalID: -697066089638500304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_1
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 257
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cc658dfc65581c20800000000000000
-      internalID: 3177383463708093636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_2
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 257
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 373f8423f2682dca0800000000000000
-      internalID: -5993580616811482253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_3
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 257
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55b5960f7f4f29c90800000000000000
-      internalID: -7164394711465501867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_4
+      name: WhiteDogMoveLeft3
       rect:
         serializedVersion: 2
         x: 3
@@ -297,7 +213,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -310,7 +226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_5
+      name: WhiteDogMoveLeft2
       rect:
         serializedVersion: 2
         x: 35
@@ -318,7 +234,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -331,7 +247,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_6
+      name: WhiteDogMoveLeft1
       rect:
         serializedVersion: 2
         x: 67
@@ -339,7 +255,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -352,7 +268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_7
+      name: WhiteDogMoveLeft0
       rect:
         serializedVersion: 2
         x: 99
@@ -360,7 +276,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -373,91 +289,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_8
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 193
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ab5b81ca6f8832c0800000000000000
-      internalID: -4451650542979294303
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_9
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 193
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7584af8650dc20550800000000000000
-      internalID: 6125683866297059415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_10
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 193
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 741d1091f83ebb600800000000000000
-      internalID: 485231588611838279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_11
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 193
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d30922cce15b13390800000000000000
-      internalID: -7840286332396859331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_12
+      name: WhiteDogMoveRight0
       rect:
         serializedVersion: 2
         x: 5
@@ -465,7 +297,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -478,7 +310,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_13
+      name: WhiteDogMoveRight1
       rect:
         serializedVersion: 2
         x: 37
@@ -486,7 +318,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -499,7 +331,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_14
+      name: WhiteDogMoveRight2
       rect:
         serializedVersion: 2
         x: 69
@@ -507,7 +339,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -520,7 +352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_15
+      name: WhiteDogMoveRight3
       rect:
         serializedVersion: 2
         x: 101
@@ -528,7 +360,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -541,91 +373,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_16
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 129
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fa4464f26d4a4640800000000000000
-      internalID: 5064945818333891312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_17
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 129
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03ba5baa324cc5f80800000000000000
-      internalID: -8116396770961544400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_18
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 129
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b8af47115edf4070800000000000000
-      internalID: 8092931495272884403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_19
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 129
-        width: 16
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 393f6f8e6f8953110800000000000000
-      internalID: 1240065458648314771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_20
+      name: WhiteDogIdleLeft3
       rect:
         serializedVersion: 2
         x: 3
@@ -633,7 +381,7 @@ TextureImporter:
         width: 24
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -646,7 +394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_21
+      name: WhiteDogIdleLeft2
       rect:
         serializedVersion: 2
         x: 35
@@ -654,7 +402,7 @@ TextureImporter:
         width: 25
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -667,7 +415,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_22
+      name: WhiteDogIdleLeft1
       rect:
         serializedVersion: 2
         x: 67
@@ -675,7 +423,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -688,7 +436,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhiteDogLeft_23
+      name: WhiteDogIdleLeft0
       rect:
         serializedVersion: 2
         x: 99
@@ -696,7 +444,7 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -704,216 +452,6 @@ TextureImporter:
       bones: []
       spriteID: 7cb32190d43b23650800000000000000
       internalID: 6211223979543378887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_24
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 65
-        width: 17
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7cb708776ed69180800000000000000
-      internalID: -9108848660333478785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_25
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 65
-        width: 27
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cedbfe03ec5ce8eb0800000000000000
-      internalID: -4715614270435377684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_26
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 65
-        width: 24
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38eaa429e0d6406a0800000000000000
-      internalID: -6483937654155334013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_27
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 65
-        width: 24
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 100c74aa2a4fd9960800000000000000
-      internalID: 7610507924804714497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_28
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 33
-        width: 24
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0149449f961bed7c0800000000000000
-      internalID: -4044600346620423152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_29
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 37
-        width: 29
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61f93b33753b6cdd0800000000000000
-      internalID: -2466086558827831530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_30
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 37
-        width: 29
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 607d54b397252bf80800000000000000
-      internalID: -8092314899792406778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_31
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 1
-        width: 29
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 134a028c5d0cb6f80800000000000000
-      internalID: -8112178279359667151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_32
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 1
-        width: 28
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 657c959c260f349f0800000000000000
-      internalID: -485280027750316202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WhiteDogLeft_33
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 2
-        width: 26
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 696dd1fc6b15ef220800000000000000
-      internalID: 2521542686974793366
       vertices: []
       indices: 
       edges: []

@@ -145,7 +145,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 10
@@ -373,148 +373,85 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogBark0
+      name: nDogLeft0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 65
-        width: 26
+        x: 101
+        y: 161
+        width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbe5f9170d882cd80800000000000000
-      internalID: -8231866740039000389
+      spriteID: cc28117c2b6707580800000000000000
+      internalID: -8831428359057472820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogBark1
+      name: nDogLeft1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 65
-        width: 26
+        x: 69
+        y: 161
+        width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e39cca2a1970fd4d0800000000000000
-      internalID: -3107756895781467842
+      spriteID: fe2129c66e7968ee0800000000000000
+      internalID: -1259152029883690257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogBark2
+      name: nDogLeft2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 65
-        width: 29
+        x: 37
+        y: 161
+        width: 23
         height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e96434116bc7c1d0800000000000000
-      internalID: -3330469781605946905
+      spriteID: e6a0050e02bd78cf0800000000000000
+      internalID: -249990320046994834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DogRunRight0
+      name: nDogLeft3
       rect:
         serializedVersion: 2
-        x: 97
-        y: 33
-        width: 26
+        x: 5
+        y: 161
+        width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd4b2ae60da87b7c0800000000000000
-      internalID: -4055620311609854756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogRunRight1
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 2
-        width: 27
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41039dd7f96593ca0800000000000000
-      internalID: -6036698582502264812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogRunRight2
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 1
-        width: 29
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a0530ded4c7114a0800000000000000
-      internalID: -6624376902754545502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DogRunRight3
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 1
-        width: 29
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a92be7eb72c09fe00800000000000000
-      internalID: 1078906950571176602
+      spriteID: a20b7d91d4cdcbad0800000000000000
+      internalID: -2685029054115499990
       vertices: []
       indices: 
       edges: []
