@@ -8,7 +8,7 @@ public class TimeSet : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        timer1.SetDuration(6)
+        timer1.SetDuration(70)
             .Onbegin(() => Debug.Log("Time start"))
             .Onchange(s => Debug.Log("Time change" + s))
             .Onend(() => Debug.Log("Time end"))
@@ -17,11 +17,8 @@ public class TimeSet : MonoBehaviour
     }
 
     // Update is called once per frame
-    private void Update()
+    void Update()
     {
-        if(Input.GetKeyUp("p"))
-        {
-            timer1.SetPaused(!timer1.isPaused);
-        }
+
     }
 }
