@@ -18,7 +18,7 @@ public class GiveQuest : MonoBehaviour
         questWindow.SetActive(true);
         titleText.text = quest.title;
         descriptionText.text = quest.description;
-        experienceText.text = quest.experienceReward.ToString();
+        experienceText.text = "Total EXP :" + quest.experienceReward.ToString();
     }
 
     public void AcceptQuest()
