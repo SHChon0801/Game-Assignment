@@ -103,7 +103,7 @@ public class TimeCountDown : MonoBehaviour
 
     private void UpdateUI(int seconds)
     {
-        timerText.text = string.Format("{0:D2}:{1:D2}", seconds / 60, seconds % 60);
+        timerText.text = string.Format("Time Left - {0:D2}:{1:D2}", seconds / 60, seconds % 60);
     }
 
     public void End()
