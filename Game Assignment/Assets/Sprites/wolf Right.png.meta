@@ -4,67 +4,67 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -1314842103859298477
-    second: wolf Right_0
+    second: WolfAttackLeft4
   - first:
       213: -845655723929173826
-    second: wolf Right_1
+    second: WolfAttackLeft3
   - first:
       213: 708117309814886985
-    second: wolf Right_2
+    second: WolfAttackLeft2
   - first:
       213: 4795629690752692479
-    second: wolf Right_3
+    second: WolfAttackLeft1
   - first:
       213: -1590600481339142221
-    second: wolf Right_4
+    second: WolfAttackLeft0
   - first:
       213: -419827567850141264
-    second: wolf Right_12
+    second: WolfDeathLeft4
   - first:
       213: 357122552008419094
-    second: wolf Right_13
+    second: WolfDeathLeft3
   - first:
       213: -6755176613325058212
-    second: wolf Right_14
+    second: WolfDeathLeft2
   - first:
       213: 7728133145061252160
-    second: wolf Right_15
+    second: WolfDeathLeft1
   - first:
       213: 1941609419431160207
-    second: wolf Right_16
+    second: WolfDeathLeft0
   - first:
       213: -4938749745519356754
-    second: wolf Right_23
+    second: WolfHurtLeft0
   - first:
       213: 5020551820848365859
-    second: wolf Right_24
+    second: WolfHurtLeft0
   - first:
       213: 3898512541668848532
-    second: wolf Right_29
+    second: WolfIdleLeft3
   - first:
       213: -5725164165316129617
-    second: wolf Right_30
+    second: WolfIdleLeft2
   - first:
       213: -4318483671425617298
-    second: wolf Right_31
+    second: WolfIdleLeft1
   - first:
       213: 7796940281282118232
-    second: wolf Right_32
+    second: WolfIdleLeft0
   - first:
       213: 4181556288325664451
-    second: wolf Right_37
+    second: WolfWalkLeft4
   - first:
       213: 6765098342615978140
-    second: wolf Right_38
+    second: WolfWalkLeft3
   - first:
       213: 2345816291387055770
-    second: wolf Right_39
+    second: WolfWalkLeft2
   - first:
       213: 7880378638392842069
-    second: wolf Right_40
+    second: WolfWalkLeft1
   - first:
       213: 6023216353396904371
-    second: wolf Right_41
+    second: WolfWalkLeft0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -106,10 +106,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -166,7 +166,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wolf Right_0
+      name: WolfAttackLeft4
       rect:
         serializedVersion: 2
         x: 10
@@ -174,7 +174,7 @@ TextureImporter:
         width: 49
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_1
+      name: WolfAttackLeft3
       rect:
         serializedVersion: 2
         x: 68
@@ -195,7 +195,7 @@ TextureImporter:
         width: 52
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,7 +208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_2
+      name: WolfAttackLeft2
       rect:
         serializedVersion: 2
         x: 128
@@ -216,7 +216,7 @@ TextureImporter:
         width: 41
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_3
+      name: WolfAttackLeft1
       rect:
         serializedVersion: 2
         x: 189
@@ -237,7 +237,7 @@ TextureImporter:
         width: 42
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,7 +250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_4
+      name: WolfAttackLeft0
       rect:
         serializedVersion: 2
         x: 249
@@ -258,7 +258,7 @@ TextureImporter:
         width: 45
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,15 +271,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_12
+      name: WolfDeathLeft4
       rect:
         serializedVersion: 2
-        x: 0
+        x: 9
         y: 193
-        width: 60
-        height: 62
+        width: 51
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_13
+      name: WolfDeathLeft3
       rect:
         serializedVersion: 2
         x: 68
@@ -300,7 +300,7 @@ TextureImporter:
         width: 50
         height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,7 +313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_14
+      name: WolfDeathLeft2
       rect:
         serializedVersion: 2
         x: 128
@@ -321,7 +321,7 @@ TextureImporter:
         width: 47
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_15
+      name: WolfDeathLeft1
       rect:
         serializedVersion: 2
         x: 189
@@ -342,7 +342,7 @@ TextureImporter:
         width: 41
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -355,7 +355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_16
+      name: WolfDeathLeft0
       rect:
         serializedVersion: 2
         x: 249
@@ -363,7 +363,7 @@ TextureImporter:
         width: 45
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -376,15 +376,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_23
+      name: WolfHurtLeft1
       rect:
         serializedVersion: 2
         x: 190
-        y: 133
+        y: 134
         width: 43
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -397,7 +397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_24
+      name: WolfHurtLeft0
       rect:
         serializedVersion: 2
         x: 250
@@ -405,7 +405,7 @@ TextureImporter:
         width: 43
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -418,7 +418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_29
+      name: WolfIdleLeft3
       rect:
         serializedVersion: 2
         x: 70
@@ -426,7 +426,7 @@ TextureImporter:
         width: 45
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -439,7 +439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_30
+      name: WolfIdleLeft2
       rect:
         serializedVersion: 2
         x: 130
@@ -447,7 +447,7 @@ TextureImporter:
         width: 46
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -460,7 +460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_31
+      name: WolfIdleLeft1
       rect:
         serializedVersion: 2
         x: 189
@@ -468,7 +468,7 @@ TextureImporter:
         width: 46
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -481,7 +481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_32
+      name: WolfIdleLeft0
       rect:
         serializedVersion: 2
         x: 249
@@ -489,7 +489,7 @@ TextureImporter:
         width: 45
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -502,7 +502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_37
+      name: WolfWalkLeft4
       rect:
         serializedVersion: 2
         x: 8
@@ -510,7 +510,7 @@ TextureImporter:
         width: 56
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -523,7 +523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_38
+      name: WolfWalkLeft3
       rect:
         serializedVersion: 2
         x: 68
@@ -531,7 +531,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -544,7 +544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_39
+      name: WolfWalkLeft2
       rect:
         serializedVersion: 2
         x: 128
@@ -552,7 +552,7 @@ TextureImporter:
         width: 57
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -565,7 +565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_40
+      name: WolfWalkLeft1
       rect:
         serializedVersion: 2
         x: 189
@@ -573,7 +573,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -586,7 +586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolf Right_41
+      name: WolfWalkLeft0
       rect:
         serializedVersion: 2
         x: 250
@@ -594,7 +594,7 @@ TextureImporter:
         width: 53
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

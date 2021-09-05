@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8000470692134058139}
   - component: {fileID: 2548240254797422058}
-  - component: {fileID: 7013160349593156287}
   - component: {fileID: 8364736252492817000}
   - component: {fileID: 6199017711283180286}
   - component: {fileID: 7328590196821276360}
+  - component: {fileID: 461546944656190655}
   m_Layer: 0
   m_Name: Monkey
   m_TagString: Untagged
@@ -86,25 +86,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &7013160349593156287
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8183962898165783655}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c1e23381cd6ad6445877d2ccd81f985c, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!70 &8364736252492817000
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -156,4 +137,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   moveSpeed: 1
-  animator: {fileID: 7013160349593156287}
+  animator: {fileID: 461546944656190655}
+--- !u!95 &461546944656190655
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8183962898165783655}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 645665b7c5153e04e9df753974a670a8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

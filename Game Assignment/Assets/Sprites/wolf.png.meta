@@ -1,7 +1,70 @@
 fileFormatVersion: 2
 guid: b7c62929824b5ac48860bb0788340273
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3803076867598882718
+    second: WolfAttackLeft0
+  - first:
+      213: 1914954141795869858
+    second: WolfAttackLeft1
+  - first:
+      213: 4215041585107827238
+    second: WolfAttackLeft2
+  - first:
+      213: -6896256503865849178
+    second: WolfAttackLeft3
+  - first:
+      213: -2078714079113573684
+    second: WolfAttackLeft4
+  - first:
+      213: -6609160197918323945
+    second: WolfDeathLeft0
+  - first:
+      213: -4120327096425636747
+    second: WolfDeathLeft1
+  - first:
+      213: 9048044315458523422
+    second: WolfDeathLeft2
+  - first:
+      213: -1080312473331906668
+    second: WolfDeathLeft3
+  - first:
+      213: 7657980355020301945
+    second: WolfDeathLeft4
+  - first:
+      213: 1714003552044144556
+    second: WolfHurtLeft0
+  - first:
+      213: 5747615619936293942
+    second: WolfHurtLeft1
+  - first:
+      213: 8869458652111653792
+    second: WolfIdleLeft0
+  - first:
+      213: 1675193723749547626
+    second: WolfIdleLeft1
+  - first:
+      213: -4803847317713867547
+    second: WolfIdleLeft2
+  - first:
+      213: -367008290652759306
+    second: WolfIdleLeft3
+  - first:
+      213: -8589830454500458186
+    second: WolfWalkleft0
+  - first:
+      213: 8753989098086674352
+    second: WolfWalkleft1
+  - first:
+      213: 5255875356411255892
+    second: WolfWalkleft2
+  - first:
+      213: -6932521919268460690
+    second: WolfWalkleft3
+  - first:
+      213: -623394614588861913
+    second: WolfWalkleft4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -43,10 +106,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -101,7 +164,448 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WolfAttackLeft0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 253
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979cb2f24e37c430800000000000000
+      internalID: 3803076867598882718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttackLeft1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 253
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4e7e665a8439a10800000000000000
+      internalID: 1914954141795869858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttackLeft2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 253
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af9d94df5de7a30800000000000000
+      internalID: 4215041585107827238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttackLeft3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 253
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa49176f339b40a0800000000000000
+      internalID: -6896256503865849178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttackLeft4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 253
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca05dcfe8ce623e0800000000000000
+      internalID: -2078714079113573684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeathLeft0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 193
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b8d6b11db8744a0800000000000000
+      internalID: -6609160197918323945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeathLeft1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 193
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c12231658a1d6c0800000000000000
+      internalID: -4120327096425636747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeathLeft2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d5e6cd5c119d70800000000000000
+      internalID: 9048044315458523422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeathLeft3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 193
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c0ac7785f101f0800000000000000
+      internalID: -1080312473331906668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeathLeft4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 193
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a7e52f8c964a60800000000000000
+      internalID: 7657980355020301945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfHurtLeft0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 133
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7595f362d59c710800000000000000
+      internalID: 1714003552044144556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfHurtLeft1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 133
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341ac344f1a3cf40800000000000000
+      internalID: 5747615619936293942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdleLeft0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4125d6a5a61b70800000000000000
+      internalID: 8869458652111653792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdleLeft1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 73
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3e02f0db7f3710800000000000000
+      internalID: 1675193723749547626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdleLeft2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 74
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eca370015e455db0800000000000000
+      internalID: -4803847317713867547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdleLeft3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 73
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad40677ef18eaf0800000000000000
+      internalID: -367008290652759306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfWalkleft0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 13
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310ba666bacac880800000000000000
+      internalID: -8589830454500458186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfWalkleft1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 13
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf291f34ba6c7970800000000000000
+      internalID: 8753989098086674352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfWalkleft2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 13
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5f923ace90f840800000000000000
+      internalID: 5255875356411255892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfWalkleft3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 13
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e4646b0cbacf90800000000000000
+      internalID: -6932521919268460690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfWalkleft4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 15
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221a82a6e14957f0800000000000000
+      internalID: -623394614588861913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

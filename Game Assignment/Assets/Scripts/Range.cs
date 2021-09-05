@@ -26,6 +26,7 @@ public class Range : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             parent.target = null;
+            parent.animator.SetInteger("moveDir", 0);
             Debug.Log("Player exits range");
         }
     }
