@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class levelWindow : MonoBehaviour
+public class LevelWindow : MonoBehaviour
 {
     private Text levelText;
     private Image experienceBarImage;
-    private levelSystem levelSystem;
+    private LevelSystem levelSystem;
 
     private void Awake()
     {
@@ -15,39 +15,34 @@ public class levelWindow : MonoBehaviour
         experienceBarImage = transform.Find("experienceBar").Find("bar").GetComponent<Image>();
     }
 
-    private void setExperienceBarSize(float experienceNormalized)
+    private void SetExperienceBarSize(float experienceNormalized)
     {
         experienceBarImage.fillAmount = experienceNormalized;
     }
 
-    private void setLevelNumber(int levelNumber)
+    private void SetLevelNumber(int levelNumber)
     {
         levelText.text = "LVL  : " + (levelNumber + 1);
     }
 
-    public void setLevelSystem(levelSystem levelSystem)
+    public void SetLevelSystem(LevelSystem levelSystem)
     {
-        // set levelSystem values
         this.levelSystem = levelSystem;
 
-        // update starting value
-        setLevelNumber(levelSystem.getLevelNumber());
-        setExperienceBarSize(levelSystem.getExperienceNormalized());
+        SetLevelNumber(levelSystem.GetLevelNumber());
+        SetExperienceBarSize(levelSystem.GetExperienceNormalized());
 
-        // surbscribe to the changed events
-        levelSystem.OnExperienceChanged += levelSystem_OnExperienceChanged;
-        levelSystem.OnLevelChanged += levelSystem_OnLevelChanged;
+        levelSystem.OnExperienceChanged += LevelSystem_OnExperienceChanged;
+        levelSystem.OnLevelChanged += LevelSystem_OnLevelChanged;
     }
 
-    private void levelSystem_OnLevelChanged(object sender, System.EventArgs e)
+    private void LevelSystem_OnLevelChanged(object sender, System.EventArgs e)
     {
-        //level changed , update text
-        setLevelNumber(levelSystem.getLevelNumber());
+        SetLevelNumber(levelSystem.GetLevelNumber());
     }
 
-    private void levelSystem_OnExperienceChanged(object sender, System.EventArgs e)
+    private void LevelSystem_OnExperienceChanged(object sender, System.EventArgs e)
     {
-        //exp changed , update bar size
-        setExperienceBarSize(levelSystem.getExperienceNormalized());
+        SetExperienceBarSize(levelSystem.GetExperienceNormalized());
     }
 }
