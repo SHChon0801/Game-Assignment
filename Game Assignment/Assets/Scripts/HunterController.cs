@@ -44,7 +44,7 @@ public class HunterController : MonoBehaviour
         }
         if(inRange == false)
         {
-            anim.SetBool("canWalk", false);
+            anim.SetBool("canMove", false);
             StopAttack();
         }
     }
@@ -91,7 +91,7 @@ public class HunterController : MonoBehaviour
     {
         cooldown = cooldownTime;
         attackMode = true;
-        anim.SetBool("canWalk", false);
+        anim.SetBool("canMove", false);
         anim.SetBool("isAttack", true);
     }
 
