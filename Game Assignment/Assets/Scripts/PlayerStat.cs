@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 public class PlayerStat : MonoBehaviour
 {
     public static PlayerStat playerstat;
     public GameObject player;
-    public Text healthText;
+    public TextMeshPro healthText;
     public Slider healthSlider;
-    public Text apText;
+    public TextMeshPro apText;
     public Slider apSlider;
     public float health;
     public float maxHealth;
