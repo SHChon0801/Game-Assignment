@@ -19,18 +19,11 @@ public class InventorySystem : MonoBehaviour
 
     private void Update()
     {
-        //if (!PauseMenu.GameIsPause)
-        {
-            if (Input.GetKeyDown(KeyCode.I))
-            {
-                ToggleInventory();
-            }
-            else if (Input.GetKeyDown(KeyCode.Escape))
-            {
-                closeInventory();
-            }
-            Update_Inventory();
-        }
+        if (Input.GetKeyDown(KeyCode.I))
+            ToggleInventory();
+        else if (Input.GetKeyDown(KeyCode.Escape))
+            closeInventory();
+        Update_Inventory();
     }
 
     public void ToggleInventory()
@@ -49,9 +42,7 @@ public class InventorySystem : MonoBehaviour
 
     public void PickUp(GameObject item_list)
     {
-
         items.Add(item_list);
-
         Update_Inventory();
     }
 
