@@ -825,12 +825,26 @@ MonoBehaviour:
   attackDistance: 2
   moveSpeed: 2
   cooldown: 3
-  leftLimit: {fileID: 0}
-  rightLimit: {fileID: 0}
   dialog:
     lines:
     - Hey, who are you?
     - Step out of my way!
+--- !u!114 &576480075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576480073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d3f218106536c4ba27d31cf583318d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  maxHealth: 100
+  healthBar: {fileID: 1584210905}
+  healthBarSlider: {fileID: 503900455}
 --- !u!1 &603306185
 GameObject:
   m_ObjectHideFlags: 0
@@ -880,12 +894,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 621856562}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 850e2af89b32fe542a93dd258c709a22, type: 3}
+  m_Script: {fileID: 11500000, guid: ee17a997a8b4cec4a86c273c1d9f8ac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialoguebox: {fileID: 0}
-  dialogueText: {fileID: 0}
-  lettersPerSecond: 0
+  player: {fileID: 0}
+  healthText: {fileID: 0}
+  healthSlider: {fileID: 0}
+  apText: {fileID: 0}
+  apSlider: {fileID: 0}
+  health: 0
+  maxHealth: 0
 --- !u!114 &621856566 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
