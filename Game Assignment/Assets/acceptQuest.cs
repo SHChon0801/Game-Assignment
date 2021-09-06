@@ -5,13 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class acceptQuest : MonoBehaviour
 {
-
+    public GameObject dialogue;
     public GameObject acceptQuestMenu;
 
     public void acceptquest()
     {
-        Time.timeScale = 1f;
-        PauseMenu.GameIsPaused = false;
         SceneManager.LoadScene("Stage1");
     }
 
@@ -19,9 +17,17 @@ public class acceptQuest : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            acceptQuestMenu.SetActive(true);
-            Time.timeScale = 0f;
-            PauseMenu.GameIsPaused = true;
+            dialogue.SetActive(true);
+            Debug.Log("Success");
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            dialogue.SetActive(false);
+            acceptQuestMenu.SetActive(false);
             Debug.Log("Success");
         }
     }
