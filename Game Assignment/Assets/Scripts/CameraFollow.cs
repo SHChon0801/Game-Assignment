@@ -5,8 +5,8 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     public Transform player;
-    float xWidthC = 27f;
-    float yHeightC = 2f;
+    float xWidthC = 53f;
+    float yHeightC = 22f;
 
     // Start is called before the first frame update
     void Start()

@@ -1280,7 +1280,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65b5db5b27b5c3b44817141bd7a6e3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  acceptQuestMenu: {fileID: 1473599307}
+  dialogue: {fileID: 1473599307}
+  acceptQuestMenu: {fileID: 250019343}
 --- !u!61 &206340271
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2756,7 +2757,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 40.0762
+  orthographic size: 17.153076
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
