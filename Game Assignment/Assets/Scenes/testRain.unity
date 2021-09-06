@@ -820,11 +820,13 @@ MonoBehaviour:
   hunter: {fileID: 498102132}
   hunterMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1
   hunterLength: 6
   attackDistance: 2
   moveSpeed: 2
   cooldown: 3
+  leftLimit: {fileID: 0}
+  rightLimit: {fileID: 0}
   dialog:
     lines:
     - Hey, who are you?

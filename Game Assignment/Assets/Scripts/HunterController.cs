@@ -10,9 +10,11 @@ public class HunterController : MonoBehaviour
     public float attackDistance;
     public float moveSpeed;
     public float cooldown;
+    public Transform leftLimit;
+    public Transform rightLimit;
 
     private RaycastHit2D hit;
-    private GameObject target;
+    private Transform target;
     private Animator anim;
     private float distance;
     private bool attackMode;
@@ -28,21 +30,31 @@ public class HunterController : MonoBehaviour
 
     void Update()
     {
-        if(inRange)
+        if (!attackMode)
         {
-            hit = Physics2D.Raycast(hunter.position, Vector2.left, hunterLength, hunterMask);
+            Move();
+        }
+
+        if (!InsideLimit() && !inRange && !anim.GetCurrentAnimatorStateInfo(0).IsName("hunter"))
+        {
+            SelectTarget();
+        }
+
+        if (inRange)
+        {
+            hit = Physics2D.Raycast(hunter.position, transform.right, hunterLength, hunterMask);
             RaycastDebugger();
         }
 
-        if(hit.collider != null)
+        if (hit.collider != null)
         {
             EnemyLogic();
         }
-        else if(hit.collider == null)
+        else if (hit.collider == null)
         {
             inRange = false;
         }
-        if(inRange == false)
+        if (inRange == false)
         {
             anim.SetBool("canMove", false);
             StopAttack();
@@ -51,39 +63,39 @@ public class HunterController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Oscar")
+        if (other.gameObject.tag == "Oscar")
         {
-            target = other.gameObject;
+            target = other.transform;
             inRange = true;
         }
     }
 
     void EnemyLogic()
     {
-        distance = Vector2.Distance(transform.position, target.transform.position);
-        if(distance > attackDistance)
+        distance = Vector2.Distance(transform.position, target.position);
+        if (distance > attackDistance)
         {
             Move();
             StopAttack();
         }
-        else if(attackDistance >= distance && cooling == false)
+        else if (attackDistance >= distance && cooling == false)
         {
             Attack();
         }
-        if(cooling)
+        if (cooling)
         {
             Cooldown();
-            anim.SetBool("isAttack",false);
+            anim.SetBool("isAttack", false);
         }
     }
 
-   void Move()
+    void Move()
     {
         anim.SetBool("canWalk", true);
-        if(!anim.GetCurrentAnimatorStateInfo(0).IsName("hunter"))
+        if (!anim.GetCurrentAnimatorStateInfo(0).IsName("hunter"))
         {
             Vector2 targetPosition = new Vector2(target.transform.position.x, transform.position.y);
-            transform.position = Vector2.MoveTowards(transform.position,targetPosition, moveSpeed * Time.deltaTime);
+            transform.position = Vector2.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
         }
     }
 
@@ -98,7 +110,7 @@ public class HunterController : MonoBehaviour
     void Cooldown()
     {
         cooldown -= Time.deltaTime;
-        if(cooldown <= 0 && cooling && attackMode)
+        if (cooldown <= 0 && cooling && attackMode)
         {
             cooling = false;
             cooldown = cooldownTime;
@@ -113,10 +125,10 @@ public class HunterController : MonoBehaviour
 
     void RaycastDebugger()
     {
-        if(distance > attackDistance)
+        if (distance > attackDistance)
         {
             Debug.DrawRay(hunter.position, Vector2.left * hunterLength, Color.red);
-        }    
+        }
         else
         {
             Debug.DrawRay(hunter.position, Vector2.left * hunterLength, Color.green);
@@ -127,6 +139,19 @@ public class HunterController : MonoBehaviour
     {
         cooling = true;
     }
+
+    private bool InsideLimit()
+    {
+        return transform.position.x > leftLimit.position.x && transform.position.x < rightLimit.position.x;
+    }
+
+    private void SelectTarget()
+    {
+        float distancetoleft = Vector2.Distance(transform.position, leftLimit.position);
+        float distancetoright = Vector2.Distance(transform.position, rightLimit.position);
+    }
+
+
 
     [SerializeField] Dialogue dialog;
     public void Interact()

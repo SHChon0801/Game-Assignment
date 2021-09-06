@@ -2240,6 +2240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65b5db5b27b5c3b44817141bd7a6e3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogue: {fileID: 0}
   acceptQuestMenu: {fileID: 1591531535}
 --- !u!1 &1591531535
 GameObject:
@@ -2363,7 +2364,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65b5db5b27b5c3b44817141bd7a6e3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  acceptQuestMenu: {fileID: 1314323360}
+  dialogue: {fileID: 1314323360}
+  acceptQuestMenu: {fileID: 1808920921}
 --- !u!1 &1765742999
 GameObject:
   m_ObjectHideFlags: 0

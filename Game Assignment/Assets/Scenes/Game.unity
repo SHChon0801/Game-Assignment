@@ -2920,7 +2920,6 @@ GameObject:
   - component: {fileID: 534753645}
   - component: {fileID: 534753644}
   - component: {fileID: 534753643}
-  - component: {fileID: 534753642}
   m_Layer: 0
   m_Name: npcStage3
   m_TagString: Untagged
@@ -2928,19 +2927,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &534753642
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 534753641}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65b5db5b27b5c3b44817141bd7a6e3c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  acceptQuestMenu: {fileID: 1473599307}
 --- !u!61 &534753643
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7507,7 +7493,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &926271333
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7674,7 +7660,6 @@ GameObject:
   - component: {fileID: 933903300}
   - component: {fileID: 933903299}
   - component: {fileID: 933903298}
-  - component: {fileID: 933903297}
   m_Layer: 0
   m_Name: npcStage2
   m_TagString: Untagged
@@ -7682,19 +7667,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &933903297
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 933903296}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65b5db5b27b5c3b44817141bd7a6e3c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  acceptQuestMenu: {fileID: 1473599307}
 --- !u!61 &933903298
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10450,7 +10422,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: lol
+  m_text: 'Lily : Please save my pets! There are some creatures enter my house and
+    wanna eat them!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10812,7 +10785,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1473599308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47836,6 +47809,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5360144365618812125, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360144365618812125, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6524640092596644130, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: m_Name
       value: Oscar
