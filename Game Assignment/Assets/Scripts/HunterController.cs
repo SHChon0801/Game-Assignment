@@ -21,9 +21,4 @@ public class HunterController : MonoBehaviour
     private float cooldownTime;
 
 
-    [SerializeField] Dialogue dialog;
-    public void Interact()
-    {
-        DialogueManager.Instance.ShowDialog(dialog);
-    }
 }
