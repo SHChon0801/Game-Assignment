@@ -1,67 +1,67 @@
 fileFormatVersion: 2
-guid: c3b3d23ecbc343f43b764303c6284383
+guid: 10aa76a8c3f6e34489374e1b5ab8d351
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6263388890442168103
-    second: BatIdleLeft0
+      213: -8608136265296976935
+    second: BatIdleRight3
   - first:
-      213: 8615373810413218145
-    second: BatIdleLeft3
+      213: 7595075290706127223
+    second: BatIdleRight0
   - first:
-      213: -3850208551374217694
-    second: BatIdleLeft1
+      213: 6015260583304260186
+    second: BatIdleRight2
   - first:
-      213: 7665944921092234743
-    second: BatIdleLeft2
+      213: 4994289714556917522
+    second: BatIdleRight1
   - first:
-      213: -1028703682837738460
-    second: BatMoveLeft0
+      213: -7143892590273993872
+    second: BatMoveRight3
   - first:
-      213: 4070027297220807697
-    second: BatMoveLeft1
+      213: -1318571001046431117
+    second: BatMoveRight2
   - first:
-      213: -7619437673022615636
-    second: BatMoveLeft2
+      213: -7302216029644604209
+    second: BatMoveRight1
   - first:
-      213: -129661481983668330
-    second: BatMoveLeft3
+      213: 7263724022687770975
+    second: BatMoveRight0
   - first:
-      213: -2057771716921349535
-    second: BatAttackLeft0
+      213: -4905588299358751133
+    second: BatAttackRight3
   - first:
-      213: 3615907806464723668
-    second: BatAttackLeft1
+      213: 8458391209518892388
+    second: BatAttackRight2
   - first:
-      213: 7687268589337906610
-    second: BatAttackLeft2
+      213: 1779083708027889145
+    second: BatAttackRight1
   - first:
-      213: -2083438940516449349
-    second: BatAttackLeft3
+      213: -2239329904405022272
+    second: BatAttackRight0
   - first:
-      213: -2403680045501505751
-    second: BatHurtLeft0
+      213: -8568405689170332470
+    second: BatHurtRight3
   - first:
-      213: -7968730625709596472
-    second: BatHurtLeft1
+      213: -1642588175018581708
+    second: BatHurtRight1
   - first:
-      213: -3026052691099801752
-    second: BatHurtLeft3
+      213: 8690649040891639402
+    second: BatHurtRight0
   - first:
-      213: -4084535971504439152
-    second: BatDeathLeft0
+      213: 3873688177969272097
+    second: BatDeathRight3
   - first:
-      213: -4719058081659431773
-    second: BatDeathLeft1
+      213: 3477769831092837413
+    second: BatDeathRight2
   - first:
-      213: 3514273873287056671
-    second: BatDeathLeft2
+      213: -5470165203266698401
+    second: BatDeathRight1
   - first:
-      213: -5130233355206025157
-    second: BatDeathLeft3
+      213: -6052915942100447155
+    second: BatDeathRight0
   - first:
-      213: -697763020151794088
-    second: BatHurtLeft2
+      213: -8046078157651200245
+    second: BatHurtRight2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -163,421 +163,421 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BatIdleLeft0
+      name: BatIdleRight3
       rect:
         serializedVersion: 2
-        x: 169
-        y: 363
-        width: 68
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 727fee0d2070ce650800000000000000
-      internalID: 6263388890442168103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BatIdleLeft3
-      rect:
-        serializedVersion: 2
-        x: 375
+        x: 136
         y: 365
         width: 69
         height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16922e895d4ff8770800000000000000
-      internalID: 8615373810413218145
+      spriteID: 9d3e0d0bca1c98880800000000000000
+      internalID: -8608136265296976935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatIdleLeft1
+      name: BatIdleRight0
       rect:
         serializedVersion: 2
-        x: 236
-        y: 344
-        width: 69
-        height: 47
+        x: 342
+        y: 363
+        width: 70
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22e1b28c8bf419ac0800000000000000
-      internalID: -3850208551374217694
+      spriteID: 779a2e88cb0276960800000000000000
+      internalID: 7595075290706127223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatIdleLeft2
+      name: BatIdleRight2
       rect:
         serializedVersion: 2
-        x: 306
+        x: 205
         y: 352
         width: 69
         height: 37
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fd99613a48e26a60800000000000000
-      internalID: 7665944921092234743
+      spriteID: a5a624b51af7a7350800000000000000
+      internalID: 6015260583304260186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatMoveLeft0
+      name: BatIdleRight1
       rect:
         serializedVersion: 2
-        x: 169
-        y: 281
-        width: 69
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42c0255637f49b1f0800000000000000
-      internalID: -1028703682837738460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BatMoveLeft1
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 264
+        x: 275
+        y: 344
         width: 69
         height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11c4dfc4344ab7830800000000000000
-      internalID: 4070027297220807697
+      spriteID: 2175d85d8084f4540800000000000000
+      internalID: 4994289714556917522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatMoveLeft2
+      name: BatMoveRight3
       rect:
         serializedVersion: 2
-        x: 306
-        y: 272
-        width: 69
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: caf024f4ec1524690800000000000000
-      internalID: -7619437673022615636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BatMoveLeft3
-      rect:
-        serializedVersion: 2
-        x: 375
+        x: 136
         y: 286
         width: 69
         height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f0051b199533ef0800000000000000
-      internalID: -129661481983668330
+      spriteID: 0736c230a8bcbdc90800000000000000
+      internalID: -7143892590273993872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatAttackLeft0
+      name: BatMoveRight2
       rect:
         serializedVersion: 2
-        x: 169
-        y: 203
+        x: 205
+        y: 272
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0f7f19ae73bde0800000000000000
+      internalID: -1318571001046431117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatMoveRight1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 264
         width: 69
         height: 47
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16aae08a6835173e0800000000000000
-      internalID: -2057771716921349535
+      spriteID: fccbed7b53159aa90800000000000000
+      internalID: -7302216029644604209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatAttackLeft1
+      name: BatMoveRight0
       rect:
         serializedVersion: 2
-        x: 236
-        y: 190
+        x: 342
+        y: 281
         width: 69
-        height: 34
+        height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4da44e8fdf84e2230800000000000000
-      internalID: 3615907806464723668
+      spriteID: f59a6c6838eedc460800000000000000
+      internalID: 7263724022687770975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatAttackLeft2
+      name: BatAttackRight3
       rect:
         serializedVersion: 2
-        x: 306
-        y: 192
-        width: 69
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bd01889d0aaeaa60800000000000000
-      internalID: 7687268589337906610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BatAttackLeft3
-      rect:
-        serializedVersion: 2
-        x: 377
+        x: 133
         y: 200
         width: 70
         height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb30d4772532613e0800000000000000
-      internalID: -2083438940516449349
+      spriteID: 366b862ce69dbebb0800000000000000
+      internalID: -4905588299358751133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatHurtLeft0
+      name: BatAttackRight2
       rect:
         serializedVersion: 2
-        x: 169
-        y: 119
+        x: 205
+        y: 192
         width: 69
-        height: 52
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92f103edbb964aed0800000000000000
-      internalID: -2403680045501505751
+      spriteID: 46509a69dfd326570800000000000000
+      internalID: 8458391209518892388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatHurtLeft1
+      name: BatAttackRight1
       rect:
         serializedVersion: 2
-        x: 236
-        y: 101
-        width: 70
-        height: 46
+        x: 275
+        y: 190
+        width: 69
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c0adcf47b1696190800000000000000
-      internalID: -7968730625709596472
+      spriteID: 9f5efaad43390b810800000000000000
+      internalID: 1779083708027889145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatHurtLeft3
+      name: BatAttackRight0
       rect:
         serializedVersion: 2
-        x: 375
+        x: 342
+        y: 203
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97701015d4ce0e0800000000000000
+      internalID: -2239329904405022272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatHurtRight3
+      rect:
+        serializedVersion: 2
+        x: 136
         y: 123
         width: 69
         height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867a1633c1d4106d0800000000000000
-      internalID: -3026052691099801752
+      spriteID: ac4f09d4c68e61980800000000000000
+      internalID: -8568405689170332470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatDeathLeft0
+      name: BatHurtRight1
       rect:
         serializedVersion: 2
-        x: 169
-        y: 34
+        x: 274
+        y: 101
         width: 70
-        height: 50
+        height: 46
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0904c2abc20d057c0800000000000000
-      internalID: -4084535971504439152
+      spriteID: 431a2c3f1ca5439e0800000000000000
+      internalID: -1642588175018581708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatDeathLeft1
+      name: BatHurtRight0
       rect:
         serializedVersion: 2
-        x: 245
-        y: 30
-        width: 57
-        height: 61
+        x: 342
+        y: 119
+        width: 69
+        height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a4d0486da9828eb0800000000000000
-      internalID: -4719058081659431773
+      spriteID: a667fe5f1436b9870800000000000000
+      internalID: 8690649040891639402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatDeathLeft2
+      name: BatDeathRight3
       rect:
         serializedVersion: 2
-        x: 315
-        y: 26
-        width: 56
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1d06b4e77535c030800000000000000
-      internalID: 3514273873287056671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BatDeathLeft3
-      rect:
-        serializedVersion: 2
-        x: 383
+        x: 142
         y: 26
         width: 55
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b30a510d1ffbdc8b0800000000000000
-      internalID: -5130233355206025157
+      spriteID: 1251d7acfda12c530800000000000000
+      internalID: 3873688177969272097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BatHurtLeft2
+      name: BatDeathRight2
       rect:
         serializedVersion: 2
-        x: 306
-        y: 109
-        width: 69
-        height: 36
+        x: 209
+        y: 26
+        width: 56
+        height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 856d276ea3c0156f0800000000000000
-      internalID: -697763020151794088
+      spriteID: 52cdbd04c35834030800000000000000
+      internalID: 3477769831092837413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatDeathRight1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 30
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530694dab11614b0800000000000000
+      internalID: -5470165203266698401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatDeathRight0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 34
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ddc73509bffba0800000000000000
+      internalID: -6052915942100447155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatHurtRight2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 109
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07bb2aab86965090800000000000000
+      internalID: -8046078157651200245
       vertices: []
       indices: 
       edges: []
