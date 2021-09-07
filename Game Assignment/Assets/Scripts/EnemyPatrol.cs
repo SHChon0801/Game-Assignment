@@ -41,13 +41,7 @@ public class EnemyPatrol : MonoBehaviour
             moveLeft();
         }
 
-        if (localScale.x == 1)
-        {
-            animator.SetBool("isMoveRight", true);
-        } else if(localScale.x == -1)
-        {
-            animator.SetBool("isMoveRight", false);
-        }
+        animator.SetBool("isMoveRight", true);
         transform.Translate(new Vector3(localScale.x, 0, 0) * moveSpeed * Time.deltaTime);
 
     }
@@ -55,7 +49,7 @@ public class EnemyPatrol : MonoBehaviour
     {
         isMoveRight = true;
         localScale.x = 1;
-        transform.localScale = localScale;        
+        transform.localScale = localScale;
     }
 
     void moveLeft()

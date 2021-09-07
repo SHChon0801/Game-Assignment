@@ -17,7 +17,7 @@ public class Range : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             parent.target = other.transform;
-            Debug.Log("Player enter range");
+            parent.animator.SetBool("isMoveRight", false);
         }
     }
 
@@ -27,7 +27,6 @@ public class Range : MonoBehaviour
         {
             parent.target = null;
             parent.animator.SetInteger("moveDir", 0);
-            Debug.Log("Player exits range");
         }
     }
 
