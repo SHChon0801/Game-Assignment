@@ -24,7 +24,6 @@ public class PlayerStat : MonoBehaviour
         {
             playerstat = this;
         }
-        DontDestroyOnLoad(this);
     }
 
     void Start()
