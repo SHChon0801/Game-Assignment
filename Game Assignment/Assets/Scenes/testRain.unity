@@ -215,9 +215,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oscar
       objectReference: {fileID: 0}
+    - target: {fileID: 6279103954418012761, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_Size.x
+      value: 6.4808607
+      objectReference: {fileID: 0}
+    - target: {fileID: 6279103954418012761, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.4904312
+      objectReference: {fileID: 0}
+    - target: {fileID: 6279103954418012761, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: moveSpeed
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: quest.title
+      value: Help Lily to save her pets!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: quest.isActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7580820767259683092, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: m_RootOrder
