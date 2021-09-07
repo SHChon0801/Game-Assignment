@@ -8,13 +8,12 @@ public class enemyDamage : MonoBehaviour
 
      void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag != "Enemy")
+        if(other.tag == "Enemy")
         {
-            if(other.tag == "Oscar")
+            if(other.GetComponent<Enemygethurt>() != null)
             {
-                PlayerStat.playerstat.DealDamage(damage);
+                other.GetComponent<Enemygethurt>().DealDamage(damage);
             }
-            Destroy(gameObject);
         }
     }
 }
