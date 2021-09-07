@@ -7,12 +7,14 @@ public class PlayerStat : MonoBehaviour
 {
     public static PlayerStat playerstat;
     public GameObject player;
-    public TextMeshPro healthText;
+    public Text healthText;
     public Slider healthSlider;
-    public TextMeshPro apText;
+    public Text apText;
     public Slider apSlider;
     public float health;
     public float maxHealth;
+    public float aphealth;
+    public float maxAP;
 
      void Awake()
     {
@@ -29,6 +31,7 @@ public class PlayerStat : MonoBehaviour
     void Start()
     {
         health = maxHealth;
+        aphealth = maxAP;
         setHealUI();
     }
 
@@ -49,8 +52,9 @@ public class PlayerStat : MonoBehaviour
     private void setHealUI()
     {
         healthSlider.value = healthPercentage();
+        apSlider.value = apPercentage();
         healthText.text = Mathf.Ceil(health).ToString() + " / " + Mathf.Ceil(maxHealth).ToString();
-        apText.text = Mathf.Ceil(health).ToString() + " / " + Mathf.Ceil(maxHealth).ToString();
+        apText.text = Mathf.Ceil(aphealth).ToString() + " / " + Mathf.Ceil(maxAP).ToString();
     }
 
     private void CheckOverheal()
@@ -77,4 +81,8 @@ public class PlayerStat : MonoBehaviour
         return health / maxHealth;
     }
 
+    float apPercentage()
+    {
+        return aphealth / maxAP;
+    }
 }
