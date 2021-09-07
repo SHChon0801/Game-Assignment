@@ -3,21 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class acceptQuest : MonoBehaviour
+
+public class acceptQuest2 : MonoBehaviour
 {
-    public GameObject dialogue;
-    public GameObject acceptQuestMenu;
+    public GameObject dialogue2;
+    public GameObject acceptQuestMenu2;
 
     public void acceptquest()
     {
-        SceneManager.LoadScene("Stage1");
+        SceneManager.LoadScene("Stage3");
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            dialogue.SetActive(true);
+            dialogue2.SetActive(true);
         }
     }
 
@@ -25,8 +26,8 @@ public class acceptQuest : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            dialogue.SetActive(false);
-            acceptQuestMenu.SetActive(false);
+            dialogue2.SetActive(false);
+            acceptQuestMenu2.SetActive(false);
         }
     }
 }
