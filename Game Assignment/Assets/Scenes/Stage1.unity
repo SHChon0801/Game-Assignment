@@ -1307,10 +1307,10 @@ RectTransform:
   m_Father: {fileID: 1581433456}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -594.5, y: 182.5}
-  m_SizeDelta: {x: 236.0981, y: 48.9661}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 118.04904, y: 18.237}
+  m_SizeDelta: {x: 236.0981, y: 36.4741}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &302197621
 GameObject:
@@ -1509,10 +1509,10 @@ RectTransform:
   m_Father: {fileID: 2133962826}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -527.2, y: -18.8}
-  m_SizeDelta: {x: 679.5645, y: 597.8774}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -199, y: -51}
+  m_SizeDelta: {x: 1734.5645, y: 937.8774}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &373848640
 MonoBehaviour:
@@ -19428,6 +19428,7 @@ GameObject:
   - component: {fileID: 643605458}
   - component: {fileID: 643605460}
   - component: {fileID: 643605459}
+  - component: {fileID: 643605461}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -19470,7 +19471,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10.956362
+  orthographic size: 6.8244667
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -19641,6 +19642,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &643605461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643605454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577fc386479a9fc47aeb4c92d772a1dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1593380021}
 --- !u!1 &659978041
 GameObject:
   m_ObjectHideFlags: 0
@@ -19723,7 +19737,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 659978044}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 432287014}
+        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
+        m_MethodName: ExitStage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &659978044
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27475,7 +27501,7 @@ Canvas:
   m_GameObject: {fileID: 1581433455}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -30715,7 +30741,7 @@ Canvas:
   m_GameObject: {fileID: 2133962825}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
