@@ -51,6 +51,7 @@ public class PlayerStat : MonoBehaviour
     {
         healthSlider.value = healthPercentage();
         healthText.text = Mathf.Ceil(health).ToString() + " / " + Mathf.Ceil(maxHealth).ToString();
+        apText.text = Mathf.Ceil(health).ToString() + " / " + Mathf.Ceil(maxHealth).ToString();
     }
 
     private void CheckOverheal()
