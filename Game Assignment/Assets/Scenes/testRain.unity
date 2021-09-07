@@ -215,9 +215,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Oscar
       objectReference: {fileID: 0}
+    - target: {fileID: 6279103954418012761, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_Size.x
+      value: 6.4808607
+      objectReference: {fileID: 0}
+    - target: {fileID: 6279103954418012761, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.4904312
+      objectReference: {fileID: 0}
+    - target: {fileID: 6279103954418012761, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: moveSpeed
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: quest.title
+      value: Help Lily to save her pets!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: quest.isActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7580820767259683092, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: m_RootOrder
@@ -820,7 +840,7 @@ MonoBehaviour:
   hunter: {fileID: 498102132}
   hunterMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1
   hunterLength: 6
   attackDistance: 2
   moveSpeed: 2
@@ -829,6 +849,22 @@ MonoBehaviour:
     lines:
     - Hey, who are you?
     - Step out of my way!
+--- !u!114 &576480075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576480073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d3f218106536c4ba27d31cf583318d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  maxHealth: 100
+  healthBar: {fileID: 1584210905}
+  healthBarSlider: {fileID: 503900455}
 --- !u!1 &603306185
 GameObject:
   m_ObjectHideFlags: 0
@@ -878,12 +914,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 621856562}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 850e2af89b32fe542a93dd258c709a22, type: 3}
+  m_Script: {fileID: 11500000, guid: ee17a997a8b4cec4a86c273c1d9f8ac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialoguebox: {fileID: 0}
-  dialogueText: {fileID: 0}
-  lettersPerSecond: 0
+  player: {fileID: 0}
+  healthText: {fileID: 0}
+  healthSlider: {fileID: 0}
+  apText: {fileID: 0}
+  apSlider: {fileID: 0}
+  health: 0
+  maxHealth: 0
 --- !u!114 &621856566 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
