@@ -48774,6 +48774,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355d3cad8177a19469a54bd5851ac9f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelText: {fileID: 553325730}
+  experienceBarImage: {fileID: 1665892286}
 --- !u!1 &1746535052
 GameObject:
   m_ObjectHideFlags: 0

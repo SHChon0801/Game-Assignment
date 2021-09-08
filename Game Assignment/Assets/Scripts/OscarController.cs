@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class OscarController : MonoBehaviour
 {
+    public TextMeshProUGUI text;
+    public int score = 0;
     public float moveSpeed = 1;
     public Animator animator;
     public int experience = 0;
@@ -14,6 +17,13 @@ public class OscarController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
     public Questing quest;
+
+    public void changeScore(int animalCount)
+    {
+        score += animalCount;
+        text.text = score.ToString();
+        Debug.Log(score);
+    }
 
     public void RescueAnimal()
     {
@@ -56,7 +66,7 @@ public class OscarController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Enemy"))
         {
-            ChaseOscar enemyChase = other.gameObject.GetComponent<ChaseOscar>();
+            ChaseOscar enemyChase = other.GetComponent<ChaseOscar>();
             enemyChase.moveSpeed = 1;
         }else if (other.gameObject.CompareTag("Animal"))
         {
@@ -70,7 +80,7 @@ public class OscarController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Enemy"))
         {
-            ChaseOscar enemyChase = other.gameObject.GetComponent<ChaseOscar>();
+            ChaseOscar enemyChase = other.GetComponent<ChaseOscar>();
             enemyChase.moveSpeed = 0;
         }
         else if (other.gameObject.CompareTag("Animal"))

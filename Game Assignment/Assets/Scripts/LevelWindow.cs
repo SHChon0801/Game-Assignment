@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class LevelWindow : MonoBehaviour
 {
-    private Text levelText;
-    private Image experienceBarImage;
+    public Text levelText;
+    public Image experienceBarImage;
     private LevelSystem levelSystem;
 
     private void Awake()
