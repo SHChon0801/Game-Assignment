@@ -1592,9 +1592,10 @@ GameObject:
   m_Component:
   - component: {fileID: 969032970}
   - component: {fileID: 969032969}
+  - component: {fileID: 969032971}
   m_Layer: 0
   m_Name: food1
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1664,6 +1665,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &969032971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 969032968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b646e266b7cfe4fa566fc7cf03ac10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1005468490
 GameObject:
   m_ObjectHideFlags: 0
@@ -3433,9 +3446,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1927758404}
   - component: {fileID: 1927758403}
+  - component: {fileID: 1927758405}
   m_Layer: 0
   m_Name: food
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3505,6 +3519,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1927758405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927758402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b646e266b7cfe4fa566fc7cf03ac10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2031552210
 GameObject:
   m_ObjectHideFlags: 0

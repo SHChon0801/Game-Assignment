@@ -13,6 +13,9 @@ public class pickItem : MonoBehaviour
             gameObject.SetActive(false);
         }
 
-        if(other.gameObject.CompareTag(""))
+        if(other.gameObject.CompareTag("Food"))
+        {
+            FindObjectOfType<PlayerStat>();
+        }
     }
 }
