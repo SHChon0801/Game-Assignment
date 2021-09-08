@@ -15,5 +15,6 @@ public class playerReceiveDamage : MonoBehaviour
                 other.GetComponent<PlayerStat>().DealDamage(damage);
             }
         }
+
     }
 }

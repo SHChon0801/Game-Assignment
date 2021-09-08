@@ -13,5 +13,6 @@ public class pickItem : MonoBehaviour
             gameObject.SetActive(false);
         }
 
+        if(other.gameObject.CompareTag(""))
     }
 }
