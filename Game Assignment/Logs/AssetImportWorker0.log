@@ -94,3 +94,4 @@ Received Import Request.
 Start importing Assets/Track and Sound/dogbark.ogg using Guid(2be4c5b7f00796f4a9bd2d26349c3449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ec6722f4733205c9e13c67b3b6abab') in 0.022084 seconds 
   Import took 0.029890 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
