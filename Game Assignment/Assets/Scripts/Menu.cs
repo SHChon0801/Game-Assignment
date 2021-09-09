@@ -13,6 +13,7 @@ public class Menu : MonoBehaviour
     public void EndGame()
     {
         Debug.Log("Exit");
+        Time.timeScale = 1f;
         Application.Quit();
     }
 }

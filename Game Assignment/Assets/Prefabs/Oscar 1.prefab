@@ -122,6 +122,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42443dadf6186fd4c8c93483a0b5da08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: {fileID: 0}
+  score: 0
+  levelComplete: {fileID: 0}
   moveSpeed: 10
   animator: {fileID: 6443617402282041256}
   experience: 0
@@ -184,7 +187,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.16239643}
+  m_Offset: {x: 0, y: 0.011121273}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -195,7 +198,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 5.5, y: 11.427221}
+  m_Size: {x: 5.5, y: 14.997352}
   m_EdgeRadius: 0
 --- !u!114 &8203293084388592710
 MonoBehaviour:
@@ -209,7 +212,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee17a997a8b4cec4a86c273c1d9f8ac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameOver: {fileID: 0}
   player: {fileID: 5537359072844676647}
+  shield: {fileID: 0}
   healthText: {fileID: 8203293084563021184}
   healthSlider: {fileID: 8203293083251288961}
   apText: {fileID: 8203293083815097924}

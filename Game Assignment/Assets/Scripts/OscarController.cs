@@ -13,7 +13,19 @@ public class OscarController : MonoBehaviour
     public Animator animator;
     public int experience = 0;
     private Rigidbody2D rb;
+    public AudioClip victorySound;
+    public AudioSource audioSrc;
     // Start is called before the first frame update
+
+    [SerializeField] private LevelWindow levelWindow;
+    LevelSystem levelSystem = new LevelSystem();
+
+
+    private void Awake()
+    {
+        levelWindow.SetLevelSystem(levelSystem);
+    }
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,13 +34,16 @@ public class OscarController : MonoBehaviour
 
     IEnumerator Wait()
     {
+        audioSrc.PlayOneShot(victorySound);
         yield return new WaitForSeconds(4);
+        Time.timeScale = 1f;
         SceneManager.LoadScene("Game");
     }
 
     IEnumerator WaitForEnd()
     {
         yield return new WaitForSeconds(4);
+        Time.timeScale = 1f;
         SceneManager.LoadScene("ending");
     }
 
@@ -40,6 +55,7 @@ public class OscarController : MonoBehaviour
         if (score == 2)
         {
             levelComplete.SetActive(true);
+            levelSystem.AddExperience(30);
             StartCoroutine(Wait());
         }
     }

@@ -17,6 +17,9 @@ public class PlayerStat : MonoBehaviour
     public float maxHealth;
     public float aphealth;
     public float maxAP;
+    public AudioClip hurtSound;
+    public AudioClip gameOverSound;
+    public AudioSource audioSrc;
 
     void Awake()
     {
@@ -39,6 +42,7 @@ public class PlayerStat : MonoBehaviour
 
     public void DealDamage(float damage)
     {
+        audioSrc.PlayOneShot(hurtSound);
         health -= damage;
         CheckDeath();
         setHealUI();
@@ -67,6 +71,12 @@ public class PlayerStat : MonoBehaviour
             health = maxHealth;
         }
     }
+    
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(4);
+        Time.timeScale = 0f;
+    }
 
     private void CheckDeath()
     {
@@ -75,8 +85,9 @@ public class PlayerStat : MonoBehaviour
         {
             Debug.Log("inside");
             health = 0;
-            //Destroy(player);
+            audioSrc.PlayOneShot(gameOverSound);
             gameOver.SetActive(true);
+            Wait();
         }
     }
 

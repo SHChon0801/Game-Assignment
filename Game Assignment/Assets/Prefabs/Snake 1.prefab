@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 4497330221277897818}
   - component: {fileID: 636503387040550115}
   - component: {fileID: 3639339957971335451}
+  - component: {fileID: -5398306170737230764}
   m_Layer: 0
   m_Name: Snake 1
   m_TagString: Enemy
@@ -33,7 +34,7 @@ Transform:
   m_GameObject: {fileID: 2514817952645042136}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 21.03, y: -0.56, z: -3.545348}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.285, y: 1.3164, z: 1}
   m_Children:
   - {fileID: 3639339956875246097}
   - {fileID: 3639339956836520253}
@@ -144,8 +145,8 @@ CapsuleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 10, y: 10}
+  m_Offset: {x: 0, y: -0.2283921}
+  m_Size: {x: 3.6278753, y: 3.5413394}
   m_Direction: 0
 --- !u!114 &4524309244818940407
 MonoBehaviour:
@@ -201,6 +202,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
+--- !u!114 &-5398306170737230764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2514817952645042136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d3f218106536c4ba27d31cf583318d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 0
+  maxHealth: 0
+  score: 0
+  gameOver: {fileID: 0}
+  healthBar: {fileID: 0}
+  healthBarSlider: {fileID: 0}
 --- !u!1 &3639339956406591027
 GameObject:
   m_ObjectHideFlags: 0

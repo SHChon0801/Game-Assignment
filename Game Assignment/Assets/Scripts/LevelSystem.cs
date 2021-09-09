@@ -8,9 +8,9 @@ public class LevelSystem
     public event EventHandler OnExperienceChanged;
     public event EventHandler OnLevelChanged;
 
-    private int level;
-    private int experience;
-    private int experienceToNextLevel;
+    public int level;
+    public int experience;
+    public int experienceToNextLevel;
 
     public LevelSystem()
     {
