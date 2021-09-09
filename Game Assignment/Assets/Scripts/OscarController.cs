@@ -46,6 +46,7 @@ public class OscarController : MonoBehaviour
         animator.SetFloat("Punch", Input.GetAxis("Punch"));
         animator.SetFloat("Run", Input.GetAxis("Run"));
         animator.SetFloat("Attack", Input.GetAxis("Attack"));
+        animator.SetFloat("Defend", Input.GetAxis("Defend"));
 
         if (Input.GetAxis("Run") > 0.1f)
         {

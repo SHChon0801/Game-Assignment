@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class OscarRun : MonoBehaviour
+public class OscarDefend : MonoBehaviour
 {
     public float moveSpeed = 1;
     public Animator animator;
