@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class OscarController : MonoBehaviour
 {
     public TextMeshProUGUI text;
     public int score = 0;
+    public GameObject levelComplete;
     public float moveSpeed = 1;
     public Animator animator;
     public int experience = 0;
@@ -18,11 +20,22 @@ public class OscarController : MonoBehaviour
     }
     public Questing quest;
 
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(4);
+        SceneManager.LoadScene("Game");
+    }
+
     public void changeScore(int animalCount)
     {
         score += animalCount;
         text.text = score.ToString();
         Debug.Log(score);
+        if (score == 2)
+        {
+            levelComplete.SetActive(true);
+            StartCoroutine(Wait());
+        }
     }
 
     public void RescueAnimal()
