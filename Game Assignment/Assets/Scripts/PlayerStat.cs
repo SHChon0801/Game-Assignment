@@ -80,10 +80,8 @@ public class PlayerStat : MonoBehaviour
 
     private void CheckDeath()
     {
-        Debug.Log("outside");
         if(health <= 0)
         {
-            Debug.Log("inside");
             health = 0;
             audioSrc.PlayOneShot(gameOverSound);
             gameOver.SetActive(true);

@@ -3,7 +3,14 @@ guid: 42443dadf6186fd4c8c93483a0b5da08
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - text: {instanceID: 0}
+  - levelComplete: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - victorySound: {instanceID: 0}
+  - collectSound: {fileID: 8300000, guid: 747ba441862ddab4c94e02878e19974c, type: 3}
+  - audioSrc: {instanceID: 0}
+  - levelWindow: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

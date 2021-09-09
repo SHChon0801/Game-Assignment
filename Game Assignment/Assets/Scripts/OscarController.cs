@@ -14,6 +14,7 @@ public class OscarController : MonoBehaviour
     public int experience = 0;
     private Rigidbody2D rb;
     public AudioClip victorySound;
+    public AudioClip collectSound;
     public AudioSource audioSrc;
     // Start is called before the first frame update
 
@@ -49,6 +50,7 @@ public class OscarController : MonoBehaviour
 
     public void changeScore(int animalCount)
     {
+        audioSrc.PlayOneShot(collectSound);
         score += animalCount;
         text.text = score.ToString();
         Debug.Log(score);
@@ -62,6 +64,7 @@ public class OscarController : MonoBehaviour
 
     public void changeScore1(int animalCount)
     {
+        audioSrc.PlayOneShot(collectSound);
         score += animalCount;
         text.text = score.ToString();
         Debug.Log(score);
@@ -74,10 +77,11 @@ public class OscarController : MonoBehaviour
 
     public void changeScore2(int animalCount)
     {
+        audioSrc.PlayOneShot(collectSound);
         score += animalCount;
         text.text = score.ToString();
         Debug.Log(score);
-        if (score == 4)
+        if (score == 8)
         {
             levelComplete.SetActive(true);
             StartCoroutine(WaitForEnd());
