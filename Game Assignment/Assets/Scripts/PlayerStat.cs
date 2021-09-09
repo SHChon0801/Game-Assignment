@@ -75,7 +75,7 @@ public class PlayerStat : MonoBehaviour
         {
             Debug.Log("inside");
             health = 0;
-            Destroy(player);
+            //Destroy(player);
             gameOver.SetActive(true);
         }
     }
