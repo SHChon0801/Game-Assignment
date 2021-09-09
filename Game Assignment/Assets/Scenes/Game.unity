@@ -1400,7 +1400,7 @@ Transform:
   m_LocalScale: {x: 4.3001857, y: 5.526917, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &206340274
 Animator:
@@ -3303,7 +3303,7 @@ Transform:
   m_LocalScale: {x: 4.3001857, y: 5.526917, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &541227344
 GameObject:
@@ -3694,7 +3694,7 @@ Transform:
   m_LocalScale: {x: 3.7831533, y: 4.667711, z: 1.4917156}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &553325728
 GameObject:
@@ -9498,7 +9498,7 @@ Transform:
   m_LocalScale: {x: 4.3001857, y: 5.526917, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &969183262
 GameObject:
@@ -50873,65 +50873,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2084735680}
   m_CullTransparentMesh: 1
---- !u!1 &2090207487
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2090207489}
-  - component: {fileID: 2090207488}
-  - component: {fileID: 2090207490}
-  m_Layer: 0
-  m_Name: Level
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2090207488
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2090207487}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0445b1ea74ab6674da259882bff101ce, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelWindow: {fileID: 1744112960}
---- !u!4 &2090207489
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2090207487}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17.282953, y: -5.228274, z: -46.31468}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2090207490
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2090207487}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65b5db5b27b5c3b44817141bd7a6e3c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dialogue: {fileID: 0}
-  acceptQuestMenu: {fileID: 0}
 --- !u!1 &2108865734
 GameObject:
   m_ObjectHideFlags: 0
@@ -51129,6 +51070,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7017532581217229056, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
+      propertyPath: levelWindow
+      value: 
+      objectReference: {fileID: 1744112960}
     - target: {fileID: 7580820767259683092, guid: e1387a690a8eae44d86551abc7da0b76, type: 3}
       propertyPath: m_RootOrder
       value: 0
