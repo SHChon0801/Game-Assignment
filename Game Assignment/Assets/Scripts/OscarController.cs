@@ -26,6 +26,12 @@ public class OscarController : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    IEnumerator WaitForEnd()
+    {
+        yield return new WaitForSeconds(4);
+        SceneManager.LoadScene("ending");
+    }
+
     public void changeScore(int animalCount)
     {
         score += animalCount;
@@ -58,7 +64,7 @@ public class OscarController : MonoBehaviour
         if (score == 4)
         {
             levelComplete.SetActive(true);
-            StartCoroutine(Wait());
+            StartCoroutine(WaitForEnd());
         }
     }
 
