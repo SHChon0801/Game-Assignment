@@ -1,16 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
-public class TimeSet : MonoBehaviour
+public class TimeSet3 : MonoBehaviour
 {
-    [SerializeField] TimeCountDown timer1;
+    [SerializeField] TimeCountDown timer3;
     // Start is called before the first frame update
     private void Start()
     {
-        timer1.SetDuration(75)
+        timer3.SetDuration(130)
              .Onbegin(() => Debug.Log("Time start"))
              .Onchange(s => Debug.Log("Time change" + s))
              .Onend(() => Debug.Log("Time end"))
@@ -21,6 +19,6 @@ public class TimeSet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
+        
     }
 }
