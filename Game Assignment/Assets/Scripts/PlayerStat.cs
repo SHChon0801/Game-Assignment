@@ -7,6 +7,7 @@ public class PlayerStat : MonoBehaviour
 {
     public static PlayerStat playerstat;
     public GameObject player;
+    public GameObject shield;
     public Text healthText;
     public Slider healthSlider;
     public Text apText;
@@ -15,6 +16,7 @@ public class PlayerStat : MonoBehaviour
     public float maxHealth;
     public float aphealth;
     public float maxAP;
+
 
      void Awake()
     {
@@ -48,6 +50,7 @@ public class PlayerStat : MonoBehaviour
         CheckOverheal();
         setHealUI();
     }
+
 
     private void setHealUI()
     {
