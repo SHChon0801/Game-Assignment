@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 public class PlayerStat : MonoBehaviour
 {
+    public GameObject gameOver;
     public static PlayerStat playerstat;
     public GameObject player;
     public GameObject shield;
@@ -17,8 +18,7 @@ public class PlayerStat : MonoBehaviour
     public float aphealth;
     public float maxAP;
 
-
-     void Awake()
+    void Awake()
     {
         if(playerstat != null)
         {
@@ -75,7 +75,8 @@ public class PlayerStat : MonoBehaviour
         {
             Debug.Log("inside");
             health = 0;
-            Destroy(player);
+            //Destroy(player);
+            gameOver.SetActive(true);
         }
     }
 
