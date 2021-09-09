@@ -1290,7 +1290,6 @@ GameObject:
   - component: {fileID: 206340271}
   - component: {fileID: 206340270}
   - component: {fileID: 206340274}
-  - component: {fileID: 206340275}
   m_Layer: 0
   m_Name: npcStage1
   m_TagString: Untagged
@@ -1422,32 +1421,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &206340275
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 206340269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bfe2204fba52482448f13fc6f53f0848, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  quest:
-    isActive: 0
-    title: 
-    description: 
-    experienceReward: 0
-    goal:
-      goalType: 0
-      requiredAmount: 0
-      currentAmount: 0
-  player: {fileID: 0}
-  questWindow: {fileID: 0}
-  titleText: {fileID: 0}
-  descriptionText: {fileID: 0}
-  experienceText: {fileID: 0}
 --- !u!1 &210247898
 GameObject:
   m_ObjectHideFlags: 0

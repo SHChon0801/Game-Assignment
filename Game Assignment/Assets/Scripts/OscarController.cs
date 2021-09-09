@@ -38,6 +38,30 @@ public class OscarController : MonoBehaviour
         }
     }
 
+    public void changeScore1(int animalCount)
+    {
+        score += animalCount;
+        text.text = score.ToString();
+        Debug.Log(score);
+        if (score == 3)
+        {
+            levelComplete.SetActive(true);
+            StartCoroutine(Wait());
+        }
+    }
+
+    public void changeScore2(int animalCount)
+    {
+        score += animalCount;
+        text.text = score.ToString();
+        Debug.Log(score);
+        if (score == 4)
+        {
+            levelComplete.SetActive(true);
+            StartCoroutine(Wait());
+        }
+    }
+
     public void RescueAnimal()
     {
        if(quest.isActive)
