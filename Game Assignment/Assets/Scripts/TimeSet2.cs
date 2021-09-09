@@ -8,7 +8,7 @@ public class TimeSet2 : MonoBehaviour
     // Start is called before the first frame update
     private void Start()
     {
-        timer2.SetDuration(120)
+        timer2.SetDuration(60)
              .Onbegin(() => Debug.Log("Time start"))
              .Onchange(s => Debug.Log("Time change" + s))
              .Onend(() => Debug.Log("Time end"))

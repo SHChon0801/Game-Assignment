@@ -13,10 +13,5 @@ public class pickItem : MonoBehaviour
             FindObjectOfType<InventorySystem>().PickUp(gameObject);
             gameObject.SetActive(false);
         }
-
-        if (other.gameObject.CompareTag("Food"))
-        {
-            FindObjectOfType<PlayerStat>();
-        }
     }
 }
