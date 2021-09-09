@@ -1392,12 +1392,12 @@ RectTransform:
   - {fileID: 1319206934}
   - {fileID: 1996707261}
   m_Father: {fileID: 432287018}
-  m_RootOrder: 1
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: -0.000030517578}
-  m_SizeDelta: {x: 0.19995117, y: 3.3869019}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &218595198
 Animator:
@@ -18203,11 +18203,11 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1829497578}
-  - {fileID: 218595197}
+  - {fileID: 2016580845}
   - {fileID: 1593547067}
   - {fileID: 520728891}
   - {fileID: 2059639154}
-  - {fileID: 2016580845}
+  - {fileID: 218595197}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -28752,7 +28752,7 @@ RectTransform:
   - {fileID: 122498840}
   - {fileID: 1748439733}
   m_Father: {fileID: 432287018}
-  m_RootOrder: 5
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -29674,5 +29674,9 @@ PrefabInstance:
       propertyPath: m_SpriteTilingProperty.oldSize.x
       value: 5.5
       objectReference: {fileID: 0}
+    - target: {fileID: 8203293084388592710, guid: 973eac7fb37aa6146b7b906551432c76, type: 3}
+      propertyPath: gameOver
+      value: 
+      objectReference: {fileID: 218595196}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 973eac7fb37aa6146b7b906551432c76, type: 3}
